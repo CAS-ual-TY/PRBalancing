@@ -1,0 +1,97 @@
+======================================================================
+DUTCH ARMED FORCES
+======================================================================
+
+  APC                        Boxer PWV                      (5 maps)
+  APC                        CV9035NL                       (5 maps)
+  APC                        YPR 765 PRI/I                  (2 maps)
+  APC                        YPR 765 PRI/I GPMG             (2 maps)
+  Armed Jeep                 Bushmaster PMV CROWS           (4 maps)
+  Armed Jeep                 Fennek VWWRN                   (4 maps)
+  Armed Jeep                 Land Rover Defender 110XD WW   (1 map)
+  Attack Helicopter          AH-64D Apache                  (1 map)
+  Boat                       RHIB                           (1 map)
+  Logistics Truck            DAF YA-4442 Logistics          (8 maps)
+  Support Truck              DAF YA-4442                    (7 maps)
+  Tank                       Leopard 2A6                    (2 maps)
+  Transport Helicopter       CH-47D Chinook                 (5 maps)
+  Transport Helicopter       NH90 TTH                       (2 maps)
+  Transport Jeep             Bushmaster PMV                 (2 maps)
+  Transport Jeep             Mercedes-Benz G280             (6 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - Boxer PWV
+      Ascheberg (Inf)
+      Donbas (Inf)
+      Operation Falcon (Alt/Lrg)
+      Yamalia (Lrg)
+      Zakho - BETA (Std)
+  APC - CV9035NL
+      Donbas (Inf)
+      Operation Falcon (Std/Lrg)
+      Route E-106 (Std)
+      Wanda Shan (Lrg)
+      Yamalia (Lrg)
+  APC - YPR 765 PRI/I
+      Dovre (Inf/Alt)
+      Wanda Shan (Lrg)
+  APC - YPR 765 PRI/I GPMG
+      Donbas (Inf)
+      Route E-106 (Std)
+  Armed Jeep - Bushmaster PMV CROWS
+      Donbas (Inf)
+      Dovre (Std)
+      Operation Falcon (Inf/Alt)
+      Zakho - BETA (Std)
+  Armed Jeep - Fennek VWWRN
+      Ascheberg (Inf)
+      Operation Falcon (Alt/Std/Lrg)
+      Wanda Shan (Lrg)
+      Zakho - BETA (Std)
+  Armed Jeep - Land Rover Defender 110XD WW
+      Dovre (Inf/Alt)
+  Attack Helicopter - AH-64D Apache
+      Wanda Shan (Lrg)
+  Boat - RHIB
+      Dovre (Inf/Alt/Std)
+  Logistics Truck - DAF YA-4442 Logistics
+      Ascheberg (Inf)
+      Donbas (Inf)
+      Dovre (Inf/Alt/Std)
+      Operation Falcon (Inf/Alt/Std/Lrg)
+      Route E-106 (Std)
+      Wanda Shan (Lrg)
+      Yamalia (Lrg)
+      Zakho - BETA (Std)
+  Support Truck - DAF YA-4442
+      Ascheberg (Inf)
+      Donbas (Inf)
+      Dovre (Inf/Alt/Std)
+      Operation Falcon (Inf/Alt/Std/Lrg)
+      Route E-106 (Std)
+      Wanda Shan (Lrg)
+      Yamalia (Lrg)
+  Tank - Leopard 2A6
+      Operation Falcon (Lrg)
+      Wanda Shan (Lrg)
+  Transport Helicopter - CH-47D Chinook
+      Ascheberg (Inf)
+      Donbas (Inf)
+      Operation Falcon (Inf/Alt/Std/Lrg)
+      Wanda Shan (Lrg)
+      Zakho - BETA (Std)
+  Transport Helicopter - NH90 TTH
+      Route E-106 (Std)
+      Yamalia (Lrg)
+  Transport Jeep - Bushmaster PMV
+      Donbas (Inf)
+      Operation Falcon (Inf)
+  Transport Jeep - Mercedes-Benz G280
+      Donbas (Inf)
+      Dovre (Inf/Alt/Std)
+      Operation Falcon (Alt/Std/Lrg)
+      Wanda Shan (Lrg)
+      Yamalia (Lrg)
+      Zakho - BETA (Std)

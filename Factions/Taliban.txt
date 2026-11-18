@@ -1,0 +1,82 @@
+======================================================================
+TALIBAN
+======================================================================
+
+  Car Bomb                   Car Bomb                       (4 maps)
+  Car Bomb                   Suicide Dumpster Truck         (2 maps)
+  Civilian Vehicle           All-Terrain Vehicle            (1 map)
+  Civilian Vehicle           Civilian Car                   (5 maps)
+  Civilian Vehicle           Dirtbike                       (3 maps)
+  Civilian Vehicle           Honda CB500                    (1 map)
+  Logistics Technical        Logistics Technical            (4 maps)
+  Mobile AA                  Ural-4320 ZU-23-2              (3 maps)
+  Support Technical          Support Technical              (4 maps)
+  Support Truck              Zastava 900AK Van              (4 maps)
+  Technical                  DShKM Technical                (4 maps)
+  Technical                  M2HB Technical                 (4 maps)
+  Technical                  Rocket Technical               (3 maps)
+  Technical                  SPG-9 Technical                (4 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Car Bomb - Car Bomb
+      Bamyan (Alt)
+      Kunar Province - BETA (Inf/Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Car Bomb - Suicide Dumpster Truck
+      Bamyan (Alt)
+      Kunar Province - BETA (Alt/Std)
+  Civilian Vehicle - All-Terrain Vehicle
+      Kunar Province - BETA (Inf/Alt/Std)
+  Civilian Vehicle - Civilian Car
+      Bamyan (Alt)
+      Korengal Valley (Std)
+      Kunar Province - BETA (Inf/Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Civilian Vehicle - Dirtbike
+      Kunar Province - BETA (Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Civilian Vehicle - Honda CB500
+      Kunar Province - BETA (Inf/Alt/Std)
+  Logistics Technical - Logistics Technical
+      Bamyan (Alt)
+      Korengal Valley (Std)
+      Kunar Province - BETA (Alt)
+      Musa Qala - BETA (Std)
+  Mobile AA - Ural-4320 ZU-23-2
+      Bamyan (Alt)
+      Kunar Province - BETA (Inf/Alt/Std)
+      Outpost (Alt)
+  Support Technical - Support Technical
+      Korengal Valley (Std)
+      Kunar Province - BETA (Inf/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Support Truck - Zastava 900AK Van
+      Bamyan (Alt)
+      Kunar Province - BETA (Inf/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Technical - DShKM Technical
+      Bamyan (Alt)
+      Kunar Province - BETA (Inf/Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Technical - M2HB Technical
+      Bamyan (Alt)
+      Kunar Province - BETA (Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)
+  Technical - Rocket Technical
+      Bamyan (Alt)
+      Kunar Province - BETA (Alt/Std)
+      Musa Qala - BETA (Std)
+  Technical - SPG-9 Technical
+      Bamyan (Alt)
+      Kunar Province - BETA (Inf/Alt/Std)
+      Musa Qala - BETA (Std)
+      Outpost (Alt)

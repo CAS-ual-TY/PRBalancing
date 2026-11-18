@@ -1,0 +1,60 @@
+======================================================================
+1990S CHECHNYA
+======================================================================
+
+  Armed Jeep                 UAZ-3151                       (2 maps)
+  ATGM Vehicle               9P148 Spandrel                 (1 map)
+  Car Bomb                   Suicide Dumpster Truck         (1 map)
+  Civilian Vehicle           Civilian Car                   (2 maps)
+  IFV                        BMP-1                          (2 maps)
+  Logistics Truck            Ural-4320 Logistics            (2 maps)
+  Mobile AA                  Ural-4320 ZU-23-2              (2 maps)
+  Recon Vehicle              BRDM-2                         (2 maps)
+  Support Truck              Ural-4320                      (2 maps)
+  Support Truck              Zastava 900AK Van              (2 maps)
+  Tank                       T-72A                          (2 maps)
+  Technical                  DShKM Technical                (1 map)
+  Technical                  SPG-9 Technical                (2 maps)
+  Transport Jeep             UAZ-3151 Support               (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Armed Jeep - UAZ-3151
+      Assault on Grozny (Inf/Alt)
+      Grostok (Alt)
+  ATGM Vehicle - 9P148 Spandrel
+      Grostok (Inf)
+  Car Bomb - Suicide Dumpster Truck
+      Assault on Grozny (Alt)
+  Civilian Vehicle - Civilian Car
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Alt)
+  IFV - BMP-1
+      Assault on Grozny (Std/Lrg)
+      Grostok (Inf/Std)
+  Logistics Truck - Ural-4320 Logistics
+      Assault on Grozny (Inf/Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+  Mobile AA - Ural-4320 ZU-23-2
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Alt)
+  Recon Vehicle - BRDM-2
+      Assault on Grozny (Inf)
+      Grostok (Inf/Std)
+  Support Truck - Ural-4320
+      Assault on Grozny (Inf/Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+  Support Truck - Zastava 900AK Van
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Alt)
+  Tank - T-72A
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Std)
+  Technical - DShKM Technical
+      Grostok (Inf)
+  Technical - SPG-9 Technical
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+  Transport Jeep - UAZ-3151 Support
+      Assault on Grozny (Alt/Std/Lrg)

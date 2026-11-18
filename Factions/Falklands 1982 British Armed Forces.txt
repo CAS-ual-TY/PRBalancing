@@ -1,0 +1,48 @@
+======================================================================
+FALKLANDS 1982 BRITISH ARMED FORCES
+======================================================================
+
+  Attack Jet                 Harrier GR.3 CAS GPB           (1 map)
+  Attack Jet                 Harrier GR.3 CAS LGB           (1 map)
+  Attack Jet                 Harrier GR.3 CAS Rockets       (1 map)
+  Attack Jet                 Sea Harrier FRS.1 CAS          (1 map)
+  Fighter Jet                Sea Harrier FRS.1 ASF          (1 map)
+  Logistics Truck            MAN SV Logistics               (2 maps)
+  Recon Vehicle              FV101 Scorpion                 (1 map)
+  Scout Helicopter           Gazelle AH.1                   (2 maps)
+  Ship                       SS Atlantic Conveyor           (1 map)
+  Support Truck              MAN Support Vehicle            (1 map)
+  Transport Helicopter       Wessex HU.5                    (2 maps)
+  Transport Jeep             Land Rover Support             (2 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Attack Jet - Harrier GR.3 CAS GPB
+      The Falklands (Alt/Std)
+  Attack Jet - Harrier GR.3 CAS LGB
+      The Falklands (Alt/Std)
+  Attack Jet - Harrier GR.3 CAS Rockets
+      The Falklands (Alt/Std)
+  Attack Jet - Sea Harrier FRS.1 CAS
+      The Falklands (Alt/Std)
+  Fighter Jet - Sea Harrier FRS.1 ASF
+      The Falklands (Alt/Std)
+  Logistics Truck - MAN SV Logistics
+      Goose Green (Inf/Alt/Std)
+      The Falklands (Inf/Alt/Std)
+  Recon Vehicle - FV101 Scorpion
+      The Falklands (Inf/Alt/Std)
+  Scout Helicopter - Gazelle AH.1
+      Goose Green (Alt)
+      The Falklands (Inf/Alt/Std)
+  Ship - SS Atlantic Conveyor
+      The Falklands (Inf/Alt/Std)
+  Support Truck - MAN Support Vehicle
+      Goose Green (Inf/Alt/Std)
+  Transport Helicopter - Wessex HU.5
+      Goose Green (Inf/Std)
+      The Falklands (Inf/Alt/Std)
+  Transport Jeep - Land Rover Support
+      Goose Green (Inf/Alt/Std)
+      The Falklands (Inf/Alt/Std)

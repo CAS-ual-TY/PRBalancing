@@ -1,0 +1,85 @@
+======================================================================
+WW2 UNITED STATES ARMY
+======================================================================
+
+  APC                        M3A1 Halftrack                 (6 maps)
+  Armed Jeep                 Willys MB-2                    (5 maps)
+  Attack Jet                 P-51D Mustang                  (1 map)
+  Cargo Plane                Douglas C-47 Skytrain          (2 maps)
+  Civilian Vehicle           Buick                          (1 map)
+  Landing Craft              LCVP                           (1 map)
+  Landing Craft              LCVP Logistics                 (1 map)
+  Light Tank                 M10 tank destroyer             (4 maps)
+  Logistics Truck            GMC CCKW Logistics             (6 maps)
+  Mobile AA                  M3A1 Halftrack M45             (1 map)
+  Recon Vehicle              M8 Greyhound                   (4 maps)
+  Support Truck              GMC CCKW                       (5 maps)
+  Tank                       M4A3 75mm                      (4 maps)
+  Tank                       M4A3 75mm DWG                  (1 map)
+  Transport Jeep             Willys MB-2 Support            (5 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M3A1 Halftrack
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std)
+      Merville (Inf/Std)
+      Omaha Beach (Inf/Alt/Std)
+      Reichswald (Inf/Alt/Std)
+  Armed Jeep - Willys MB-2
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std)
+      Fields of Kassel (Std/Lrg)
+      Omaha Beach (Inf)
+      Reichswald (Inf)
+  Attack Jet - P-51D Mustang
+      Fields of Kassel (Alt/Std/Lrg)
+  Cargo Plane - Douglas C-47 Skytrain
+      Fields of Kassel (Lrg)
+      Omaha Beach (Lrg)
+  Civilian Vehicle - Buick
+      Brecourt Assault (Alt)
+  Landing Craft - LCVP
+      Omaha Beach (Alt/Std)
+  Landing Craft - LCVP Logistics
+      Omaha Beach (Alt/Std)
+  Light Tank - M10 tank destroyer
+      Brecourt Assault (Alt)
+      Carentan (Lrg)
+      Fields of Kassel (Std)
+      Reichswald (Alt)
+  Logistics Truck - GMC CCKW Logistics
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Merville (Inf/Std)
+      Omaha Beach (Inf/Alt/Std)
+      Reichswald (Inf/Alt/Std)
+  Mobile AA - M3A1 Halftrack M45
+      Fields of Kassel (Alt/Std/Lrg)
+  Recon Vehicle - M8 Greyhound
+      Brecourt Assault (Alt)
+      Carentan (Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std)
+      Reichswald (Alt/Std)
+  Support Truck - GMC CCKW
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Omaha Beach (Inf)
+      Reichswald (Inf/Alt/Std)
+  Tank - M4A3 75mm
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std)
+      Reichswald (Alt/Std)
+  Tank - M4A3 75mm DWG
+      Omaha Beach (Alt/Std)
+  Transport Jeep - Willys MB-2 Support
+      Brecourt Assault (Alt/Std)
+      Carentan (Std)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Omaha Beach (Inf)
+      Reichswald (Inf/Std)

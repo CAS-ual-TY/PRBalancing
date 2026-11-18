@@ -1,0 +1,105 @@
+======================================================================
+GERMAN FORCES
+======================================================================
+
+  APC                        Puma                           (5 maps)
+  APC                        TPz Fuchs 1A8                  (7 maps)
+  Armed Jeep                 Fennek 1A1 GMW                 (1 map)
+  Armed Jeep                 Fennek 1A1 MG3                 (2 maps)
+  Attack Helicopter          EC 665 UH Tiger                (2 maps)
+  Attack Jet                 Tornado IDS                    (3 maps)
+  IFV                        Puma IFV                       (7 maps)
+  Logistics Truck            MAN SV Logistics               (8 maps)
+  Multirole Jet              Eurofighter Typhoon            (4 maps)
+  Support Truck              MAN Support Vehicle            (8 maps)
+  Tank                       Leopard 2A6                    (6 maps)
+  Transport Helicopter       Bell UH-1D                     (3 maps)
+  Transport Helicopter       NH90 TTH                       (6 maps)
+  Transport Jeep             Mercedes G-Wagen               (7 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - Puma
+      Burning Sands (Lrg)
+      Dovre Winter (Alt/Std)
+      Silent Eagle (Inf)
+      Ulyanovsk (Std)
+      Wanda Shan (Std)
+  APC - TPz Fuchs 1A8
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Dovre Winter (Inf/Alt/Std)
+      Korbach Offensive - BETA (Inf/Alt/Std)
+      Silent Eagle (Inf)
+      Ulyanovsk (Inf/Alt/Std)
+      Wanda Shan (Inf/Std)
+  Armed Jeep - Fennek 1A1 GMW
+      Donbas (Lrg)
+  Armed Jeep - Fennek 1A1 MG3
+      Ascheberg (Std)
+      Donbas (Lrg)
+  Attack Helicopter - EC 665 UH Tiger
+      Silent Eagle (Inf)
+      Wanda Shan (Std)
+  Attack Jet - Tornado IDS
+      Ascheberg (Std)
+      Korbach Offensive - BETA (Alt/Std)
+      Silent Eagle (Std)
+  IFV - Puma IFV
+      Ascheberg (Std)
+      Donbas (Lrg)
+      Dovre Winter (Alt/Std)
+      Korbach Offensive - BETA (Inf/Alt/Std/Lrg)
+      Silent Eagle (Std)
+      Ulyanovsk (Alt/Std)
+      Wanda Shan (Std)
+  Logistics Truck - MAN SV Logistics
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Donbas (Lrg)
+      Dovre Winter (Inf/Alt/Std)
+      Korbach Offensive - BETA (Inf/Alt/Std/Lrg)
+      Silent Eagle (Inf/Std)
+      Ulyanovsk (Inf/Alt/Std)
+      Wanda Shan (Inf/Std)
+  Multirole Jet - Eurofighter Typhoon
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Korbach Offensive - BETA (Alt/Std/Lrg)
+      Silent Eagle (Std)
+  Support Truck - MAN Support Vehicle
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Donbas (Lrg)
+      Dovre Winter (Inf/Alt/Std)
+      Korbach Offensive - BETA (Inf/Alt/Std/Lrg)
+      Silent Eagle (Inf/Std)
+      Ulyanovsk (Inf/Alt/Std)
+      Wanda Shan (Inf/Std)
+  Tank - Leopard 2A6
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Donbas (Lrg)
+      Korbach Offensive - BETA (Inf/Alt/Std/Lrg)
+      Silent Eagle (Std)
+      Wanda Shan (Std)
+  Transport Helicopter - Bell UH-1D
+      Burning Sands (Lrg)
+      Dovre Winter (Inf/Alt/Std)
+      Wanda Shan (Inf)
+  Transport Helicopter - NH90 TTH
+      Ascheberg (Std)
+      Burning Sands (Lrg)
+      Donbas (Lrg)
+      Korbach Offensive - BETA (Alt/Std/Lrg)
+      Silent Eagle (Inf/Std)
+      Wanda Shan (Inf/Std)
+  Transport Jeep - Mercedes G-Wagen
+      Ascheberg (Std)
+      Donbas (Lrg)
+      Dovre Winter (Inf/Alt/Std)
+      Korbach Offensive - BETA (Inf/Alt/Std/Lrg)
+      Silent Eagle (Inf/Std)
+      Ulyanovsk (Inf/Alt/Std)
+      Wanda Shan (Inf/Std)

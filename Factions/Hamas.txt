@@ -1,0 +1,40 @@
+======================================================================
+HAMAS
+======================================================================
+
+  Car Bomb                   Car Bomb                       (2 maps)
+  Civilian Vehicle           Civilian Car                   (2 maps)
+  Civilian Vehicle           Dirtbike                       (1 map)
+  Logistics Technical        Logistics Technical            (2 maps)
+  Support Technical          Support Technical              (1 map)
+  Support Truck              Zastava 900AK Van              (2 maps)
+  Technical                  DShKM Technical                (2 maps)
+  Technical                  M2HB Technical                 (1 map)
+  Technical                  SPG-9 Technical                (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Car Bomb - Car Bomb
+      Asad Khal (Std)
+      Gaza (Std)
+  Civilian Vehicle - Civilian Car
+      Asad Khal (Std)
+      Gaza (Inf/Std)
+  Civilian Vehicle - Dirtbike
+      Gaza (Inf/Std)
+  Logistics Technical - Logistics Technical
+      Asad Khal (Std)
+      Gaza (Inf/Std)
+  Support Technical - Support Technical
+      Gaza (Inf/Std)
+  Support Truck - Zastava 900AK Van
+      Asad Khal (Std)
+      Gaza (Inf/Std)
+  Technical - DShKM Technical
+      Asad Khal (Std)
+      Gaza (Inf/Std)
+  Technical - M2HB Technical
+      Gaza (Inf/Std)
+  Technical - SPG-9 Technical
+      Gaza (Std)

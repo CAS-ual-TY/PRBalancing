@@ -1,0 +1,83 @@
+======================================================================
+WW2 EARLY RED ARMY
+======================================================================
+
+  APC                        M3A1 Halftrack                 (6 maps)
+  Attack Jet                 IL-2                           (2 maps)
+  Fighter Jet                LA5FN                          (1 map)
+  Light Tank                 BT-7                           (5 maps)
+  Logistics Truck            ZIS-5V Logistics               (6 maps)
+  Mobile AA                  M3A1 Halftrack M45             (3 maps)
+  Multirole Jet              I-16                           (3 maps)
+  Recon Vehicle              BA-6                           (6 maps)
+  Recon Vehicle              BA-64                          (6 maps)
+  Support Truck              ZIS-5V                         (6 maps)
+  Tank                       T-34 mod.1941                  (5 maps)
+  Transport Jeep             Willys MB-2 Support            (2 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M3A1 Halftrack
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Attack Jet - IL-2
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Std)
+  Fighter Jet - LA5FN
+      Operation Brunswick (Alt)
+  Light Tank - BT-7
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Std)
+      Stalingrad (Inf)
+      Stalingrad Summer (Inf/Alt)
+  Logistics Truck - ZIS-5V Logistics
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Mobile AA - M3A1 Halftrack M45
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt/Std)
+  Multirole Jet - I-16
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt/Std)
+  Recon Vehicle - BA-6
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Recon Vehicle - BA-64
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Std)
+      Rzhev (Std)
+      Stalingrad (Alt/Std)
+      Stalingrad Summer (Std)
+  Support Truck - ZIS-5V
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Tank - T-34 mod.1941
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Alt/Std)
+      Stalingrad Summer (Std)
+  Transport Jeep - Willys MB-2 Support
+      Belyaevo (Alt/Std)
+      Rzhev (Std)

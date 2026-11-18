@@ -1,0 +1,89 @@
+======================================================================
+WW2 EARLY WEHRMACHT
+======================================================================
+
+  APC                        SdKfz 251C                     (6 maps)
+  Attack Jet                 Ju-87B Stuka                   (2 maps)
+  Landing Craft              LCVP                           (1 map)
+  Light Tank                 Panzer III Ausf. J             (4 maps)
+  Light Tank                 Stug III Ausf. B               (3 maps)
+  Logistics Truck            Opel Blitz Logistics           (6 maps)
+  Mobile AA                  Opel Blitz Flak 38             (3 maps)
+  Multirole Jet              Messerschmitt Bf-109           (3 maps)
+  Recon Vehicle              SdKfz 231                      (6 maps)
+  Recon Vehicle              SdKfz 233 Stummel              (3 maps)
+  Support Truck              Opel Blitz                     (6 maps)
+  Tank                       Panzer IV Ausf. D              (5 maps)
+  Tank                       Panzer IV Ausf. F2             (3 maps)
+  Transport Jeep             Kubelwagen                     (2 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - SdKfz 251C
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Attack Jet - Ju-87B Stuka
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Std)
+  Landing Craft - LCVP
+      Battle of Kerch (Std)
+  Light Tank - Panzer III Ausf. J
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Stalingrad (Inf/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Light Tank - Stug III Ausf. B
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Stalingrad (Alt)
+  Logistics Truck - Opel Blitz Logistics
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Mobile AA - Opel Blitz Flak 38
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt/Std)
+  Multirole Jet - Messerschmitt Bf-109
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt/Std)
+  Recon Vehicle - SdKfz 231
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Recon Vehicle - SdKfz 233 Stummel
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf)
+      Rzhev (Std)
+  Support Truck - Opel Blitz
+      Battle of Kerch (Std)
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Inf/Alt/Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Alt/Std)
+      Stalingrad Summer (Inf/Alt/Std)
+  Tank - Panzer IV Ausf. D
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Std)
+      Rzhev (Std)
+      Stalingrad (Inf/Std)
+      Stalingrad Summer (Inf/Std)
+  Tank - Panzer IV Ausf. F2
+      Belyaevo (Alt/Std)
+      Operation Brunswick (Alt)
+      Stalingrad Summer (Alt)
+  Transport Jeep - Kubelwagen
+      Belyaevo (Alt/Std)
+      Rzhev (Std)

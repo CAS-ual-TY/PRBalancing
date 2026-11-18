@@ -1,0 +1,93 @@
+======================================================================
+CANADIAN FORCES
+======================================================================
+
+  APC                        LAV-3                          (8 maps)
+  Armed Jeep                 Mercedes G-Wagen               (6 maps)
+  Armed Transport Helicopter CH-146 Griffon CAS             (1 map)
+  Boat                       RHIB                           (1 map)
+  Logistics Truck            MLVW Logistics                 (8 maps)
+  Mobile AA                  AN/TWQ-1 Avenger               (1 map)
+  Multirole Jet              CF-188A Hornet                 (3 maps)
+  Recon Vehicle              Coyote Recon Vehicle           (3 maps)
+  Support Truck              MLVW                           (6 maps)
+  Tank                       Leopard 2A6                    (5 maps)
+  Transport Helicopter       CH-146 Griffon                 (4 maps)
+  Transport Helicopter       CH-147F Chinook                (7 maps)
+  Transport Jeep             Mercedes G-Wagen Support       (6 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - LAV-3
+      Bamyan (Lrg)
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Alt)
+      Shahadah (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+      Yamalia (Std)
+  Armed Jeep - Mercedes G-Wagen
+      Bamyan (Lrg)
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Shahadah (Alt)
+      Shijia Valley (Lrg)
+      Yamalia (Inf)
+  Armed Transport Helicopter - CH-146 Griffon CAS
+      Icebreaker (Lrg)
+  Boat - RHIB
+      Icebreaker (Lrg)
+  Logistics Truck - MLVW Logistics
+      Bamyan (Lrg)
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Alt)
+      Shahadah (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+      Yamalia (Inf/Std)
+  Mobile AA - AN/TWQ-1 Avenger
+      Kashan Desert (Alt)
+  Multirole Jet - CF-188A Hornet
+      Bamyan (Lrg)
+      Kashan Desert (Alt)
+      Silent Eagle (Lrg)
+  Recon Vehicle - Coyote Recon Vehicle
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Yamalia (Std)
+  Support Truck - MLVW
+      Bamyan (Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+      Yamalia (Inf/Std)
+  Tank - Leopard 2A6
+      Bamyan (Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+  Transport Helicopter - CH-146 Griffon
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Silent Eagle (Lrg)
+      Yamalia (Inf/Std)
+  Transport Helicopter - CH-147F Chinook
+      Bamyan (Lrg)
+      Icebreaker (Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+      Yamalia (Inf/Std)
+  Transport Jeep - Mercedes G-Wagen Support
+      Icebreaker (Lrg)
+      Operation Marlin (Alt)
+      Shahadah (Alt)
+      Shijia Valley (Lrg)
+      Silent Eagle (Lrg)
+      Yamalia (Inf/Std)

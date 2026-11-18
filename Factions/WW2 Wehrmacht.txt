@@ -1,0 +1,96 @@
+======================================================================
+WW2 WEHRMACHT
+======================================================================
+
+  APC                        SdKfz 251C                     (7 maps)
+  Attack Jet                 Ju-87B Stuka                   (2 maps)
+  Civilian Vehicle           Buick                          (2 maps)
+  Light Tank                 Panzer III Ausf. J             (1 map)
+  Light Tank                 Stug III Ausf. B               (2 maps)
+  Logistics Truck            Opel Blitz Logistics           (8 maps)
+  Mobile AA                  Opel Blitz Flak 38             (3 maps)
+  Multirole Jet              Messerschmitt Bf-109           (3 maps)
+  Recon Vehicle              SdKfz 231                      (6 maps)
+  Recon Vehicle              SdKfz 233 Stummel              (3 maps)
+  Support Truck              Opel Blitz                     (8 maps)
+  Tank                       Panzer IV Ausf. D              (2 maps)
+  Tank                       Panzer IV Ausf. F2             (5 maps)
+  Tank                       Panzer V Panther Ausf. A       (1 map)
+  Transport Jeep             Kubelwagen                     (5 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - SdKfz 251C
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Omaha Beach (Inf/Lrg)
+      Reichswald (Inf/Alt/Std)
+  Attack Jet - Ju-87B Stuka
+      Battle of Debrecen (Std)
+      Fields of Kassel (Std)
+  Civilian Vehicle - Buick
+      Brecourt Assault (Std)
+      Carentan (Std/Lrg)
+  Light Tank - Panzer III Ausf. J
+      Brecourt Assault (Alt)
+  Light Tank - Stug III Ausf. B
+      Battle of Kerch (Alt)
+      Carentan (Lrg)
+  Logistics Truck - Opel Blitz Logistics
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Merville (Inf/Std)
+      Omaha Beach (Inf/Lrg)
+      Reichswald (Inf/Alt/Std)
+  Mobile AA - Opel Blitz Flak 38
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+      Fields of Kassel (Alt/Std/Lrg)
+  Multirole Jet - Messerschmitt Bf-109
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+      Fields of Kassel (Alt/Std/Lrg)
+  Recon Vehicle - SdKfz 231
+      Battle of Debrecen (Std)
+      Battle of Kerch (Lrg)
+      Brecourt Assault (Alt)
+      Carentan (Alt/Lrg)
+      Fields of Kassel (Inf/Alt/Std)
+      Reichswald (Std)
+  Recon Vehicle - SdKfz 233 Stummel
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt)
+      Fields of Kassel (Alt/Std)
+  Support Truck - Opel Blitz
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt/Std/Lrg)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Merville (Inf/Std)
+      Omaha Beach (Inf/Alt/Std/Lrg)
+      Reichswald (Inf/Alt/Std)
+  Tank - Panzer IV Ausf. D
+      Brecourt Assault (Alt)
+      Carentan (Std/Lrg)
+  Tank - Panzer IV Ausf. F2
+      Battle of Kerch (Lrg)
+      Brecourt Assault (Alt)
+      Carentan (Alt)
+      Fields of Kassel (Inf/Alt/Std)
+      Reichswald (Alt/Std)
+  Tank - Panzer V Panther Ausf. A
+      Battle of Debrecen (Std)
+  Transport Jeep - Kubelwagen
+      Brecourt Assault (Alt/Std)
+      Carentan (Alt)
+      Fields of Kassel (Inf/Alt/Std/Lrg)
+      Omaha Beach (Inf/Alt/Std/Lrg)
+      Reichswald (Inf/Std)

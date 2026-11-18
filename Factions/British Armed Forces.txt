@@ -1,0 +1,145 @@
+======================================================================
+BRITISH ARMED FORCES
+======================================================================
+
+  APC                        FV 510 Warrior                 (8 maps)
+  Armed Jeep                 Land Rover                     (6 maps)
+  Armed Jeep                 Land Rover GMG                 (4 maps)
+  Armed Jeep                 Panther CLV                    (9 maps)
+  Attack Helicopter          Apache AH1                     (2 maps)
+  Attack Jet                 Tornado GR4                    (1 map)
+  Boat                       RHIB                           (2 maps)
+  Fighter Jet                Harrier GR.9 ASF               (1 map)
+  Logistics Truck            MAN SV Logistics               (9 maps)
+  Mobile AA                  Stormer HVM                    (5 maps)
+  Multirole Jet              Eurofighter Typhoon            (2 maps)
+  Multirole Jet              Harrier GR.9                   (1 map)
+  Recon Vehicle              FV 107 Scimitar                (8 maps)
+  Support Truck              MAN Support Vehicle            (9 maps)
+  Tank                       FV4034 Challenger 2            (7 maps)
+  Transport Helicopter       Chinook HC.4                   (6 maps)
+  Transport Helicopter       Lynx AH.7                      (1 map)
+  Transport Helicopter       Lynx AH.9A                     (5 maps)
+  Transport Helicopter       Merlin HC3                     (5 maps)
+  Transport Jeep             Land Rover Support             (6 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - FV 510 Warrior
+      Ascheberg (Lrg)
+      Burning Sands (Alt/Std)
+      Dragon Fly (Alt/Std)
+      Fools Road (Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Shijia Valley (Alt/Std)
+      Vadso City (Inf/Std)
+  Armed Jeep - Land Rover
+      Burning Sands (Inf/Alt/Std)
+      Dragon Fly (Inf/Alt)
+      Fools Road (Inf/Alt/Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Shijia Valley (Inf)
+  Armed Jeep - Land Rover GMG
+      Burning Sands (Inf/Alt/Std)
+      Dragon Fly (Inf)
+      Fools Road (Inf/Std/Lrg)
+      Musa Qala - BETA (Std)
+  Armed Jeep - Panther CLV
+      Ascheberg (Lrg)
+      Burning Sands (Std)
+      Dragon Fly (Std)
+      Fools Road (Inf/Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Route E-106 (Lrg)
+      Shijia Valley (Inf/Alt/Std)
+      Vadso City (Inf/Std)
+  Attack Helicopter - Apache AH1
+      Burning Sands (Std)
+      Vadso City (Std)
+  Attack Jet - Tornado GR4
+      Hades Peak (Std)
+  Boat - RHIB
+      Operation Soul Rebel (Inf/Std)
+      Vadso City (Inf/Std)
+  Fighter Jet - Harrier GR.9 ASF
+      Operation Soul Rebel (Std)
+  Logistics Truck - MAN SV Logistics
+      Ascheberg (Lrg)
+      Burning Sands (Inf/Alt/Std)
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Alt/Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Route E-106 (Lrg)
+      Shijia Valley (Inf/Alt/Std)
+      Vadso City (Inf/Std)
+  Mobile AA - Stormer HVM
+      Ascheberg (Lrg)
+      Burning Sands (Std)
+      Hades Peak (Std)
+      Shijia Valley (Std)
+      Vadso City (Std)
+  Multirole Jet - Eurofighter Typhoon
+      Ascheberg (Lrg)
+      Hades Peak (Std)
+  Multirole Jet - Harrier GR.9
+      Operation Soul Rebel (Std)
+  Recon Vehicle - FV 107 Scimitar
+      Ascheberg (Lrg)
+      Burning Sands (Inf/Alt/Std)
+      Dragon Fly (Std)
+      Fools Road (Alt)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Route E-106 (Lrg)
+      Shijia Valley (Alt/Std)
+  Support Truck - MAN Support Vehicle
+      Ascheberg (Lrg)
+      Burning Sands (Inf/Alt)
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Alt/Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Route E-106 (Lrg)
+      Shijia Valley (Inf/Alt/Std)
+      Vadso City (Inf/Std)
+  Tank - FV4034 Challenger 2
+      Ascheberg (Lrg)
+      Burning Sands (Std)
+      Dragon Fly (Std)
+      Fools Road (Std/Lrg)
+      Hades Peak (Std)
+      Shijia Valley (Alt/Std)
+      Vadso City (Std)
+  Transport Helicopter - Chinook HC.4
+      Burning Sands (Alt/Std)
+      Fools Road (Alt)
+      Hades Peak (Std)
+      Operation Soul Rebel (Inf/Std)
+      Shijia Valley (Inf/Alt/Std)
+      Vadso City (Inf/Std)
+  Transport Helicopter - Lynx AH.7
+      Operation Soul Rebel (Inf/Std)
+  Transport Helicopter - Lynx AH.9A
+      Burning Sands (Std)
+      Dragon Fly (Inf/Alt/Std)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Shijia Valley (Inf)
+  Transport Helicopter - Merlin HC3
+      Ascheberg (Lrg)
+      Burning Sands (Alt)
+      Operation Soul Rebel (Inf/Std)
+      Route E-106 (Lrg)
+      Vadso City (Inf/Std)
+  Transport Jeep - Land Rover Support
+      Ascheberg (Lrg)
+      Fools Road (Inf/Alt/Std/Lrg)
+      Hades Peak (Std)
+      Musa Qala - BETA (Std)
+      Shijia Valley (Inf/Alt/Std)
+      Vadso City (Inf/Std)

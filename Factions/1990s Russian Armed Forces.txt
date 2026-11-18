@@ -1,0 +1,62 @@
+======================================================================
+1990S RUSSIAN ARMED FORCES
+======================================================================
+
+  APC                        BMP-2                          (2 maps)
+  APC                        BTR-60PB                       (1 map)
+  APC                        BTR-80                         (2 maps)
+  APC                        MT-LB                          (3 maps)
+  APC                        MT-LBVMK                       (2 maps)
+  Attack Helicopter          Mi-24V Hind-E                  (2 maps)
+  IFV                        BMP-1                          (1 map)
+  Logistics Truck            Ural-4320 Logistics            (3 maps)
+  Mobile AA                  ZSU-23-4 Shilka                (1 map)
+  Recon Vehicle              BRDM-2                         (1 map)
+  Support Truck              Ural-4320                      (3 maps)
+  Tank                       T-72A                          (1 map)
+  Tank                       T-72B1                         (3 maps)
+  Transport Helicopter       Mi-8MT Hip-C                   (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - BMP-2
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Inf/Std)
+  APC - BTR-60PB
+      Krivaja Valley (Std/Lrg)
+  APC - BTR-80
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+  APC - MT-LB
+      Assault on Grozny (Alt/Std)
+      Grostok (Inf/Alt/Std)
+      Krivaja Valley (Std)
+  APC - MT-LBVMK
+      Assault on Grozny (Inf)
+      Krivaja Valley (Std/Lrg)
+  Attack Helicopter - Mi-24V Hind-E
+      Assault on Grozny (Lrg)
+      Krivaja Valley (Lrg)
+  IFV - BMP-1
+      Assault on Grozny (Lrg)
+  Logistics Truck - Ural-4320 Logistics
+      Assault on Grozny (Inf/Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+      Krivaja Valley (Std/Lrg)
+  Mobile AA - ZSU-23-4 Shilka
+      Assault on Grozny (Lrg)
+  Recon Vehicle - BRDM-2
+      Krivaja Valley (Lrg)
+  Support Truck - Ural-4320
+      Assault on Grozny (Inf/Alt/Std/Lrg)
+      Grostok (Inf/Alt/Std)
+      Krivaja Valley (Std/Lrg)
+  Tank - T-72A
+      Assault on Grozny (Lrg)
+  Tank - T-72B1
+      Assault on Grozny (Alt/Std/Lrg)
+      Grostok (Std)
+      Krivaja Valley (Std/Lrg)
+  Transport Helicopter - Mi-8MT Hip-C
+      Krivaja Valley (Lrg)

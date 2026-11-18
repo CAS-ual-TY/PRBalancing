@@ -1,0 +1,51 @@
+======================================================================
+WW2 RED ARMY
+======================================================================
+
+  APC                        M3A1 Halftrack                 (2 maps)
+  Attack Jet                 IL-2                           (1 map)
+  Fighter Jet                LA5FN                          (2 maps)
+  Landing Craft              LCVP                           (1 map)
+  Landing Craft              LCVP Logistics                 (1 map)
+  Logistics Truck            ZIS-5V Logistics               (2 maps)
+  Mobile AA                  M3A1 Halftrack M45             (2 maps)
+  Recon Vehicle              BA-6                           (2 maps)
+  Recon Vehicle              BA-64                          (2 maps)
+  Support Truck              ZIS-5V                         (2 maps)
+  Tank                       T-34 mod.1941                  (1 map)
+  Tank                       T-34-85                        (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M3A1 Halftrack
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+  Attack Jet - IL-2
+      Battle of Debrecen (Std)
+  Fighter Jet - LA5FN
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+  Landing Craft - LCVP
+      Battle of Kerch (Alt)
+  Landing Craft - LCVP Logistics
+      Battle of Kerch (Alt)
+  Logistics Truck - ZIS-5V Logistics
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+  Mobile AA - M3A1 Halftrack M45
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+  Recon Vehicle - BA-6
+      Battle of Debrecen (Std)
+      Battle of Kerch (Lrg)
+  Recon Vehicle - BA-64
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt)
+  Support Truck - ZIS-5V
+      Battle of Debrecen (Std)
+      Battle of Kerch (Alt/Lrg)
+  Tank - T-34 mod.1941
+      Battle of Kerch (Alt/Lrg)
+  Tank - T-34-85
+      Battle of Debrecen (Std)

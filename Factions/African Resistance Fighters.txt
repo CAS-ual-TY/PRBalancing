@@ -1,0 +1,49 @@
+======================================================================
+AFRICAN RESISTANCE FIGHTERS
+======================================================================
+
+  Civilian Vehicle           All-Terrain Vehicle            (1 map)
+  Civilian Vehicle           Civilian Car                   (2 maps)
+  Civilian Vehicle           Dirtbike                       (1 map)
+  Civilian Vehicle           Honda CB500                    (1 map)
+  Logistics Technical        Logistics Technical            (2 maps)
+  Mobile AA                  Ural-4320 ZU-23-2              (1 map)
+  Support Technical          Support Technical              (1 map)
+  Support Truck              Zastava 900AK Van              (2 maps)
+  Tank                       T-55                           (1 map)
+  Technical                  DShKM Technical                (2 maps)
+  Technical                  M2HB Technical                 (2 maps)
+  Technical                  SPG-9 Technical                (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Civilian Vehicle - All-Terrain Vehicle
+      Sahel (Inf/Std)
+  Civilian Vehicle - Civilian Car
+      Ramiel (Std)
+      Sahel (Inf/Std)
+  Civilian Vehicle - Dirtbike
+      Sahel (Inf/Std)
+  Civilian Vehicle - Honda CB500
+      Ramiel (Std)
+  Logistics Technical - Logistics Technical
+      Ramiel (Std)
+      Sahel (Inf/Std)
+  Mobile AA - Ural-4320 ZU-23-2
+      Sahel (Std)
+  Support Technical - Support Technical
+      Sahel (Inf/Std)
+  Support Truck - Zastava 900AK Van
+      Ramiel (Std)
+      Sahel (Inf/Std)
+  Tank - T-55
+      Sahel (Std)
+  Technical - DShKM Technical
+      Ramiel (Std)
+      Sahel (Inf/Std)
+  Technical - M2HB Technical
+      Ramiel (Std)
+      Sahel (Inf/Std)
+  Technical - SPG-9 Technical
+      Ramiel (Std)

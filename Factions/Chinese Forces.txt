@@ -1,0 +1,178 @@
+======================================================================
+CHINESE FORCES
+======================================================================
+
+  APC                        ZBL-08                         (7 maps)
+  APC                        ZSL-92 25mm                    (8 maps)
+  APC                        ZSL-92A                        (4 maps)
+  Armed Jeep                 Dongfeng Mengshi CSK131        (6 maps)
+  Armed Jeep                 Norinco FAV                    (2 maps)
+  ATGM Vehicle               WZ550                          (2 maps)
+  Attack Helicopter          Z-10                           (3 maps)
+  Attack Jet                 Q-5 Fantan                     (1 map)
+  Attack Jet                 Su-30MKK Flanker-G             (1 map)
+  Boat                       Landing Boat                   (3 maps)
+  Boat                       RHIB                           (2 maps)
+  Civilian Vehicle           All-Terrain Vehicle            (1 map)
+  IFV                        ZBD-86A                        (2 maps)
+  IFV                        ZSL-92B 30mm                   (1 map)
+  Light Attack Helicopter    Z-9WA Haitun 23mm              (2 maps)
+  Light Attack Helicopter    Z-9WA Haitun HF-25             (3 maps)
+  Light Attack Helicopter    Z-9WA Haitun HF7D              (4 maps)
+  Light Attack Helicopter    Z-9WA Haitun HJ-8              (3 maps)
+  Light Tank                 ZTL-11                         (5 maps)
+  Logistics Truck            Dongfeng EQ1108 Logistics      (11 maps)
+  Mobile AA                  PGZ-04 SPAAG                   (1 map)
+  Multirole Jet              J-10 Firebird                  (1 map)
+  Multirole Jet              J-11B Flanker-L                (1 map)
+  Recon Vehicle              VN-3                           (3 maps)
+  Support Truck              Dongfeng EQ1108                (9 maps)
+  Tank                       ZTZ-99 II                      (5 maps)
+  Transport Helicopter       Mi-17 Hip-H                    (3 maps)
+  Transport Helicopter       Z-8KA                          (6 maps)
+  Transport Helicopter       Zhi-9B                         (6 maps)
+  Transport Jeep             Dongfeng Mengshi CSK131 Support (4 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - ZBL-08
+      Adak - BETA (Lrg)
+      Bamyan (Lrg)
+      Black Gold (Alt/Lrg)
+      Operation Bobcat  (Std)
+      Ras el Masri (Std)
+      Shijia Valley (Alt/Std)
+      Wanda Shan (Alt/Std/Lrg)
+  APC - ZSL-92 25mm
+      Adak - BETA (Std)
+      Bamyan (Lrg)
+      Operation Barracuda (Std)
+      Operation Bobcat  (Alt/Std/Lrg)
+      Ras el Masri (Std)
+      Shijia Valley (Alt/Std/Lrg)
+      Wanda Shan (Std)
+      Xiangshan (Alt/Std)
+  APC - ZSL-92A
+      Adak - BETA (Std/Lrg)
+      Operation Barracuda (Std)
+      Sahel (Alt)
+      Xiangshan (Inf/Std)
+  Armed Jeep - Dongfeng Mengshi CSK131
+      Adak - BETA (Std/Lrg)
+      Bamyan (Lrg)
+      Ras el Masri (Std)
+      Shijia Valley (Inf/Std/Lrg)
+      Wanda Shan (Inf/Alt/Std/Lrg)
+      Xiangshan (Alt)
+  Armed Jeep - Norinco FAV
+      Black Gold (Alt)
+      Sahel (Alt)
+  ATGM Vehicle - WZ550
+      Black Gold (Alt/Std/Lrg)
+      Xiangshan (Alt)
+  Attack Helicopter - Z-10
+      Black Gold (Lrg)
+      Operation Bobcat  (Alt)
+      Wanda Shan (Lrg)
+  Attack Jet - Q-5 Fantan
+      Black Gold (Lrg)
+  Attack Jet - Su-30MKK Flanker-G
+      Black Gold (Std)
+  Boat - Landing Boat
+      Adak - BETA (Std/Lrg)
+      Operation Bobcat  (Inf/Alt/Std/Lrg)
+      Xiangshan (Inf/Alt/Std)
+  Boat - RHIB
+      Adak - BETA (Std/Lrg)
+      Ras el Masri (Std)
+  Civilian Vehicle - All-Terrain Vehicle
+      Sahel (Alt)
+  IFV - ZBD-86A
+      Black Gold (Inf/Std)
+      Xiangshan (Std)
+  IFV - ZSL-92B 30mm
+      Adak - BETA (Std)
+  Light Attack Helicopter - Z-9WA Haitun 23mm
+      Adak - BETA (Lrg)
+      Black Gold (Alt)
+  Light Attack Helicopter - Z-9WA Haitun HF-25
+      Adak - BETA (Lrg)
+      Operation Bobcat  (Lrg)
+      Shijia Valley (Std)
+  Light Attack Helicopter - Z-9WA Haitun HF7D
+      Adak - BETA (Std/Lrg)
+      Operation Bobcat  (Lrg)
+      Ras el Masri (Std)
+      Wanda Shan (Alt)
+  Light Attack Helicopter - Z-9WA Haitun HJ-8
+      Black Gold (Alt)
+      Wanda Shan (Std)
+      Xiangshan (Std)
+  Light Tank - ZTL-11
+      Black Gold (Alt/Lrg)
+      Ras el Masri (Std)
+      Sahel (Alt)
+      Wanda Shan (Alt/Std)
+      Xiangshan (Std)
+  Logistics Truck - Dongfeng EQ1108 Logistics
+      Adak - BETA (Std/Lrg)
+      Bamyan (Lrg)
+      Black Gold (Inf/Alt/Std/Lrg)
+      Operation Barracuda (Inf/Std)
+      Operation Bobcat  (Inf/Alt/Std/Lrg)
+      Ras el Masri (Std)
+      Sahel (Alt)
+      Shijia Valley (Inf/Alt/Std/Lrg)
+      Tad Sae Offensive (Inf/Std)
+      Wanda Shan (Inf/Alt/Std/Lrg)
+      Xiangshan (Inf/Alt/Std)
+  Mobile AA - PGZ-04 SPAAG
+      Black Gold (Std/Lrg)
+  Multirole Jet - J-10 Firebird
+      Bamyan (Lrg)
+  Multirole Jet - J-11B Flanker-L
+      Black Gold (Std)
+  Recon Vehicle - VN-3
+      Black Gold (Inf/Alt/Std/Lrg)
+      Shijia Valley (Inf/Alt)
+      Wanda Shan (Alt/Lrg)
+  Support Truck - Dongfeng EQ1108
+      Adak - BETA (Std)
+      Bamyan (Lrg)
+      Black Gold (Inf/Alt/Std/Lrg)
+      Operation Barracuda (Inf/Std)
+      Ras el Masri (Std)
+      Sahel (Alt)
+      Shijia Valley (Inf/Alt/Std/Lrg)
+      Wanda Shan (Inf/Alt/Std/Lrg)
+      Xiangshan (Inf/Alt/Std)
+  Tank - ZTZ-99 II
+      Bamyan (Lrg)
+      Black Gold (Alt/Std/Lrg)
+      Shijia Valley (Alt/Std/Lrg)
+      Wanda Shan (Alt/Std/Lrg)
+      Xiangshan (Alt/Std)
+  Transport Helicopter - Mi-17 Hip-H
+      Black Gold (Alt/Std/Lrg)
+      Wanda Shan (Inf/Std)
+      Xiangshan (Inf/Alt/Std)
+  Transport Helicopter - Z-8KA
+      Adak - BETA (Std/Lrg)
+      Bamyan (Lrg)
+      Operation Bobcat  (Inf/Alt/Std/Lrg)
+      Ras el Masri (Std)
+      Shijia Valley (Inf/Alt/Std/Lrg)
+      Wanda Shan (Alt/Lrg)
+  Transport Helicopter - Zhi-9B
+      Adak - BETA (Std/Lrg)
+      Operation Bobcat  (Inf/Alt/Std/Lrg)
+      Ras el Masri (Std)
+      Shijia Valley (Inf)
+      Wanda Shan (Inf)
+      Xiangshan (Inf/Alt/Std)
+  Transport Jeep - Dongfeng Mengshi CSK131 Support
+      Black Gold (Inf/Alt/Std/Lrg)
+      Operation Barracuda (Inf/Std)
+      Shijia Valley (Inf/Alt/Std/Lrg)
+      Wanda Shan (Inf/Alt/Std/Lrg)

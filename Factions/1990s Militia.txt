@@ -1,0 +1,29 @@
+======================================================================
+1990S MILITIA
+======================================================================
+
+  IFV                        BMP-1                          (1 map)
+  Logistics Jeep             UAZ-3151 Logistics             (1 map)
+  Logistics Truck            Ural-4320 Logistics            (1 map)
+  Mobile AA                  Ural-4320 ZU-23-2              (1 map)
+  Recon Vehicle              BRDM-2                         (1 map)
+  Support Truck              Ural-4320                      (1 map)
+  Tank                       T-72A                          (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  IFV - BMP-1
+      Krivaja Valley (Alt/Std)
+  Logistics Jeep - UAZ-3151 Logistics
+      Krivaja Valley (Std)
+  Logistics Truck - Ural-4320 Logistics
+      Krivaja Valley (Alt/Std)
+  Mobile AA - Ural-4320 ZU-23-2
+      Krivaja Valley (Alt/Std)
+  Recon Vehicle - BRDM-2
+      Krivaja Valley (Alt/Std)
+  Support Truck - Ural-4320
+      Krivaja Valley (Alt/Std)
+  Tank - T-72A
+      Krivaja Valley (Alt/Std)

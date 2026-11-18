@@ -1,0 +1,51 @@
+======================================================================
+FALKLANDS 1982 ARGENTINE ARMED FORCES
+======================================================================
+
+  Anti-Ship Jet              Mirage IIIEA AS                (1 map)
+  Attack Jet                 A-1H Skyraider                 (1 map)
+  Attack Jet                 A-4B Skyhawk                   (1 map)
+  Attack Jet                 A-4C Skyhawk                   (1 map)
+  Attack Jet                 IAI Dagger A CAS               (1 map)
+  Fighter Jet                Mirage IIIEA                   (1 map)
+  Logistics Truck            M35 Logistics                  (2 maps)
+  Multirole Jet              A-4Q Skyhawk                   (1 map)
+  Multirole Jet              IAI Dagger A                   (1 map)
+  Support Truck              M35 2.5 Ton                    (2 maps)
+  Transport Helicopter       Chinook CH-47C                 (1 map)
+  Transport Helicopter       UH-1H Iroquois                 (2 maps)
+  Transport Jeep             Volkswagen Type 1              (2 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Anti-Ship Jet - Mirage IIIEA AS
+      The Falklands (Alt/Std)
+  Attack Jet - A-1H Skyraider
+      The Falklands (Alt/Std)
+  Attack Jet - A-4B Skyhawk
+      The Falklands (Alt/Std)
+  Attack Jet - A-4C Skyhawk
+      The Falklands (Alt/Std)
+  Attack Jet - IAI Dagger A CAS
+      The Falklands (Alt/Std)
+  Fighter Jet - Mirage IIIEA
+      The Falklands (Alt/Std)
+  Logistics Truck - M35 Logistics
+      Goose Green (Inf/Alt/Std)
+      The Falklands (Inf/Alt/Std)
+  Multirole Jet - A-4Q Skyhawk
+      The Falklands (Alt/Std)
+  Multirole Jet - IAI Dagger A
+      The Falklands (Alt/Std)
+  Support Truck - M35 2.5 Ton
+      Goose Green (Inf/Alt/Std)
+      The Falklands (Inf/Alt/Std)
+  Transport Helicopter - Chinook CH-47C
+      The Falklands (Inf/Alt/Std)
+  Transport Helicopter - UH-1H Iroquois
+      Goose Green (Inf/Std)
+      The Falklands (Inf/Alt/Std)
+  Transport Jeep - Volkswagen Type 1
+      Goose Green (Inf/Alt/Std)
+      The Falklands (Inf/Alt/Std)

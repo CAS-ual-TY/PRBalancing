@@ -1,0 +1,86 @@
+======================================================================
+FRENCH FORCES
+======================================================================
+
+  APC                        VAB VTT                        (7 maps)
+  APC                        VBCI                           (4 maps)
+  Attack Helicopter          EC 665 Tigre HAP               (1 map)
+  Boat                       RHIB                           (2 maps)
+  Civilian Vehicle           All-Terrain Vehicle            (1 map)
+  Light Attack Helicopter    SA-342 Gazelle                 (3 maps)
+  Light Tank                 AMX-10RC                       (6 maps)
+  Logistics Truck            GBC 180 Logistics              (7 maps)
+  Support Truck              GBC-180                        (7 maps)
+  Tank                       AMX-56 Leclerc                 (4 maps)
+  Transport Helicopter       AS565 MB Panther               (1 map)
+  Transport Helicopter       CH-147 Chinook                 (1 map)
+  Transport Helicopter       NH90 NFH                       (3 maps)
+  Transport Helicopter       NH90 TTH                       (3 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - VAB VTT
+      Hades Peak (Alt)
+      Krivaja Valley (Alt/Lrg)
+      Masirah (Inf/Std)
+      Nuijamaa (Inf/Std)
+      Operation Marlin (Inf/Std)
+      Sahel (Inf/Alt/Std)
+      Xiangshan (Inf/Std)
+  APC - VBCI
+      Hades Peak (Alt)
+      Nuijamaa (Std)
+      Operation Marlin (Std)
+      Xiangshan (Std)
+  Attack Helicopter - EC 665 Tigre HAP
+      Hades Peak (Alt)
+  Boat - RHIB
+      Masirah (Inf/Std)
+      Xiangshan (Inf/Std)
+  Civilian Vehicle - All-Terrain Vehicle
+      Sahel (Alt)
+  Light Attack Helicopter - SA-342 Gazelle
+      Krivaja Valley (Lrg)
+      Masirah (Std)
+      Xiangshan (Std)
+  Light Tank - AMX-10RC
+      Hades Peak (Alt)
+      Krivaja Valley (Alt/Lrg)
+      Masirah (Std)
+      Nuijamaa (Std)
+      Sahel (Alt/Std)
+      Xiangshan (Std)
+  Logistics Truck - GBC 180 Logistics
+      Hades Peak (Alt)
+      Krivaja Valley (Alt/Lrg)
+      Masirah (Inf/Std)
+      Nuijamaa (Inf/Std)
+      Operation Marlin (Inf/Std)
+      Sahel (Inf/Alt/Std)
+      Xiangshan (Inf/Std)
+  Support Truck - GBC-180
+      Hades Peak (Alt)
+      Krivaja Valley (Alt/Lrg)
+      Masirah (Inf/Std)
+      Nuijamaa (Inf/Std)
+      Operation Marlin (Inf/Std)
+      Sahel (Inf/Alt/Std)
+      Xiangshan (Inf/Std)
+  Tank - AMX-56 Leclerc
+      Hades Peak (Alt)
+      Masirah (Std)
+      Operation Marlin (Std)
+      Xiangshan (Std)
+  Transport Helicopter - AS565 MB Panther
+      Xiangshan (Inf/Std)
+  Transport Helicopter - CH-147 Chinook
+      Krivaja Valley (Lrg)
+  Transport Helicopter - NH90 NFH
+      Masirah (Inf/Std)
+      Operation Marlin (Inf/Std)
+      Xiangshan (Inf/Std)
+  Transport Helicopter - NH90 TTH
+      Hades Peak (Alt)
+      Nuijamaa (Inf/Std)
+      Sahel (Std)

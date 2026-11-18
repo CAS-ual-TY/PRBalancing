@@ -1,0 +1,117 @@
+======================================================================
+SYRIAN REBELS
+======================================================================
+
+  Armed Jeep                 UAZ-3151                       (1 map)
+  Car Bomb                   Armored Car Bomb               (2 maps)
+  Car Bomb                   Armored Suicide Dumpster Truck (2 maps)
+  Car Bomb                   Car Bomb                       (1 map)
+  Civilian Vehicle           Civilian Car                   (2 maps)
+  Civilian Vehicle           Dirtbike                       (3 maps)
+  Civilian Vehicle           Dumpster Truck                 (1 map)
+  Civilian Vehicle           Honda CB500                    (1 map)
+  Civilian Vehicle           Semi Trailer Truck             (1 map)
+  IFV                        BMP-1                          (4 maps)
+  Logistics Technical        Logistics Technical            (2 maps)
+  Logistics Truck            Logistics Van                  (5 maps)
+  Mobile AA                  Ural-4320 ZU-23-2              (5 maps)
+  Mobile AA                  ZSU-23-4 Shilka                (1 map)
+  Support Technical          Support Technical              (2 maps)
+  Support Truck              Zastava 900AK Van              (2 maps)
+  Support Truck              ZIL 131                        (4 maps)
+  Tank                       T-55                           (3 maps)
+  Tank                       T-62                           (4 maps)
+  Technical                  DShKM Technical                (5 maps)
+  Technical                  M2HB Technical                 (3 maps)
+  Technical                  Rocket Technical               (4 maps)
+  Technical                  SPG-9 Technical                (5 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Armed Jeep - UAZ-3151
+      Kafr Halab (Alt/Std)
+  Car Bomb - Armored Car Bomb
+      Kafr Halab (Inf/Alt/Std)
+      Talbisah (Lrg)
+  Car Bomb - Armored Suicide Dumpster Truck
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Talbisah (Lrg)
+  Car Bomb - Car Bomb
+      Kafr Halab (Lrg)
+  Civilian Vehicle - Civilian Car
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Talbisah (Alt/Std/Lrg)
+  Civilian Vehicle - Dirtbike
+      Kafr Halab (Inf/Alt)
+      Talbisah (Alt/Std)
+      Zakho - BETA (Alt)
+  Civilian Vehicle - Dumpster Truck
+      Kafr Halab (Inf/Std)
+  Civilian Vehicle - Honda CB500
+      Kafr Halab (Inf/Alt)
+  Civilian Vehicle - Semi Trailer Truck
+      Kafr Halab (Inf/Std)
+  IFV - BMP-1
+      Kafr Halab (Alt/Std/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt)
+      Talbisah (Std/Lrg)
+  Logistics Technical - Logistics Technical
+      Kafr Halab (Std/Lrg)
+      Road to Damascus - BETA (Alt)
+  Logistics Truck - Logistics Van
+      Kafr Halab (Alt/Std)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Inf/Alt/Std)
+      Talbisah (Alt/Std/Lrg)
+      Zakho - BETA (Alt)
+  Mobile AA - Ural-4320 ZU-23-2
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Std/Lrg)
+      Zakho - BETA (Alt)
+  Mobile AA - ZSU-23-4 Shilka
+      Road to Damascus - BETA (Alt)
+  Support Technical - Support Technical
+      Kafr Halab (Inf/Alt/Std)
+      Sbeneh Outskirts (Inf/Alt/Std)
+  Support Truck - Zastava 900AK Van
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Talbisah (Alt/Std/Lrg)
+  Support Truck - ZIL 131
+      Kafr Halab (Alt/Std)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt)
+      Zakho - BETA (Alt)
+  Tank - T-55
+      Kafr Halab (Alt/Lrg)
+      Road to Damascus - BETA (Alt)
+      Talbisah (Alt/Std/Lrg)
+  Tank - T-62
+      Kafr Halab (Alt/Std/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt/Std)
+      Talbisah (Lrg)
+  Technical - DShKM Technical
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Alt/Std/Lrg)
+      Zakho - BETA (Alt)
+  Technical - M2HB Technical
+      Kafr Halab (Inf)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Std)
+  Technical - Rocket Technical
+      Kafr Halab (Inf/Alt/Std/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Std)
+  Technical - SPG-9 Technical
+      Kafr Halab (Inf/Alt/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Alt/Std/Lrg)
+      Zakho - BETA (Alt)

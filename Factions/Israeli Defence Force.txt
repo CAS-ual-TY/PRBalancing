@@ -1,0 +1,73 @@
+======================================================================
+ISRAELI DEFENCE FORCE
+======================================================================
+
+  APC                        M113                           (3 maps)
+  APC                        Namer                          (5 maps)
+  Armed Jeep                 HMMWV SIYUR                    (5 maps)
+  Attack Helicopter          AH-64D Saraph                  (1 map)
+  Attack Jet                 F-15I Ra'am                    (1 map)
+  Boat                       RHIB                           (1 map)
+  Logistics APC              M113 Logistics                 (2 maps)
+  Logistics Truck            M35 Logistics                  (6 maps)
+  Mobile AA                  M163 Vulcan                    (2 maps)
+  Multirole Jet              F-16C Barak                    (1 map)
+  Support Truck              M35 2.5 Ton                    (5 maps)
+  Tank                       Merkava Mark IV                (4 maps)
+  Transport Helicopter       UH-60L Yanshuf                 (3 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M113
+      Asad Khal (Alt/Std)
+      Gaza (Inf/Alt/Std)
+      Operation Marlin (Lrg)
+  APC - Namer
+      Beirut (Alt/Std)
+      Gaza (Std)
+      Operation Marlin (Lrg)
+      Ras el Masri (Std)
+      Road to Damascus - BETA (Std/Lrg)
+  Armed Jeep - HMMWV SIYUR
+      Asad Khal (Alt/Std)
+      Beirut (Inf/Alt/Std)
+      Gaza (Inf/Alt/Std)
+      Ras el Masri (Std)
+      Road to Damascus - BETA (Std/Lrg)
+  Attack Helicopter - AH-64D Saraph
+      Road to Damascus - BETA (Std)
+  Attack Jet - F-15I Ra'am
+      Road to Damascus - BETA (Std/Lrg)
+  Boat - RHIB
+      Gaza (Inf/Alt/Std)
+  Logistics APC - M113 Logistics
+      Beirut (Inf/Alt/Std)
+      Gaza (Inf/Alt/Std)
+  Logistics Truck - M35 Logistics
+      Asad Khal (Alt/Std)
+      Beirut (Inf/Alt/Std)
+      Gaza (Inf/Alt/Std)
+      Operation Marlin (Lrg)
+      Ras el Masri (Std)
+      Road to Damascus - BETA (Std/Lrg)
+  Mobile AA - M163 Vulcan
+      Beirut (Alt)
+      Road to Damascus - BETA (Std/Lrg)
+  Multirole Jet - F-16C Barak
+      Road to Damascus - BETA (Lrg)
+  Support Truck - M35 2.5 Ton
+      Asad Khal (Alt/Std)
+      Beirut (Inf/Alt/Std)
+      Operation Marlin (Lrg)
+      Ras el Masri (Std)
+      Road to Damascus - BETA (Std/Lrg)
+  Tank - Merkava Mark IV
+      Beirut (Std)
+      Operation Marlin (Lrg)
+      Ras el Masri (Std)
+      Road to Damascus - BETA (Std/Lrg)
+  Transport Helicopter - UH-60L Yanshuf
+      Beirut (Inf/Std)
+      Operation Marlin (Lrg)
+      Road to Damascus - BETA (Std/Lrg)

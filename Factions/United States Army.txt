@@ -1,0 +1,207 @@
+======================================================================
+UNITED STATES ARMY
+======================================================================
+
+  APC                        M1126 Stryker ICV              (11 maps)
+  APC                        M1126 Stryker ICV MK19         (3 maps)
+  APC                        VAB VTT                        (1 map)
+  Armed Jeep                 M1025 HMMWV                    (4 maps)
+  Armed Jeep                 M1025 HMMWV CROWS              (1 map)
+  Armed Jeep                 M1151 Up-Armored HMMWV         (10 maps)
+  Armed Jeep                 M1151 Up-Armored HMMWV CROWS   (4 maps)
+  Armed Jeep                 M1151 Up-Armored HMMWV MK19    (1 map)
+  ATGM Vehicle               M1167 HMMWV Up-Armored TOW     (1 map)
+  Attack Helicopter          AH-64D Apache Longbow          (2 maps)
+  Attack Jet                 A-10A Thunderbolt II           (4 maps)
+  Attack Jet                 F-15E Strike Eagle             (1 map)
+  Boat                       RHIB                           (3 maps)
+  Civilian Vehicle           All-Terrain Vehicle            (2 maps)
+  Civilian Vehicle           Industrial Forklift            (1 map)
+  IFV                        M2A2 Bradley ODS               (11 maps)
+  Light Attack Helicopter    AH-6 Littlebird Rockets        (1 map)
+  Light Attack Helicopter    OH-58D Kiowa Hellfire          (2 maps)
+  Light Attack Helicopter    OH-58D Kiowa Hydra             (2 maps)
+  Light Attack Helicopter    OH-58D Kiowa Hydra/.50         (1 map)
+  Logistics Truck            M35 Logistics                  (15 maps)
+  Mobile AA                  AN/TWQ-1 Avenger               (3 maps)
+  Multirole Jet              F-16C Fighting Falcon          (2 maps)
+  Scout Helicopter           MH-6 Littlebird                (2 maps)
+  Support Truck              M35 2.5 Ton                    (13 maps)
+  Tank                       M1A2 Abrams                    (7 maps)
+  Tank                       M1A2 Abrams TUSK               (1 map)
+  Tank                       M48A1 Patton                   (1 map)
+  Transport Helicopter       CH-47D Chinook                 (5 maps)
+  Transport Helicopter       MH-60L Blackhawk               (2 maps)
+  Transport Helicopter       UH-60L Blackhawk               (11 maps)
+  Transport Jeep             M1038A1 HMMWV                  (7 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M1126 Stryker ICV
+      Adak - BETA (Alt)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Icebreaker (Alt/Std)
+      Kashan Desert (Std)
+      Khamisiyah (Inf/Alt/Lrg)
+      Nuijamaa (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+      Yamalia (Alt)
+  APC - M1126 Stryker ICV MK19
+      Donbas (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+  APC - VAB VTT
+      Ramiel (Std)
+  Armed Jeep - M1025 HMMWV
+      Adak - BETA (Alt/Std/Lrg)
+      Khamisiyah (Inf/Alt/Lrg)
+      Ramiel (Std)
+      Wanda Shan (Alt)
+  Armed Jeep - M1025 HMMWV CROWS
+      Khamisiyah (Alt)
+  Armed Jeep - M1151 Up-Armored HMMWV
+      Adak - BETA (Alt/Std/Lrg)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Icebreaker (Inf/Alt/Std)
+      Korengal Valley (Std)
+      Nuijamaa (Alt)
+      Route E-106 (Alt)
+      Vadso City (Alt)
+      Yamalia (Alt)
+  Armed Jeep - M1151 Up-Armored HMMWV CROWS
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Icebreaker (Inf/Alt/Std)
+      Korengal Valley (Std)
+  Armed Jeep - M1151 Up-Armored HMMWV MK19
+      Vadso City (Alt)
+  ATGM Vehicle - M1167 HMMWV Up-Armored TOW
+      Icebreaker (Alt/Std)
+  Attack Helicopter - AH-64D Apache Longbow
+      Icebreaker (Alt/Std)
+      Silent Eagle (Alt)
+  Attack Jet - A-10A Thunderbolt II
+      Bamyan (Std)
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Alt)
+  Attack Jet - F-15E Strike Eagle
+      Khamisiyah (Alt)
+  Boat - RHIB
+      Adak - BETA (Alt/Lrg)
+      Icebreaker (Alt/Std)
+      Vadso City (Alt)
+  Civilian Vehicle - All-Terrain Vehicle
+      Adak - BETA (Alt/Std/Lrg)
+      Icebreaker (Inf)
+  Civilian Vehicle - Industrial Forklift
+      Adak - BETA (Alt/Std/Lrg)
+  IFV - M2A2 Bradley ODS
+      Adak - BETA (Std/Lrg)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Alt/Lrg)
+      Nuijamaa (Alt)
+      Route E-106 (Alt)
+      Silent Eagle (Alt)
+      Wanda Shan (Alt)
+      Yamalia (Alt)
+  Light Attack Helicopter - AH-6 Littlebird Rockets
+      Ramiel (Std)
+  Light Attack Helicopter - OH-58D Kiowa Hellfire
+      Kashan Desert (Std)
+      Khamisiyah (Lrg)
+  Light Attack Helicopter - OH-58D Kiowa Hydra
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+  Light Attack Helicopter - OH-58D Kiowa Hydra/.50
+      Khamisiyah (Lrg)
+  Logistics Truck - M35 Logistics
+      Adak - BETA (Alt/Std/Lrg)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Icebreaker (Inf/Alt/Std)
+      Kashan Desert (Std)
+      Khamisiyah (Inf/Alt/Lrg)
+      Korengal Valley (Std)
+      Nuijamaa (Alt)
+      Ramiel (Std)
+      Route E-106 (Alt)
+      Silent Eagle (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+      Yamalia (Alt)
+  Mobile AA - AN/TWQ-1 Avenger
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Alt/Lrg)
+  Multirole Jet - F-16C Fighting Falcon
+      Kashan Desert (Std)
+      Khamisiyah (Alt)
+  Scout Helicopter - MH-6 Littlebird
+      Adak - BETA (Alt/Std/Lrg)
+      Ramiel (Std)
+  Support Truck - M35 2.5 Ton
+      Adak - BETA (Alt/Std/Lrg)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Inf/Alt/Lrg)
+      Nuijamaa (Alt)
+      Ramiel (Std)
+      Route E-106 (Alt)
+      Silent Eagle (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+      Yamalia (Alt)
+  Tank - M1A2 Abrams
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Lrg)
+      Silent Eagle (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+  Tank - M1A2 Abrams TUSK
+      Khamisiyah (Alt)
+  Tank - M48A1 Patton
+      Ramiel (Std)
+  Transport Helicopter - CH-47D Chinook
+      Adak - BETA (Std/Lrg)
+      Bamyan (Std)
+      Donbas (Alt)
+      Vadso City (Alt)
+      Wanda Shan (Alt)
+  Transport Helicopter - MH-60L Blackhawk
+      Icebreaker (Alt/Std)
+      Ramiel (Std)
+  Transport Helicopter - UH-60L Blackhawk
+      Adak - BETA (Alt)
+      Bamyan (Std)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Inf/Alt/Lrg)
+      Nuijamaa (Alt)
+      Route E-106 (Alt)
+      Silent Eagle (Alt)
+      Vadso City (Alt)
+      Yamalia (Alt)
+  Transport Jeep - M1038A1 HMMWV
+      Adak - BETA (Alt/Std/Lrg)
+      Donbas (Alt)
+      Hades Peak (Lrg)
+      Icebreaker (Alt/Std)
+      Khamisiyah (Inf)
+      Silent Eagle (Alt)
+      Wanda Shan (Alt)

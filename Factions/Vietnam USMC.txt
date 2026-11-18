@@ -1,0 +1,69 @@
+======================================================================
+VIETNAM USMC
+======================================================================
+
+  APC                        M113                           (2 maps)
+  APC                        M113 ACAV                      (3 maps)
+  APC                        M3A1 Halftrack                 (1 map)
+  Armed Jeep                 M151A2                         (1 map)
+  Attack Jet                 A-1H Skyraider                 (1 map)
+  Boat                       Patrol Boat-River              (3 maps)
+  Boat                       US Swift Boat                  (2 maps)
+  Light Tank                 M67 Zippo                      (1 map)
+  Logistics Truck            M548A1                         (3 maps)
+  Mobile AA                  M3A1 Halftrack M45             (1 map)
+  Support Truck              M35 2.5 Ton                    (1 map)
+  Tank                       M48A1 Patton                   (1 map)
+  Transport Helicopter       H-34 Choctaw                   (2 maps)
+  Transport Helicopter       UH-1C Huey                     (3 maps)
+  Transport Helicopter       UH-1D Huey                     (3 maps)
+  Transport Jeep             M151A2 Support                 (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M113
+      Charlies Point (Std)
+      Vung Ro (Std)
+  APC - M113 ACAV
+      Charlies Point (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+  APC - M3A1 Halftrack
+      Vung Ro (Std)
+  Armed Jeep - M151A2
+      Vung Ro (Std)
+  Attack Jet - A-1H Skyraider
+      Vung Ro (Std)
+  Boat - Patrol Boat-River
+      Charlies Point (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+  Boat - US Swift Boat
+      Charlies Point (Std)
+      Vung Ro (Std)
+  Light Tank - M67 Zippo
+      Vung Ro (Std)
+  Logistics Truck - M548A1
+      Operation Barracuda (Alt)
+      Tad Sae Offensive (Alt)
+      Vung Ro (Std)
+  Mobile AA - M3A1 Halftrack M45
+      Vung Ro (Std)
+  Support Truck - M35 2.5 Ton
+      Vung Ro (Std)
+  Tank - M48A1 Patton
+      Vung Ro (Std)
+  Transport Helicopter - H-34 Choctaw
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+  Transport Helicopter - UH-1C Huey
+      Charlies Point (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+  Transport Helicopter - UH-1D Huey
+      Charlies Point (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+  Transport Jeep - M151A2 Support
+      Vung Ro (Std)

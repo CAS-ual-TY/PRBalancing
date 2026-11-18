@@ -1,0 +1,122 @@
+======================================================================
+MILITIA
+======================================================================
+
+  Armed Jeep                 UAZ-3151 SPG-9                 (2 maps)
+  ATGM Vehicle               9P148 Spandrel                 (2 maps)
+  Civilian Vehicle           All-Terrain Vehicle            (2 maps)
+  Civilian Vehicle           Civilian Car                   (2 maps)
+  Civilian Vehicle           Dirtbike                       (3 maps)
+  IFV                        BMP-1                          (8 maps)
+  Logistics Truck            Ural-4320 Logistics            (9 maps)
+  Mobile AA                  Ural-4320 ZU-23-2              (3 maps)
+  Recon Vehicle              BRDM-2                         (5 maps)
+  Support Technical          Support Technical              (6 maps)
+  Support Truck              Ural-4320                      (8 maps)
+  Support Truck              Zastava 900AK Van              (7 maps)
+  Support Truck              ZIL 131                        (1 map)
+  Tank                       T-55                           (5 maps)
+  Tank                       T-62                           (1 map)
+  Technical                  DShKM Technical                (8 maps)
+  Technical                  M2HB Technical                 (1 map)
+  Technical                  SPG-9 Technical                (5 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  Armed Jeep - UAZ-3151 SPG-9
+      Dragon Fly (Inf/Alt/Std)
+      Kozelsk (Inf/Alt/Std)
+  ATGM Vehicle - 9P148 Spandrel
+      Fools Road (Alt/Std)
+      Kozelsk (Alt/Std)
+  Civilian Vehicle - All-Terrain Vehicle
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+  Civilian Vehicle - Civilian Car
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+  Civilian Vehicle - Dirtbike
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+  IFV - BMP-1
+      Dragon Fly (Alt/Std)
+      Fools Road (Std)
+      Hades Peak (Inf)
+      Iron Ridge (Alt/Lrg)
+      Kozelsk (Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Logistics Truck - Ural-4320 Logistics
+      Assault on Mestia (Std)
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Alt/Std)
+      Hades Peak (Inf)
+      Iron Ridge (Alt/Lrg)
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Mobile AA - Ural-4320 ZU-23-2
+      Iron Ridge (Lrg)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+  Recon Vehicle - BRDM-2
+      Dragon Fly (Std)
+      Fools Road (Alt)
+      Hades Peak (Inf)
+      Iron Ridge (Lrg)
+      Kozelsk (Inf/Alt/Std)
+  Support Technical - Support Technical
+      Fools Road (Inf/Alt/Std)
+      Iron Ridge (Lrg)
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Support Truck - Ural-4320
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Alt/Std)
+      Hades Peak (Inf)
+      Iron Ridge (Alt/Lrg)
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Support Truck - Zastava 900AK Van
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Std)
+      Iron Ridge (Lrg)
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Support Truck - ZIL 131
+      Operation Thunder - BETA (Inf)
+  Tank - T-55
+      Dragon Fly (Std)
+      Fools Road (Std)
+      Hades Peak (Inf)
+      Kozelsk (Alt/Std)
+      Operation Thunder - BETA (Inf)
+  Tank - T-62
+      Ulyanovsk (Alt)
+  Technical - DShKM Technical
+      Dragon Fly (Inf/Alt/Std)
+      Fools Road (Inf/Alt/Std)
+      Hades Peak (Inf)
+      Iron Ridge (Alt/Lrg)
+      Kozelsk (Inf/Alt/Std)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)
+      Ulyanovsk (Alt)
+  Technical - M2HB Technical
+      Iron Ridge (Alt/Lrg)
+  Technical - SPG-9 Technical
+      Fools Road (Inf/Alt/Std)
+      Hades Peak (Inf)
+      Iron Ridge (Alt/Lrg)
+      Operation Falcon (Alt)
+      Operation Thunder - BETA (Inf)

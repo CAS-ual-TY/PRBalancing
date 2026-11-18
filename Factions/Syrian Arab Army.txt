@@ -1,0 +1,112 @@
+======================================================================
+SYRIAN ARAB ARMY
+======================================================================
+
+  APC                        BMP-2                          (3 maps)
+  Armed Jeep                 UAZ-469                        (4 maps)
+  Attack Helicopter          Mi-24D Hind-D                  (3 maps)
+  Attack Jet                 Su-22M Fitter                  (1 map)
+  Civilian Vehicle           All-Terrain Vehicle            (1 map)
+  IFV                        BMP-1                          (4 maps)
+  Light Attack Helicopter    SA 342L CAS                    (1 map)
+  Logistics Jeep             UAZ-469 Logistics              (1 map)
+  Logistics Truck            Ural-4320 Logistics            (4 maps)
+  Mobile AA                  9K35 Gopher                    (1 map)
+  Mobile AA                  ZSU-23-4 Shilka                (4 maps)
+  Multirole Jet              MiG-21MF Fishbed               (1 map)
+  Multirole Jet              MiG-23MF Flogger-B             (1 map)
+  Multirole Jet              MIG-29SM Fulcrum               (1 map)
+  Recon Vehicle              BRDM-2                         (1 map)
+  Scout Helicopter           SA 342L                        (1 map)
+  Support Truck              Ural-4320                      (4 maps)
+  Tank                       T-55                           (4 maps)
+  Tank                       T-62                           (4 maps)
+  Tank                       T-72AV                         (3 maps)
+  Tank                       T-72AV Turms-T                 (2 maps)
+  Tank                       T-72M1                         (2 maps)
+  Transport Helicopter       Mi-8T Hip-C                    (4 maps)
+  Transport Jeep             UAZ-469 Support                (1 map)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - BMP-2
+      Kafr Halab (Inf/Lrg)
+      Road to Damascus - BETA (Std/Lrg)
+      Talbisah (Std)
+  Armed Jeep - UAZ-469
+      Kafr Halab (Inf/Alt/Lrg)
+      Road to Damascus - BETA (Alt/Std/Lrg)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Alt/Std/Lrg)
+  Attack Helicopter - Mi-24D Hind-D
+      Kafr Halab (Lrg)
+      Road to Damascus - BETA (Std)
+      Talbisah (Lrg)
+  Attack Jet - Su-22M Fitter
+      Road to Damascus - BETA (Alt/Lrg)
+  Civilian Vehicle - All-Terrain Vehicle
+      Kafr Halab (Inf)
+  IFV - BMP-1
+      Kafr Halab (Inf/Alt/Lrg)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt/Std)
+      Talbisah (Alt/Std/Lrg)
+  Light Attack Helicopter - SA 342L CAS
+      Road to Damascus - BETA (Std)
+  Logistics Jeep - UAZ-469 Logistics
+      Kafr Halab (Inf/Alt)
+  Logistics Truck - Ural-4320 Logistics
+      Kafr Halab (Inf/Alt/Lrg)
+      Road to Damascus - BETA (Alt/Std/Lrg)
+      Sbeneh Outskirts (Inf/Alt/Std)
+      Talbisah (Alt/Std/Lrg)
+  Mobile AA - 9K35 Gopher
+      Road to Damascus - BETA (Lrg)
+  Mobile AA - ZSU-23-4 Shilka
+      Kafr Halab (Inf)
+      Road to Damascus - BETA (Std/Lrg)
+      Sbeneh Outskirts (Std)
+      Talbisah (Alt/Std/Lrg)
+  Multirole Jet - MiG-21MF Fishbed
+      Road to Damascus - BETA (Alt)
+  Multirole Jet - MiG-23MF Flogger-B
+      Road to Damascus - BETA (Std/Lrg)
+  Multirole Jet - MIG-29SM Fulcrum
+      Road to Damascus - BETA (Lrg)
+  Recon Vehicle - BRDM-2
+      Kafr Halab (Alt)
+  Scout Helicopter - SA 342L
+      Road to Damascus - BETA (Std/Lrg)
+  Support Truck - Ural-4320
+      Kafr Halab (Inf/Alt/Lrg)
+      Road to Damascus - BETA (Alt/Std/Lrg)
+      Sbeneh Outskirts (Inf/Alt/Std)
+      Talbisah (Alt/Std/Lrg)
+  Tank - T-55
+      Kafr Halab (Alt)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt)
+      Talbisah (Alt/Lrg)
+  Tank - T-62
+      Kafr Halab (Alt)
+      Road to Damascus - BETA (Alt)
+      Sbeneh Outskirts (Alt)
+      Talbisah (Std/Lrg)
+  Tank - T-72AV
+      Kafr Halab (Lrg)
+      Road to Damascus - BETA (Alt)
+      Talbisah (Alt)
+  Tank - T-72AV Turms-T
+      Kafr Halab (Lrg)
+      Road to Damascus - BETA (Std/Lrg)
+  Tank - T-72M1
+      Road to Damascus - BETA (Std/Lrg)
+      Sbeneh Outskirts (Std)
+  Transport Helicopter - Mi-8T Hip-C
+      Kafr Halab (Lrg)
+      Road to Damascus - BETA (Alt/Std/Lrg)
+      Sbeneh Outskirts (Inf/Std)
+      Talbisah (Lrg)
+  Transport Jeep - UAZ-469 Support
+      Kafr Halab (Alt)

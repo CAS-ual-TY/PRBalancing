@@ -1,0 +1,235 @@
+======================================================================
+MIDDLE EASTERN COALITION
+======================================================================
+
+  APC                        BMP-2                          (4 maps)
+  APC                        Boragh                         (3 maps)
+  APC                        BTR-60PB                       (2 maps)
+  APC                        BTR-80                         (5 maps)
+  APC                        BTR-80A                        (1 map)
+  APC                        MT-LB                          (3 maps)
+  APC                        MT-LB 6M                       (4 maps)
+  APC                        MT-LB 6MB                      (4 maps)
+  Armed Jeep                 AMZ DZIK-3                     (7 maps)
+  Armed Jeep                 UAZ-3151                       (7 maps)
+  ATGM Vehicle               9P148 Spandrel                 (3 maps)
+  ATGM Vehicle               9P149 Shturm-S                 (2 maps)
+  Attack Helicopter          Mi-28N Havoc                   (2 maps)
+  Attack Jet                 Su-22 Fitter                   (1 map)
+  Attack Jet                 Su-25 Frogfoot                 (2 maps)
+  Boat                       RHIB                           (1 map)
+  IFV                        BMP-1                          (1 map)
+  IFV                        BMP-2M                         (5 maps)
+  IFV                        BMP-3                          (2 maps)
+  Light Attack Helicopter    EC635 Eurocopter               (2 maps)
+  Light Attack Helicopter    SOKO HN-45M Gama 2             (4 maps)
+  Light Tank                 FV601 Saladin                  (2 maps)
+  Logistics APC              MTP-LB                         (4 maps)
+  Logistics Truck            Ural-4320 Logistics            (16 maps)
+  Mobile AA                  9K31 Gaskin                    (2 maps)
+  Mobile AA                  9K35 Gopher                    (2 maps)
+  Mobile AA                  ZSU-23-4 Shilka                (3 maps)
+  Multirole Jet              MiG-29 Fulcrum                 (4 maps)
+  Recon Vehicle              BRDM-2                         (6 maps)
+  Recon Vehicle              FV101 Scorpion                 (2 maps)
+  Scout Helicopter           SOKO HO-42                     (2 maps)
+  Support Truck              Ural-4320                      (14 maps)
+  Tank                       FV4034 Challenger 2            (1 map)
+  Tank                       T-72M                          (1 map)
+  Tank                       T-72S                          (3 maps)
+  Tank                       T-72S1                         (5 maps)
+  Transport Helicopter       Mi-17 Hip-H                    (10 maps)
+  Transport Jeep             UAZ-3151 Support               (9 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - BMP-2
+      Burning Sands (Std/Lrg)
+      Kashan Desert (Alt)
+      Operation Marlin (Std/Lrg)
+      Shahadah (Std)
+  APC - Boragh
+      Kashan Desert (Inf)
+      Masirah (Inf/Std)
+      Operation Marlin (Inf/Std/Lrg)
+  APC - BTR-60PB
+      Burning Sands (Std)
+      Kashan Desert (Inf/Std/Lrg)
+  APC - BTR-80
+      Bamyan (Std)
+      Kashan Desert (Alt)
+      Khamisiyah (Inf/Alt/Lrg)
+      Kunar Province - BETA (Lrg)
+      Muttrah City (Std)
+  APC - BTR-80A
+      Shahadah (Alt)
+  APC - MT-LB
+      Burning Sands (Inf/Lrg)
+      Kashan Desert (Inf)
+      Shahadah (Std)
+  APC - MT-LB 6M
+      Asad Khal (Alt)
+      Beirut (Lrg)
+      Gaza (Alt)
+      Kashan Desert (Inf)
+  APC - MT-LB 6MB
+      Kashan Desert (Alt/Lrg)
+      Khamisiyah (Std)
+      Operation Marlin (Alt)
+      Zakho - BETA (Std)
+  Armed Jeep - AMZ DZIK-3
+      Beirut (Lrg)
+      Burning Sands (Std)
+      Fallujah West (Std)
+      Kashan Desert (Alt)
+      Kunar Province - BETA (Lrg)
+      Shahadah (Alt/Std)
+      Zakho - BETA (Alt/Std)
+  Armed Jeep - UAZ-3151
+      Asad Khal (Alt)
+      Black Gold (Alt)
+      Burning Sands (Inf/Alt/Std)
+      Gaza (Alt)
+      Khamisiyah (Inf/Alt/Std/Lrg)
+      Outpost (Std)
+      Shahadah (Std)
+  ATGM Vehicle - 9P148 Spandrel
+      Kashan Desert (Lrg)
+      Outpost (Std)
+      Zakho - BETA (Alt)
+  ATGM Vehicle - 9P149 Shturm-S
+      Black Gold (Alt)
+      Khamisiyah (Std)
+  Attack Helicopter - Mi-28N Havoc
+      Burning Sands (Std)
+      Kashan Desert (Lrg)
+  Attack Jet - Su-22 Fitter
+      Khamisiyah (Std)
+  Attack Jet - Su-25 Frogfoot
+      Kashan Desert (Std)
+      Khamisiyah (Alt)
+  Boat - RHIB
+      Masirah (Inf/Std)
+  IFV - BMP-1
+      Burning Sands (Alt)
+  IFV - BMP-2M
+      Beirut (Lrg)
+      Kashan Desert (Std)
+      Khamisiyah (Lrg)
+      Masirah (Std)
+      Muttrah City (Std)
+  IFV - BMP-3
+      Black Gold (Alt)
+      Khamisiyah (Alt/Lrg)
+  Light Attack Helicopter - EC635 Eurocopter
+      Black Gold (Alt)
+      Khamisiyah (Lrg)
+  Light Attack Helicopter - SOKO HN-45M Gama 2
+      Black Gold (Alt)
+      Kashan Desert (Std)
+      Khamisiyah (Lrg)
+      Masirah (Std)
+  Light Tank - FV601 Saladin
+      Burning Sands (Alt)
+      Kashan Desert (Lrg)
+  Logistics APC - MTP-LB
+      Beirut (Lrg)
+      Muttrah City (Std)
+      Operation Marlin (Alt)
+      Zakho - BETA (Std)
+  Logistics Truck - Ural-4320 Logistics
+      Asad Khal (Alt)
+      Bamyan (Std)
+      Beirut (Lrg)
+      Black Gold (Alt)
+      Burning Sands (Inf/Alt/Std/Lrg)
+      Fallujah West (Std)
+      Gaza (Alt)
+      Kashan Desert (Inf/Alt/Std/Lrg)
+      Khamisiyah (Inf/Alt/Std/Lrg)
+      Kunar Province - BETA (Lrg)
+      Masirah (Inf/Std)
+      Muttrah City (Std)
+      Operation Marlin (Inf/Alt/Std/Lrg)
+      Outpost (Std)
+      Shahadah (Alt/Std)
+      Zakho - BETA (Alt/Std)
+  Mobile AA - 9K31 Gaskin
+      Kashan Desert (Alt/Lrg)
+      Khamisiyah (Lrg)
+  Mobile AA - 9K35 Gopher
+      Kashan Desert (Std/Lrg)
+      Khamisiyah (Alt/Std)
+  Mobile AA - ZSU-23-4 Shilka
+      Bamyan (Std)
+      Burning Sands (Std)
+      Khamisiyah (Lrg)
+  Multirole Jet - MiG-29 Fulcrum
+      Burning Sands (Lrg)
+      Kashan Desert (Alt/Std)
+      Khamisiyah (Alt/Std)
+      Kunar Province - BETA (Lrg)
+  Recon Vehicle - BRDM-2
+      Black Gold (Alt)
+      Kashan Desert (Inf)
+      Khamisiyah (Alt)
+      Outpost (Std)
+      Shahadah (Std)
+      Zakho - BETA (Alt/Std)
+  Recon Vehicle - FV101 Scorpion
+      Burning Sands (Inf)
+      Zakho - BETA (Std)
+  Scout Helicopter - SOKO HO-42
+      Burning Sands (Std/Lrg)
+      Kunar Province - BETA (Lrg)
+  Support Truck - Ural-4320
+      Asad Khal (Alt)
+      Bamyan (Std)
+      Beirut (Lrg)
+      Black Gold (Alt)
+      Burning Sands (Inf/Alt/Lrg)
+      Kashan Desert (Inf/Alt/Std/Lrg)
+      Khamisiyah (Inf/Alt/Std/Lrg)
+      Kunar Province - BETA (Lrg)
+      Masirah (Inf/Std)
+      Muttrah City (Std)
+      Operation Marlin (Inf/Alt/Std/Lrg)
+      Outpost (Std)
+      Shahadah (Std)
+      Zakho - BETA (Std)
+  Tank - FV4034 Challenger 2
+      Masirah (Std)
+  Tank - T-72M
+      Bamyan (Std)
+  Tank - T-72S
+      Black Gold (Alt)
+      Khamisiyah (Alt)
+      Operation Marlin (Std/Lrg)
+  Tank - T-72S1
+      Bamyan (Std)
+      Burning Sands (Std/Lrg)
+      Kashan Desert (Alt/Std/Lrg)
+      Khamisiyah (Std/Lrg)
+      Operation Marlin (Alt)
+  Transport Helicopter - Mi-17 Hip-H
+      Bamyan (Std)
+      Beirut (Lrg)
+      Black Gold (Alt)
+      Burning Sands (Alt/Std/Lrg)
+      Kashan Desert (Inf/Alt/Std/Lrg)
+      Khamisiyah (Inf/Alt/Std/Lrg)
+      Kunar Province - BETA (Lrg)
+      Masirah (Inf/Std)
+      Operation Marlin (Inf/Alt/Std/Lrg)
+      Zakho - BETA (Alt)
+  Transport Jeep - UAZ-3151 Support
+      Bamyan (Std)
+      Black Gold (Alt)
+      Fallujah West (Std)
+      Gaza (Alt)
+      Khamisiyah (Inf)
+      Kunar Province - BETA (Lrg)
+      Operation Marlin (Alt)
+      Outpost (Std)
+      Shahadah (Alt)

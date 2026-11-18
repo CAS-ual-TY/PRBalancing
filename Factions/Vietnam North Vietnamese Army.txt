@@ -1,0 +1,67 @@
+======================================================================
+VIETNAM NORTH VIETNAMESE ARMY
+======================================================================
+
+  APC                        BTR-60PB                       (3 maps)
+  Armed Jeep                 UAZ-469                        (4 maps)
+  Boat                       Sampan                         (4 maps)
+  Logistics Truck            ZIS-5V Logistics               (7 maps)
+  Mobile AA                  ZSU-57-2                       (2 maps)
+  Support Truck              ZIL 131                        (6 maps)
+  Tank                       PT-76                          (3 maps)
+  Tank                       T-55                           (2 maps)
+  Transport Helicopter       Mi-17 Hip-H                    (2 maps)
+  Transport Jeep             UAZ-469 Support                (6 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - BTR-60PB
+      Charlies Point (Std)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Armed Jeep - UAZ-469
+      Charlies Point (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Boat - Sampan
+      Charlies Point (Std)
+      Hill 488 (Std)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Logistics Truck - ZIS-5V Logistics
+      Battle of Ia Drang (Inf/Alt/Std)
+      Charlies Point (Std)
+      Hill 488 (Std)
+      Operation Barracuda (Alt)
+      Tad Sae Offensive (Alt)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Mobile AA - ZSU-57-2
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Support Truck - ZIL 131
+      Battle of Ia Drang (Inf/Alt/Std)
+      Charlies Point (Std)
+      Hill 488 (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Tank - PT-76
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Tank - T-55
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Transport Helicopter - Mi-17 Hip-H
+      Vung Ro (Std)
+      Xiangshan (Lrg)
+  Transport Jeep - UAZ-469 Support
+      Battle of Ia Drang (Inf/Alt/Std)
+      Charlies Point (Std)
+      Hill 488 (Std)
+      Operation Barracuda (Alt)
+      Vung Ro (Std)
+      Xiangshan (Lrg)

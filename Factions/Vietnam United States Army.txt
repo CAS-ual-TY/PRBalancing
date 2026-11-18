@@ -1,0 +1,53 @@
+======================================================================
+VIETNAM UNITED STATES ARMY
+======================================================================
+
+  APC                        M113                           (1 map)
+  APC                        M113 ACAV                      (1 map)
+  Armed Jeep                 M151A2                         (2 maps)
+  Attack Jet                 A-1H Skyraider                 (1 map)
+  Boat                       Patrol Boat-River              (2 maps)
+  Boat                       US Swift Boat                  (1 map)
+  Light Attack Helicopter    UH-1C Huey                     (2 maps)
+  Light Tank                 M67 Zippo                      (1 map)
+  Logistics Truck            M548A1                         (2 maps)
+  Support Truck              M35 2.5 Ton                    (2 maps)
+  Tank                       M48A1 Patton                   (1 map)
+  Transport Helicopter       H-34 Choctaw                   (1 map)
+  Transport Helicopter       UH-1D Huey                     (2 maps)
+
+----------------------------------------------------------------------
+WHERE USED
+----------------------------------------------------------------------
+  APC - M113
+      Xiangshan (Lrg)
+  APC - M113 ACAV
+      Xiangshan (Lrg)
+  Armed Jeep - M151A2
+      Hill 488 (Std)
+      Xiangshan (Lrg)
+  Attack Jet - A-1H Skyraider
+      Battle of Ia Drang (Alt/Std)
+  Boat - Patrol Boat-River
+      Hill 488 (Std)
+      Xiangshan (Lrg)
+  Boat - US Swift Boat
+      Xiangshan (Lrg)
+  Light Attack Helicopter - UH-1C Huey
+      Battle of Ia Drang (Alt/Std)
+      Xiangshan (Lrg)
+  Light Tank - M67 Zippo
+      Hill 488 (Std)
+  Logistics Truck - M548A1
+      Hill 488 (Std)
+      Xiangshan (Lrg)
+  Support Truck - M35 2.5 Ton
+      Hill 488 (Std)
+      Xiangshan (Lrg)
+  Tank - M48A1 Patton
+      Xiangshan (Lrg)
+  Transport Helicopter - H-34 Choctaw
+      Battle of Ia Drang (Inf/Alt/Std)
+  Transport Helicopter - UH-1D Huey
+      Battle of Ia Drang (Inf/Alt/Std)
+      Xiangshan (Lrg)
