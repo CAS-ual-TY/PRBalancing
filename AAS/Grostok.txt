@@ -1,0 +1,66 @@
+======================================================================
+GROSTOK
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chechnya]  tickets: 750
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 10m | Respawn: 10m
+     1x IFV                        BMP-1                          Delay: 10m | Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Technical                  DShKM Technical                Delay: 5m | Respawn: 5m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 15m
+  [Russian Armed Forces]  tickets: 750
+     2x APC                        BTR-80                         Delay: 10m | Respawn: 10m
+     2x APC                        MT-LB                          Delay: 10m | Respawn: 5m
+     1x IFV                        BMP-2                          Delay: 10m | Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chechnya]  tickets: 650
+     2x Armed Jeep                 UAZ-3151                       Delay: 5m | Respawn: 5m
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 5m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 15m
+  [Russian Armed Forces]  tickets: 700
+     2x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     2x APC                        MT-LB                          Delay: 5m | Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Chechnya]  tickets: 750
+     1x IFV                        BMP-1                          Delay: 10m | Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Recon Vehicle              BRDM-2                         Delay: 5m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72A                          Delay: 10m | Respawn: 20m
+     1x Technical                  SPG-9 Technical                Delay: 15m | Respawn: 15m
+  [Russian Armed Forces]  tickets: 750
+     1x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     1x APC                        MT-LB                          Delay: 5m | Respawn: 10m
+     1x IFV                        BMP-2                          Delay: 10m | Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 10m | Respawn: 20m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 800
+     1x APC                        BTR-80                         Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 5m
+     1x IFV                        BMP-2                          Delay: 10m | Respawn: 15m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 10m | Respawn: 20m
+  [Polish Armed Forces]  tickets: 800
+     1x Armed Jeep                 M1151 Up-Armored HMMWV         Delay: 5m | Respawn: 5m
+     1x IFV                        BWP-1                          Delay: 10m | Respawn: 15m
+     3x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2-M97 Zbik                Delay: 5m | Respawn: 10m
+     4x Support Truck              Star 944 Support               Respawn: 5m
+     1x Tank                       Leopard 2A4                    Delay: 10m | Respawn: 20m

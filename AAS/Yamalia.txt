@@ -1,0 +1,73 @@
+======================================================================
+YAMALIA
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: never
+  [Canadian Forces]  tickets: 500
+     2x Armed Jeep                 Mercedes G-Wagen               Respawn: 5m
+     2x Logistics Truck            MLVW Logistics                 Respawn: 5m
+     2x Support Truck              MLVW                           Respawn: 5m
+     2x Support Truck              MLVW                           Respawn: never
+     2x Transport Helicopter       CH-146 Griffon                 Respawn: 5m
+     1x Transport Helicopter       CH-147F Chinook                Respawn: 5m
+     2x Transport Jeep             Mercedes G-Wagen Support       Respawn: never
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 600
+     2x APC                        BTR-80                         Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     2x IFV                        BMP-3M                         Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+  [United States Army]  tickets: 600
+     2x APC                        M1126 Stryker ICV              Respawn: 10m
+     2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     2x IFV                        M2A2 Bradley ODS               Delay: 15m | Respawn: 15m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     3x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     1x APC                        BTR-80                         Respawn: 10m
+     1x APC                        BTR-82AM                       Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 15m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Canadian Forces]  tickets: 600
+     2x APC                        LAV-3                          Respawn: 10m
+     1x APC                        LAV-3                          Delay: 10m | Respawn: 10m
+     2x Logistics Truck            MLVW Logistics                 Respawn: 5m
+     1x Recon Vehicle              Coyote Recon Vehicle           Delay: 10m | Respawn: 15m
+     2x Support Truck              MLVW                           Respawn: 5m
+     2x Transport Helicopter       CH-146 Griffon                 Respawn: 5m
+     1x Transport Helicopter       CH-147F Chinook                Respawn: 5m
+     2x Transport Jeep             Mercedes G-Wagen Support       Respawn: 5m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     2x APC                        BTR-80                         Respawn: 10m
+     1x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Dutch Armed Forces]  tickets: 600
+     2x APC                        Boxer PWV                      Respawn: 10m
+     2x APC                        CV9035NL                       Delay: 10m | Respawn: 10m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     2x Support Truck              DAF YA-4442                    Respawn: 5m
+     3x Transport Helicopter       NH90 TTH                       Respawn: 5m
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m

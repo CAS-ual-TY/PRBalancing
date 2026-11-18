@@ -1,0 +1,55 @@
+======================================================================
+CARENTAN
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 900
+     3x APC                        SdKfz 251C                     Respawn: 10m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Recon Vehicle              SdKfz 231                      Respawn: 10m
+     3x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. F2             Respawn: 15m
+     1x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 800
+     2x APC                        M3A1 Halftrack                 Respawn: 10m
+     1x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     3x Support Truck              GMC CCKW                       Respawn: 5m
+     1x Tank                       M4A3 75mm                      Delay: 15m | Respawn: 15m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 800
+     2x APC                        SdKfz 251C                     Respawn: 10m
+     2x Civilian Vehicle           Buick                          Respawn: never
+     1x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Logistics Truck            Opel Blitz Logistics           Delay: 5m | Respawn: 5m
+     2x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Support Truck              Opel Blitz                     Delay: 5m | Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 15m | Respawn: 15m
+  [United States Army]  tickets: 900
+     2x APC                        M3A1 Halftrack                 Respawn: 10m
+     1x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     1x Recon Vehicle              M8 Greyhound                   Respawn: 10m
+     3x Support Truck              GMC CCKW                       Respawn: 5m
+     1x Tank                       M4A3 75mm                      Respawn: 15m
+     1x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+
+--- AAS Large (128) ---
+  [Wehrmacht]  tickets: 650
+     3x APC                        SdKfz 251C                     Respawn: 10m
+     2x Civilian Vehicle           Buick                          Respawn: never
+     1x Light Tank                 Stug III Ausf. B               Respawn: 15m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Recon Vehicle              SdKfz 231                      Respawn: 10m
+     3x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. D              Respawn: 15m
+  [United States Army]  tickets: 650
+     1x APC                        M3A1 Halftrack                 Respawn: 5m
+     1x APC                        M3A1 Halftrack                 Respawn: 10m
+     1x Light Tank                 M10 tank destroyer             Respawn: 15m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     2x Recon Vehicle              M8 Greyhound                   Respawn: 10m
+     3x Support Truck              GMC CCKW                       Respawn: 5m
+     1x Support Truck              GMC CCKW                       Delay: 5m | Respawn: 5m
+     1x Tank                       M4A3 75mm                      Respawn: 15m

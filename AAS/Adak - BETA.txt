@@ -1,0 +1,85 @@
+======================================================================
+ADAK - BETA
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 750
+     2x APC                        BTR-80                         Delay: 10m | Respawn: 15m
+     1x APC                        MT-LB                          Respawn: 10m
+     2x APC                        MT-LBVMK                       Respawn: 5m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 200m
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM UPK-23        Delay: 15m | Respawn: 20m
+     6x Boat                       RHIB                           Respawn: 5m
+     3x Logistics APC              MTP-LB                         Respawn: 5m
+     3x Support Vehicle            BRDM-2 Support                 Respawn: 5m
+     1x Transport Helicopter       KA-29                          Respawn: 5m
+  [United States Army]  tickets: 750
+     1x APC                        M1126 Stryker ICV              Delay: 10m | Respawn: 15m
+     2x Armed Jeep                 M1025 HMMWV                    Respawn: 5m
+     2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Civilian Vehicle           Industrial Forklift            Respawn: 200m
+     3x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Scout Helicopter           MH-6 Littlebird                Delay: 5m | Respawn: 15m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: never
+
+--- AAS Standard (64) ---
+  [Chinese Forces]  tickets: 750
+     1x APC                        ZSL-92 25mm                    Delay: 10m | Respawn: 10m
+     1x APC                        ZSL-92A                        Respawn: 10m
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     3x Boat                       Landing Boat                   Respawn: never
+     4x Boat                       RHIB                           Respawn: 5m
+     1x IFV                        ZSL-92B 30mm                   Delay: 10m | Respawn: 15m
+     1x Light Attack Helicopter    Z-9WA Haitun HF7D              Delay: 15m | Respawn: 20m
+     2x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     1x Transport Helicopter       Z-8KA                          Respawn: 5m
+     2x Transport Helicopter       Zhi-9B                         Respawn: 5m
+  [United States Army]  tickets: 750
+     2x Armed Jeep                 M1025 HMMWV                    Respawn: 5m
+     2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Civilian Vehicle           Industrial Forklift            Respawn: 200m
+     1x IFV                        M2A2 Bradley ODS               Delay: 10m | Respawn: 15m
+     3x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Scout Helicopter           MH-6 Littlebird                Delay: 5m | Respawn: 15m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+     1x Transport Jeep             M1038A1 HMMWV                  Respawn: never
+
+--- AAS Large (128) ---
+  [Chinese Forces]  tickets: 900
+     2x APC                        ZBL-08                         Respawn: 15m
+     4x APC                        ZSL-92A                        Respawn: 10m
+     2x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     3x Boat                       Landing Boat                   Delay: 5m | Respawn: 200m
+     4x Boat                       RHIB                           Delay: 1m | Respawn: 5m
+     1x Light Attack Helicopter    Z-9WA Haitun 23mm              Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    Z-9WA Haitun HF-25             Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    Z-9WA Haitun HF7D              Delay: 20m | Respawn: 20m
+     1x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     1x Transport Helicopter       Z-8KA                          Delay: 20m | Respawn: 5m
+     2x Transport Helicopter       Zhi-9B                         Delay: 2m | Respawn: 5m
+  [United States Army]  tickets: 1000
+     1x Armed Jeep                 M1025 HMMWV                    Respawn: 200m
+     1x Armed Jeep                 M1025 HMMWV                    Delay: 15m | Respawn: 5m
+     1x Armed Jeep                 M1151 Up-Armored HMMWV         Delay: 15m | Respawn: 5m
+     1x Boat                       RHIB                           Respawn: 200m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Civilian Vehicle           Industrial Forklift            Respawn: 200m
+     1x IFV                        M2A2 Bradley ODS               Delay: 15m | Respawn: 15m
+     1x Logistics Truck            M35 Logistics                  Respawn: 200m
+     1x Logistics Truck            M35 Logistics                  Delay: 15m | Respawn: 5m
+     1x Scout Helicopter           MH-6 Littlebird                Respawn: 15m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 200m
+     2x Support Truck              M35 2.5 Ton                    Delay: 15m | Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Delay: 15m | Respawn: 5m
+     4x Transport Jeep             M1038A1 HMMWV                  Respawn: 200m
+     2x Transport Jeep             M1038A1 HMMWV                  Delay: 15m | Respawn: 5m

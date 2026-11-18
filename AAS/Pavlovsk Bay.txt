@@ -1,0 +1,61 @@
+======================================================================
+PAVLOVSK BAY
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: never
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     6x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       KA-29                          Delay: 7m30s | Respawn: 7m30s
+  [USMC]  tickets: 500
+     4x Boat                       RHIB                           Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Delay: 10m | Respawn: 10m
+     1x Transport Helicopter       MV-22 Osprey                   Respawn: 5m
+     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 700
+     2x APC                        BTR-82AM                       Delay: 15m | Respawn: 15m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 15m | Respawn: 15m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: never
+     2x Mobile AA                  9K22 Tunguska                  Delay: 10m | Respawn: 10m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       KA-29                          Delay: 10m | Respawn: 10m
+  [USMC]  tickets: 700
+     3x APC                        LAV-25                         Respawn: 10m
+     1x Attack Helicopter          AH-1 SuperCobra                Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Light Attack Helicopter    UH-1N Twin Huey CAS            Delay: 15m | Respawn: 15m
+     2x Logistics Truck            M35 Logistics                  Delay: 10m | Respawn: 10m
+     1x Multirole Jet              AV-8B Harrier II+ CAS          Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       MV-22 Osprey                   Respawn: 7m30s
+     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 700
+     2x APC                        BTR-80                         Delay: 10m | Respawn: 10m
+     1x APC                        BTR-82AM                       Delay: 15m | Respawn: 15m
+     1x Armed Jeep                 GAZ Tigr                       Delay: 10m | Respawn: 10m
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM               Delay: 20m | Respawn: 20m
+     1x Armed Transport Helicopter KA-29 CAS UPK-23               Delay: 20m | Respawn: 20m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: never
+     2x Mobile AA                  9K35 Gopher                    Delay: 10m | Respawn: 10m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       KA-29                          Delay: 10m | Respawn: 10m
+  [USMC]  tickets: 700
+     1x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
+     2x APC                        LAV-25                         Respawn: 10m
+     1x Attack Helicopter          AH-1 SuperCobra                Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x Light Attack Helicopter    UH-1N Twin Huey CAS            Delay: 15m | Respawn: 15m
+     2x Logistics Truck            M35 Logistics                  Delay: 10m | Respawn: 10m
+     1x Multirole Jet              AV-8B Harrier II+              Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       MV-22 Osprey                   Respawn: 7m30s
+     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m

@@ -1,0 +1,85 @@
+======================================================================
+SHIJIA VALLEY
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chinese Forces]  tickets: 500
+     2x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 10m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Recon Vehicle              VN-3                           Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Transport Helicopter       Z-8KA                          Respawn: 5m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [British Armed Forces]  tickets: 500
+     2x Armed Jeep                 Land Rover                     Respawn: 10m
+     2x Armed Jeep                 Panther CLV                    Respawn: 10m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     2x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     1x Transport Helicopter       Lynx AH.9A                     Respawn: 5m
+     2x Transport Jeep             Land Rover Support             Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chinese Forces]  tickets: 550
+     1x APC                        ZSL-92 25mm                    Respawn: 10m
+     1x IFV                        ZBL-08                         Respawn: 10m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Recon Vehicle              VN-3                           Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Z-8KA                          Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [British Armed Forces]  tickets: 550
+     2x APC                        FV 510 Warrior                 Respawn: 10m
+     2x Armed Jeep                 Panther CLV                    Respawn: 5m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Recon Vehicle              FV 107 Scimitar                Respawn: 10m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     2x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     2x Transport Jeep             Land Rover Support             Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Chinese Forces]  tickets: 650
+     1x APC                        ZSL-92 25mm                    Respawn: 10m
+     1x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     1x IFV                        ZBL-08                         Respawn: 10m
+     1x Light Attack Helicopter    Z-9WA Haitun HF-25             Delay: 20m | Respawn: 20m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     1x Tank                       ZTZ-99 II                      Respawn: 20m
+     1x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Z-8KA                          Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [British Armed Forces]  tickets: 650
+     2x APC                        FV 510 Warrior                 Respawn: 10m
+     2x Armed Jeep                 Panther CLV                    Respawn: 5m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Mobile AA                  Stormer HVM                    Delay: 15m | Respawn: 15m
+     1x Recon Vehicle              FV 107 Scimitar                Respawn: 10m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Tank                       FV4034 Challenger 2            Respawn: 20m
+     1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     2x Transport Jeep             Land Rover Support             Respawn: 5m
+
+--- AAS Large (128) ---
+  [Chinese Forces]  tickets: 650
+     2x APC                        ZSL-92 25mm                    Respawn: 10m
+     1x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     1x Tank                       ZTZ-99 II                      Respawn: 20m
+     1x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Z-8KA                          Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [Canadian Forces]  tickets: 650
+     2x APC                        LAV-3                          Respawn: 10m
+     2x Armed Jeep                 Mercedes G-Wagen               Respawn: 5m
+     3x Logistics Truck            MLVW Logistics                 Respawn: 5m
+     3x Support Truck              MLVW                           Respawn: 5m
+     1x Tank                       Leopard 2A6                    Respawn: 20m
+     1x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       CH-147F Chinook                Respawn: 5m
+     2x Transport Jeep             Mercedes G-Wagen Support       Respawn: 5m

@@ -1,0 +1,40 @@
+======================================================================
+VUNG RO
+======================================================================
+
+--- AAS Standard (64) ---
+  [North Vietnamese Army]  tickets: 700
+     2x APC                        BTR-60PB                       Respawn: 10m
+     2x Armed Jeep                 UAZ-469                        Respawn: 5m
+     6x Boat                       Sampan                         Respawn: never
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Mobile AA                  ZSU-57-2                       Delay: 15m | Respawn: 15m
+     4x Support Truck              ZIL 131                        Respawn: 5m
+     2x Support Truck              ZIL 131                        Respawn: never
+     2x Tank                       PT-76                          Respawn: 20m
+     1x Tank                       T-55                           Delay: 20m | Respawn: never
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 10m | Respawn: 5m
+     2x Transport Jeep             UAZ-469 Support                Respawn: 5m
+     2x Transport Jeep             UAZ-469 Support                Respawn: never
+  [USMC]  tickets: 700
+     2x APC                        M113                           Respawn: 10m
+     1x APC                        M113 ACAV                      Respawn: 10m
+     1x APC                        M3A1 Halftrack                 Respawn: never
+     3x Armed Jeep                 M151A2                         Respawn: 5m
+     1x Attack Jet                 A-1H Skyraider                 Respawn: never
+     1x Boat                       Patrol Boat-River              Respawn: 5m
+     1x Boat                       Patrol Boat-River              Respawn: never
+     2x Boat                       US Swift Boat                  Respawn: 5m
+     2x Light Attack Helicopter    UH-1C Huey                     Delay: 10m | Respawn: 20m
+     1x Light Tank                 M67 Zippo                      Delay: 15m | Respawn: 20m
+     2x Logistics Truck            M548A1                         Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 15m | Respawn: 15m
+     4x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Tank                       M48A1 Patton                   Delay: 15m | Respawn: 20m
+     1x Tank                       M48A1 Patton                   Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       H-34 Choctaw                   Respawn: 5m
+     1x Transport Helicopter       UH-1C Huey                     Respawn: 5m
+     1x Transport Helicopter       UH-1D Huey                     Respawn: 5m
+     1x Transport Helicopter       UH-1D Huey                     Respawn: never
+     1x Transport Jeep             M151A2 Support                 Respawn: 5m

@@ -1,0 +1,77 @@
+======================================================================
+BEIRUT
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 550
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     3x Transport Helicopter       KA-29                          Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Delay: 10m | Respawn: 10m
+  [Israeli Defence Force]  tickets: 550
+     2x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Logistics APC              M113 Logistics                 Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     4x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       UH-60L Yanshuf                 Delay: 5m | Respawn: 5m
+     2x Transport Jeep             HMMWV SIYUR                    Delay: 10m | Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 700
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM               Delay: 20m | Respawn: 20m
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM UPK-23        Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x IFV                        BMP-3M                         Delay: 15m | Respawn: 15m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Delay: 10m | Respawn: 10m
+     1x Transport Helicopter       KA-29                          Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+  [Israeli Defence Force]  tickets: 700
+     2x APC                        Namer                          Delay: 15m | Respawn: 15m
+     1x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Logistics APC              M113 Logistics                 Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Mobile AA                  M163 Vulcan                    Delay: 15m | Respawn: 15m
+     4x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     2x Transport Jeep             HMMWV SIYUR                    Delay: 10m | Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 700
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     3x Transport Helicopter       KA-29                          Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Delay: 10m | Respawn: 10m
+  [Israeli Defence Force]  tickets: 700
+     1x APC                        Namer                          Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Logistics APC              M113 Logistics                 Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     4x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Tank                       Merkava Mark IV                Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       UH-60L Yanshuf                 Delay: 5m | Respawn: 5m
+     2x Transport Jeep             HMMWV SIYUR                    Delay: 10m | Respawn: 10m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 700
+     2x APC                        MT-LBVMK                       Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x IFV                        BMP-2M                         Delay: 15m | Respawn: 15m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     3x Transport Helicopter       KA-29                          Respawn: 5m
+  [Middle Eastern Coalition]  tickets: 700
+     2x APC                        MT-LB 6M                       Respawn: 10m
+     2x Armed Jeep                 AMZ DZIK-3                     Delay: 10m | Respawn: 10m
+     2x IFV                        BMP-2M                         Delay: 15m | Respawn: 15m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m

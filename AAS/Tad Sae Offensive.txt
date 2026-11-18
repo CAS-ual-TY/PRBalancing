@@ -1,0 +1,21 @@
+======================================================================
+TAD SAE OFFENSIVE
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chinese Forces]  tickets: 500
+     2x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+  [USMC]  tickets: 500
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [North Vietnamese Army]  tickets: 500
+     2x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+  [USMC]  tickets: 500
+     2x Logistics Truck            M548A1                         Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Chinese Forces]  tickets: 500
+     2x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+  [USMC]  tickets: 500
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m

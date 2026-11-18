@@ -1,0 +1,91 @@
+======================================================================
+ICEBREAKER
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 400
+     3x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 0s
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: never
+     1x Logistics Truck            KamAZ-5350                     Respawn: never
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 0s
+     1x Support Truck              KamAZ-4350                     Respawn: never
+  [United States Army]  tickets: 400
+     3x Armed Jeep                 M1151 Up-Armored HMMWV         Delay: 5m | Respawn: 0s
+     1x Armed Jeep                 M1151 Up-Armored HMMWV CROWS   Respawn: never
+     3x Civilian Vehicle           All-Terrain Vehicle            Delay: 5m | Respawn: 0s
+     1x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 0s
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 600
+     2x APC                        BTR-80                         Delay: 15m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 0s
+     2x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 10m | Respawn: 0s
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM               Delay: 20m | Respawn: 20m
+     1x IFV                        BMP-3M                         Delay: 15m | Respawn: 20m
+     1x Logistics Truck            KamAZ-5350                     Respawn: never
+     3x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 0s
+     1x Mobile AA                  9K22 Tunguska                  Delay: 15m | Respawn: 20m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Support Truck              KamAZ-4350                     Delay: 5m | Respawn: 0s
+     1x Tank                       T-90A                          Delay: 15m | Respawn: never
+     1x Transport Helicopter       KA-29                          Delay: 10m | Respawn: 15m
+  [United States Army]  tickets: 600
+     2x APC                        M1126 Stryker ICV              Delay: 10m | Respawn: 0s
+     3x Armed Jeep                 M1151 Up-Armored HMMWV         Delay: 5m | Respawn: 0s
+     2x Armed Jeep                 M1151 Up-Armored HMMWV CROWS   Delay: 10m | Respawn: 0s
+     1x ATGM Vehicle               M1167 HMMWV Up-Armored TOW     Delay: 20m | Respawn: never
+     1x Attack Helicopter          AH-64D Apache Longbow          Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 0s
+     1x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 0s
+     1x Transport Helicopter       MH-60L Blackhawk               Delay: 10m | Respawn: 0s
+     1x Transport Helicopter       MH-60L Blackhawk               Delay: 15m | Respawn: 0s
+     1x Transport Jeep             M1038A1 HMMWV                  Delay: 5m | Respawn: 0s
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 600
+     2x APC                        BTR-80                         Delay: 15m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 0s
+     2x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 10m | Respawn: 0s
+     1x Armed Transport Helicopter KA-29 CAS S-8KOM               Delay: 20m | Respawn: 20m
+     1x IFV                        BMP-3M                         Delay: 15m | Respawn: 20m
+     1x Logistics Truck            KamAZ-5350                     Respawn: never
+     3x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 0s
+     1x Mobile AA                  9K22 Tunguska                  Delay: 15m | Respawn: 20m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Support Truck              KamAZ-4350                     Delay: 5m | Respawn: 0s
+     1x Tank                       T-90A                          Delay: 15m | Respawn: never
+     1x Transport Helicopter       KA-29                          Delay: 10m | Respawn: 15m
+  [United States Army]  tickets: 600
+     2x APC                        M1126 Stryker ICV              Delay: 10m | Respawn: 0s
+     3x Armed Jeep                 M1151 Up-Armored HMMWV         Delay: 5m | Respawn: 0s
+     2x Armed Jeep                 M1151 Up-Armored HMMWV CROWS   Delay: 10m | Respawn: 0s
+     1x ATGM Vehicle               M1167 HMMWV Up-Armored TOW     Delay: 20m | Respawn: never
+     1x Attack Helicopter          AH-64D Apache Longbow          Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 0s
+     1x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 0s
+     1x Transport Helicopter       MH-60L Blackhawk               Delay: 10m | Respawn: 0s
+     1x Transport Helicopter       MH-60L Blackhawk               Delay: 15m | Respawn: 0s
+     1x Transport Jeep             M1038A1 HMMWV                  Delay: 5m | Respawn: 0s
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 600
+     2x APC                        BTR-80                         Delay: 15m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 0s
+     1x Armed Transport Helicopter KA-29                          Delay: 10m | Respawn: 15m
+     1x IFV                        BMP-3M                         Delay: 15m | Respawn: 20m
+     1x Logistics Truck            KamAZ-5350                     Respawn: never
+     3x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 0s
+     1x Mobile AA                  9K35 Gopher                    Delay: 15m | Respawn: 20m
+     2x Support Truck              KamAZ-4350                     Respawn: never
+     3x Support Truck              KamAZ-4350                     Delay: 5m | Respawn: 0s
+  [Canadian Forces]  tickets: 600
+     2x APC                        LAV-3                          Delay: 10m | Respawn: 0s
+     3x Armed Jeep                 Mercedes G-Wagen               Delay: 5m | Respawn: 0s
+     1x Armed Transport Helicopter CH-146 Griffon CAS             Respawn: 10m
+     1x Armed Transport Helicopter CH-146 Griffon CAS             Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 0s
+     1x Logistics Truck            MLVW Logistics                 Delay: 5m | Respawn: 0s
+     1x Recon Vehicle              Coyote Recon Vehicle           Delay: 20m | Respawn: never
+     1x Transport Helicopter       CH-146 Griffon                 Delay: 10m | Respawn: 0s
+     1x Transport Helicopter       CH-147F Chinook                Delay: 15m | Respawn: 0s
+     1x Transport Jeep             Mercedes G-Wagen Support       Delay: 5m | Respawn: 0s

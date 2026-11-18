@@ -1,0 +1,52 @@
+======================================================================
+SAHEL
+======================================================================
+
+--- AAS Infantry (16) ---
+  [African Resistance Fighters]  tickets: 400
+     2x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Support Technical          Support Technical              Respawn: 5m
+     4x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  M2HB Technical                 Respawn: 5m
+  [French Forces]  tickets: 400
+     2x APC                        VAB VTT                        Delay: 5m | Respawn: 5m
+     2x Logistics Truck            GBC 180 Logistics              Delay: 5m | Respawn: 5m
+     4x Support Truck              GBC-180                        Delay: 5m | Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chinese Forces]  tickets: 600
+     2x APC                        ZSL-92A                        Respawn: 10m
+     2x Armed Jeep                 Norinco FAV                    Respawn: 10m
+     3x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Light Tank                 ZTL-11                         Delay: 10m | Respawn: 15m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     6x Support Truck              Dongfeng EQ1108                Respawn: 5m
+  [French Forces]  tickets: 600
+     3x APC                        VAB VTT                        Respawn: 10m
+     3x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Light Tank                 AMX-10RC                       Delay: 10m | Respawn: 15m
+     3x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     6x Support Truck              GBC-180                        Respawn: 5m
+
+--- AAS Standard (64) ---
+  [African Resistance Fighters]  tickets: 720
+     2x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     1x Support Technical          Support Technical              Respawn: 5m
+     4x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Respawn: 20m
+     1x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  M2HB Technical                 Respawn: 5m
+  [French Forces]  tickets: 600
+     4x APC                        VAB VTT                        Delay: 5m | Respawn: 5m
+     1x Light Tank                 AMX-10RC                       Respawn: 20m
+     2x Logistics Truck            GBC 180 Logistics              Delay: 5m | Respawn: 5m
+     4x Support Truck              GBC-180                        Delay: 5m | Respawn: 5m
+     1x Transport Helicopter       NH90 TTH                       Respawn: 5m

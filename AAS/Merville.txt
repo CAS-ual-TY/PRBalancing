@@ -1,0 +1,19 @@
+======================================================================
+MERVILLE
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Wehrmacht]  tickets: 500
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Support Truck              Opel Blitz                     Respawn: 5m
+  [United States Army]  tickets: 500
+     1x APC                        M3A1 Halftrack                 Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 500
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Support Truck              Opel Blitz                     Respawn: 5m
+  [United States Army]  tickets: 500
+     1x APC                        M3A1 Halftrack                 Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m

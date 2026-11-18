@@ -1,0 +1,31 @@
+======================================================================
+ASAD KHAL
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 600
+     1x APC                        MT-LB 6M                       Respawn: 10m
+     1x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: never
+     3x Support Truck              Ural-4320                      Respawn: 5m
+  [Israeli Defence Force]  tickets: 600
+     1x APC                        M113                           Respawn: 10m
+     1x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Logistics Truck            M35 Logistics                  Respawn: never
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Hamas]  tickets: 650
+     1x Car Bomb                   Car Bomb                       Delay: 15m | Respawn: 15m
+     1x Civilian Vehicle           Civilian Car                   Respawn: 10m
+     1x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 10m
+  [Israeli Defence Force]  tickets: 650
+     1x APC                        M113                           Respawn: 10m
+     1x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Logistics Truck            M35 Logistics                  Respawn: never
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m

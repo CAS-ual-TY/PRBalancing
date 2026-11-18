@@ -1,0 +1,55 @@
+======================================================================
+GAZA
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Hamas]  tickets: 500
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+    18x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     2x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Support Technical          Support Technical              Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Technical                  DShKM Technical                Respawn: never
+     1x Technical                  M2HB Technical                 Respawn: 10m
+  [Israeli Defence Force]  tickets: 500
+     2x APC                        M113                           Respawn: 10m
+     2x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              M113 Logistics                 Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Transport Jeep             HMMWV SIYUR                    Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 700
+     2x APC                        MT-LB 6M                       Respawn: 10m
+     2x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Transport Jeep             UAZ-3151 Support               Respawn: 5m
+  [Israeli Defence Force]  tickets: 700
+     2x APC                        M113                           Respawn: 10m
+     2x Armed Jeep                 HMMWV SIYUR                    Respawn: 10m
+     1x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              M113 Logistics                 Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Transport Jeep             HMMWV SIYUR                    Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Hamas]  tickets: 700
+     1x Car Bomb                   Car Bomb                       Delay: 20m | Respawn: 20m
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+    18x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     2x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Support Technical          Support Technical              Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Technical                  DShKM Technical                Respawn: never
+     1x Technical                  M2HB Technical                 Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 15m
+  [Israeli Defence Force]  tickets: 700
+     2x APC                        M113                           Respawn: 10m
+     1x APC                        Namer                          Respawn: 15m
+     1x APC                        Namer                          Delay: 15m | Respawn: 15m
+     2x Armed Jeep                 HMMWV SIYUR                    Respawn: never
+     1x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              M113 Logistics                 Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Transport Jeep             HMMWV SIYUR                    Respawn: 5m

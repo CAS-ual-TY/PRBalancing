@@ -1,0 +1,37 @@
+======================================================================
+MASIRAH
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Middle Eastern Coalition]  tickets: 550
+     4x APC                        Boragh                         Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     4x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+  [French Forces]  tickets: 550
+     4x APC                        VAB VTT                        Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     2x Support Truck              GBC-180                        Respawn: 5m
+     4x Transport Helicopter       NH90 NFH                       Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Middle Eastern Coalition]  tickets: 600
+     4x APC                        Boragh                         Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x IFV                        BMP-2M                         Delay: 10m | Respawn: 10m
+     1x Light Attack Helicopter    SOKO HN-45M Gama 2             Delay: 20m | Respawn: 20m
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     4x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+  [French Forces]  tickets: 600
+     4x APC                        VAB VTT                        Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 5m
+     1x Light Attack Helicopter    SA-342 Gazelle                 Delay: 20m | Respawn: 20m
+     1x Light Tank                 AMX-10RC                       Delay: 10m | Respawn: 10m
+     1x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     2x Support Truck              GBC-180                        Respawn: 5m
+     1x Tank                       AMX-56 Leclerc                 Delay: 20m | Respawn: 20m
+     4x Transport Helicopter       NH90 NFH                       Respawn: 5m

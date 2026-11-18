@@ -1,0 +1,54 @@
+======================================================================
+KRIVAJA VALLEY
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 750
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 15m
+     4x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 5m | Respawn: 10m
+     2x Recon Vehicle              BRDM-2                         Delay: 5m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72A                          Delay: 5m | Respawn: 20m
+  [French Forces]  tickets: 750
+     2x APC                        VAB VTT                        Delay: 5m | Respawn: 10m
+     1x APC                        VAB VTT                        Delay: 5m | Respawn: 15m
+     1x Light Tank                 AMX-10RC                       Delay: 5m | Respawn: 20m
+     4x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     4x Support Truck              GBC-180                        Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 750
+     1x APC                        BTR-60PB                       Respawn: 10m
+     1x APC                        MT-LB                          Respawn: 10m
+     1x APC                        MT-LBVMK                       Respawn: 10m
+     4x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 5m | Respawn: 20m
+  [Militia]  tickets: 750
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 15m
+     2x Logistics Jeep             UAZ-3151 Logistics             Respawn: 5m
+     4x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 5m | Respawn: 10m
+     1x Recon Vehicle              BRDM-2                         Delay: 5m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72A                          Delay: 5m | Respawn: 20m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 750
+     1x APC                        BTR-60PB                       Delay: 10m | Respawn: 15m
+     1x APC                        MT-LBVMK                       Delay: 5m | Respawn: 10m
+     1x Attack Helicopter          Mi-24V Hind-E                  Delay: 20m | Respawn: 20m
+     4x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 5m | Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 10m | Respawn: 20m
+     1x Transport Helicopter       Mi-8MT Hip-C                   Respawn: 5m
+  [French Forces]  tickets: 750
+     2x APC                        VAB VTT                        Delay: 5m | Respawn: 10m
+     1x APC                        VAB VTT                        Delay: 10m | Respawn: 15m
+     1x Light Attack Helicopter    SA-342 Gazelle                 Delay: 20m | Respawn: 15m
+     1x Light Tank                 AMX-10RC                       Delay: 10m | Respawn: 20m
+     4x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     4x Support Truck              GBC-180                        Respawn: 5m
+     1x Transport Helicopter       CH-147 Chinook                 Respawn: 5m

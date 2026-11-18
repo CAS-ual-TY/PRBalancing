@@ -1,0 +1,67 @@
+======================================================================
+IRON RIDGE
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 550
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 5m | Respawn: 10m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+  [Polish Armed Forces]  tickets: 550
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 10m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     4x Support Truck              Star 944 Support               Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 10m
+     2x Transport Jeep             Honker 2000                    Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 550
+     1x IFV                        BMP-1                          Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 7m30s
+     1x Technical                  M2HB Technical                 Respawn: 7m30s
+     1x Technical                  SPG-9 Technical                Respawn: 10m
+  [Polish Armed Forces]  tickets: 500
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 7m30s
+     2x IFV                        BWP-1                          Respawn: 10m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     4x Support Truck              Star 944 Support               Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BMP-2                          Respawn: 15m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 5m | Respawn: 10m
+  [Polish Armed Forces]  tickets: 600
+     1x APC                        KTO Rosomak                    Respawn: 15m
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 7m30s
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2-M97 Zbik                Respawn: 10m
+     4x Support Truck              Star 944 Support               Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 10m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 650
+     2x APC                        BTR-80                         Respawn: 10m
+     1x APC                        BTR-80                         Delay: 10m | Respawn: 10m
+     1x APC                        BTR-80A                        Delay: 15m | Respawn: 15m
+     1x Attack Helicopter          Mi-24P Hind-F                  Delay: 20m | Respawn: 20m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+  [Militia]  tickets: 700
+     1x IFV                        BMP-1                          Delay: 10m | Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     1x Support Technical          Support Technical              Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Technical                  DShKM Technical                Respawn: 7m30s
+     1x Technical                  M2HB Technical                 Respawn: 7m30s
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 10m

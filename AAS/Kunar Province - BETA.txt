@@ -1,0 +1,93 @@
+======================================================================
+KUNAR PROVINCE - BETA
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Taliban]  tickets: 850
+     2x Car Bomb                   Car Bomb                       Respawn: 5m
+     2x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     8x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x Civilian Vehicle           Honda CB500                    Respawn: 5m
+     2x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 5m
+     3x Support Technical          Support Technical              Respawn: 5m
+     4x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 5m
+     2x Technical                  SPG-9 Technical                Respawn: 5m
+  [USMC]  tickets: 450
+     4x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     1x Light Attack Helicopter    OH-58D Kiowa Hydra/.50         Respawn: 15m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     4x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Taliban]  tickets: 750
+     1x Car Bomb                   Car Bomb                       Respawn: 20m
+     1x Car Bomb                   Suicide Dumpster Truck         Delay: 20m | Respawn: 20m
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     6x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     1x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x Civilian Vehicle           Honda CB500                    Respawn: 5m
+     4x Logistics Technical        Logistics Technical            Respawn: 5m
+     2x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     2x Technical                  DShKM Technical                Respawn: 5m
+     2x Technical                  M2HB Technical                 Respawn: 5m
+     2x Technical                  Rocket Technical               Respawn: 5m
+     2x Technical                  SPG-9 Technical                Respawn: 10m
+  [USMC]  tickets: 800
+     4x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     1x Attack Helicopter          AH-64D Apache Longbow          Delay: 10m | Respawn: 20m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Scout Helicopter           MH-6 Littlebird                Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       MV-22 Osprey                   Respawn: 5m
+     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Taliban]  tickets: 800
+     1x Car Bomb                   Car Bomb                       Respawn: 20m
+     1x Car Bomb                   Suicide Dumpster Truck         Delay: 20m | Respawn: 20m
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     6x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     1x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x Civilian Vehicle           Honda CB500                    Respawn: 5m
+     2x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     2x Support Technical          Support Technical              Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 5m
+     2x Technical                  M2HB Technical                 Respawn: 5m
+     2x Technical                  Rocket Technical               Respawn: 10m
+     2x Technical                  SPG-9 Technical                Respawn: 5m
+  [USMC]  tickets: 800
+     2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     2x Armed Jeep                 M1151 Up-Armored HMMWV MK19    Respawn: 5m
+     1x Attack Jet                 A-10A Thunderbolt II           Delay: 10m | Respawn: 20m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
+     1x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+
+--- AAS Large (128) ---
+  [Middle Eastern Coalition]  tickets: 800
+     1x APC                        BTR-80                         Respawn: 10m
+     2x Armed Jeep                 AMZ DZIK-3                     Respawn: 5m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Multirole Jet              MiG-29 Fulcrum                 Delay: 10m | Respawn: 20m
+     2x Scout Helicopter           SOKO HO-42                     Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     2x Transport Jeep             UAZ-3151 Support               Respawn: 5m
+  [USMC]  tickets: 800
+     1x APC                        M1126 Stryker ICV              Respawn: 10m
+     2x Armed Jeep                 M1025 HMMWV                    Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Multirole Jet              F-16C Fighting Falcon          Delay: 10m | Respawn: 20m
+     2x Scout Helicopter           MH-6 Littlebird                Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     1x Transport Helicopter       UH-60L Blackhawk               Respawn: 5m
+     2x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m

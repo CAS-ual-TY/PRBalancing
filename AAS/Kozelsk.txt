@@ -1,0 +1,71 @@
+======================================================================
+KOZELSK
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Militia]  tickets: 600
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 10m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     1x Support Technical          Support Technical              Respawn: 5m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 10m
+  [Russian Armed Forces]  tickets: 600
+     2x APC                        MT-LBVMK                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x Boat                       RHIB                           Respawn: 5m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Recon Vehicle              BRDM-2                         Respawn: 10m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 600
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 15m
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 20m | Respawn: 20m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x IFV                        BMP-1                          Respawn: 15m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Respawn: 15m
+     1x Support Technical          Support Technical              Respawn: 5m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     2x Technical                  DShKM Technical                Respawn: 10m
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BTR-80                         Respawn: 10m
+     1x APC                        MT-LBVMK                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x IFV                        BMP-3                          Delay: 15m | Respawn: 15m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Respawn: 20m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Militia]  tickets: 600
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 15m
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 20m | Respawn: 20m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x IFV                        BMP-1                          Respawn: 15m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Respawn: 15m
+     1x Support Technical          Support Technical              Respawn: 5m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     2x Technical                  DShKM Technical                Respawn: 10m
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BTR-80                         Respawn: 10m
+     1x APC                        MT-LBVMK                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x Boat                       RHIB                           Respawn: 5m
+     1x IFV                        BMP-3                          Delay: 15m | Respawn: 15m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     3x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Respawn: 20m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m

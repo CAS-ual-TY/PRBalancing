@@ -1,0 +1,92 @@
+======================================================================
+XIANGSHAN
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chinese Forces]  tickets: 500
+     3x APC                        ZSL-92A                        Respawn: 5m
+     1x Boat                       Landing Boat                   Respawn: never
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m
+  [French Forces]  tickets: 500
+     3x APC                        VAB VTT                        Respawn: 5m
+     1x Boat                       RHIB                           Respawn: never
+     3x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     3x Support Truck              GBC-180                        Respawn: 5m
+     1x Transport Helicopter       AS565 MB Panther               Respawn: 5m
+     1x Transport Helicopter       NH90 NFH                       Respawn: 20m
+     1x Transport Helicopter       NH90 NFH                       Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chinese Forces]  tickets: 650
+     2x APC                        ZSL-92 25mm                    Delay: 10m | Respawn: 10m
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     1x ATGM Vehicle               WZ550                          Delay: 20m | Respawn: 10m
+     1x Boat                       Landing Boat                   Respawn: never
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     3x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m
+  [Polish Armed Forces]  tickets: 650
+     2x APC                        KTO Rosomak                    Delay: 10m | Respawn: 10m
+     3x Armed Jeep                 Honker Skorpion-3              Respawn: 5m
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 20m | Respawn: 10m
+     1x Boat                       RHIB                           Respawn: never
+     3x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     3x Support Truck              Star 944 Support               Respawn: 5m
+     3x Tank                       PT-91 Twardy                   Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       W-3T Sokol                     Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Chinese Forces]  tickets: 650
+     1x APC                        ZSL-92 25mm                    Delay: 10m | Respawn: 10m
+     3x APC                        ZSL-92A                        Respawn: 5m
+     1x Boat                       Landing Boat                   Respawn: never
+     1x IFV                        ZBD-86A                        Delay: 10m | Respawn: 10m
+     1x Light Attack Helicopter    Z-9WA Haitun HJ-8              Delay: 20m | Respawn: 20m
+     1x Light Tank                 ZTL-11                         Delay: 20m | Respawn: 10m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m
+  [French Forces]  tickets: 650
+     3x APC                        VAB VTT                        Respawn: 5m
+     2x APC                        VBCI                           Delay: 10m | Respawn: 10m
+     1x Boat                       RHIB                           Respawn: never
+     1x Light Attack Helicopter    SA-342 Gazelle                 Delay: 20m | Respawn: 20m
+     1x Light Tank                 AMX-10RC                       Delay: 20m | Respawn: 10m
+     3x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     3x Support Truck              GBC-180                        Respawn: 5m
+     2x Tank                       AMX-56 Leclerc                 Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       AS565 MB Panther               Respawn: 5m
+     1x Transport Helicopter       NH90 NFH                       Respawn: 5m
+
+--- AAS Large (128) ---
+  [North Vietnamese Army]  tickets: 650
+     1x APC                        BTR-60PB                       Delay: 10m | Respawn: 10m
+     3x Armed Jeep                 UAZ-469                        Respawn: 5m
+     7x Boat                       Sampan                         Respawn: never
+     1x Boat                       Sampan                         Delay: never | Respawn: never
+     3x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Mobile AA                  ZSU-57-2                       Delay: 15m | Respawn: 20m
+     5x Support Truck              ZIL 131                        Respawn: 5m
+     2x Tank                       PT-76                          Delay: 15m | Respawn: 20m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 10m | Respawn: 10m
+     2x Transport Jeep             UAZ-469 Support                Respawn: 5m
+  [United States Army]  tickets: 650
+     2x APC                        M113                           Respawn: 10m
+     1x APC                        M113 ACAV                      Respawn: 10m
+     3x Armed Jeep                 M151A2                         Respawn: 5m
+     2x Boat                       Patrol Boat-River              Respawn: never
+     2x Boat                       US Swift Boat                  Respawn: never
+     2x Light Attack Helicopter    UH-1C Huey                     Delay: 15m | Respawn: 20m
+     3x Logistics Truck            M548A1                         Respawn: 5m
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     3x Tank                       M48A1 Patton                   Delay: 15m | Respawn: 20m
+     2x Transport Helicopter       UH-1D Huey                     Respawn: 5m

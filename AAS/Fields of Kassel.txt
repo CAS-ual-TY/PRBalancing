@@ -1,0 +1,83 @@
+======================================================================
+FIELDS OF KASSEL
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Wehrmacht]  tickets: 600
+     2x APC                        SdKfz 251C                     Respawn: 5m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Recon Vehicle              SdKfz 231                      Respawn: 10m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. F2             Respawn: 20m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 600
+     2x APC                        M3A1 Halftrack                 Respawn: 5m
+     4x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     1x Recon Vehicle              M8 Greyhound                   Respawn: 15m
+     1x Recon Vehicle              M8 Greyhound                   Respawn: 10m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     2x Tank                       M4A3 75mm                      Respawn: 20m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 750
+     4x APC                        SdKfz 251C                     Respawn: 5m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Respawn: 10m
+     3x Multirole Jet              Messerschmitt Bf-109           Delay: 5m | Respawn: 20m
+     1x Recon Vehicle              SdKfz 231                      Delay: 5m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Delay: 5m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. F2             Delay: 5m | Respawn: 15m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 750
+     4x APC                        M3A1 Halftrack                 Respawn: 5m
+     3x Attack Jet                 P-51D Mustang                  Delay: 5m | Respawn: 20m
+     4x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Respawn: 10m
+     2x Recon Vehicle              M8 Greyhound                   Delay: 5m | Respawn: 15m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     2x Tank                       M4A3 75mm                      Delay: 5m | Respawn: 15m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 800
+     4x APC                        SdKfz 251C                     Respawn: 5m
+     1x Attack Jet                 Ju-87B Stuka                   Delay: 10m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Respawn: 10m
+     1x Multirole Jet              Messerschmitt Bf-109           Delay: 10m | Respawn: 20m
+     1x Recon Vehicle              SdKfz 231                      Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. F2             Delay: 5m | Respawn: 15m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 750
+     4x APC                        M3A1 Halftrack                 Respawn: 10m
+     2x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     2x Attack Jet                 P-51D Mustang                  Delay: 5m | Respawn: 20m
+     1x Light Tank                 M10 tank destroyer             Respawn: 15m
+     4x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Respawn: 10m
+     2x Recon Vehicle              M8 Greyhound                   Respawn: 15m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     1x Tank                       M4A3 75mm                      Respawn: 15m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+
+--- AAS Large (128) ---
+  [Wehrmacht]  tickets: 800
+     4x APC                        SdKfz 251C                     Respawn: 5m
+     6x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Mobile AA                  Opel Blitz Flak 38             Respawn: 10m
+     4x Multirole Jet              Messerschmitt Bf-109           Delay: 5m | Respawn: 20m
+     6x Support Truck              Opel Blitz                     Respawn: 5m
+     4x Support Truck              Opel Blitz                     Respawn: never
+     6x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 750
+     2x Armed Jeep                 Willys MB-2                    Delay: 5m | Respawn: 5m
+     4x Attack Jet                 P-51D Mustang                  Delay: 5m | Respawn: 20m
+    18x Cargo Plane                Douglas C-47 Skytrain          Delay: 1m | Respawn: 30s
+     4x Logistics Truck            GMC CCKW Logistics             Delay: 5m | Respawn: 5m
+     2x Mobile AA                  M3A1 Halftrack M45             Delay: 10m | Respawn: 10m
+     4x Support Truck              GMC CCKW                       Delay: 5m | Respawn: 5m
+     2x Transport Jeep             Willys MB-2 Support            Delay: 5m | Respawn: 5m

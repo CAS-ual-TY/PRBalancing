@@ -1,0 +1,77 @@
+======================================================================
+FOOLS ROAD
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Militia]  tickets: 550
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Support Technical          Support Technical              Delay: 5m | Respawn: 5m
+     5x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Delay: 5m | Respawn: 10m
+     4x Technical                  DShKM Technical                Delay: 5m | Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 10m
+  [British Armed Forces]  tickets: 500
+     4x Armed Jeep                 Land Rover                     Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Land Rover GMG                 Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Delay: 5m | Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     5x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Jeep             Land Rover Support             Delay: 5m | Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 650
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 5m | Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 5m | Respawn: 10m
+     1x Support Technical          Support Technical              Delay: 5m | Respawn: 5m
+     5x Support Truck              Ural-4320                      Respawn: 5m
+     2x Technical                  DShKM Technical                Delay: 5m | Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 10m
+  [British Armed Forces]  tickets: 600
+     2x Armed Jeep                 Land Rover                     Delay: 5m | Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Recon Vehicle              FV 107 Scimitar                Delay: 5m | Respawn: 10m
+     5x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Chinook HC.4                   Delay: 10m | Respawn: 10m
+     1x Transport Jeep             Land Rover Support             Delay: 5m | Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Militia]  tickets: 650
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 5m | Respawn: 15m
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Support Technical          Support Technical              Delay: 5m | Respawn: 5m
+     5x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Delay: 5m | Respawn: 10m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Technical                  DShKM Technical                Delay: 5m | Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 10m
+  [British Armed Forces]  tickets: 600
+     2x APC                        FV 510 Warrior                 Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Land Rover                     Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Land Rover GMG                 Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Delay: 5m | Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     5x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     1x Transport Jeep             Land Rover Support             Delay: 5m | Respawn: 10m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BTR-82AM                       Delay: 5m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 5m | Respawn: 10m
+     1x ATGM Vehicle               9P149 Shturm-S                 Delay: 5m | Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     5x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 20m | Respawn: 20m
+     1x Transport Jeep             GAZ Tigr Support               Delay: 5m | Respawn: 10m
+  [British Armed Forces]  tickets: 600
+     2x APC                        FV 510 Warrior                 Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Land Rover                     Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Land Rover GMG                 Delay: 5m | Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Delay: 5m | Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     5x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     1x Transport Jeep             Land Rover Support             Delay: 5m | Respawn: 10m

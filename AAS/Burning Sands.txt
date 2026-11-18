@@ -1,0 +1,82 @@
+======================================================================
+BURNING SANDS
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Middle Eastern Coalition]  tickets: 500
+     2x APC                        MT-LB                          Respawn: 10m
+     3x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              FV101 Scorpion                 Delay: 15m | Respawn: 15m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+  [British Armed Forces]  tickets: 500
+     4x Armed Jeep                 Land Rover                     Respawn: 10m
+     1x Armed Jeep                 Land Rover GMG                 Respawn: 10m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Recon Vehicle              FV 107 Scimitar                Delay: 15m | Respawn: 15m
+     4x Support Truck              MAN Support Vehicle            Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 600
+     2x Armed Jeep                 UAZ-3151                       Respawn: 5m
+     2x IFV                        BMP-1                          Respawn: 10m
+     1x Light Tank                 FV601 Saladin                  Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: never
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+  [British Armed Forces]  tickets: 600
+     2x APC                        FV 510 Warrior                 Respawn: 10m
+     2x Armed Jeep                 Land Rover                     Respawn: 5m
+     1x Armed Jeep                 Land Rover GMG                 Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Recon Vehicle              FV 107 Scimitar                Respawn: 15m
+     4x Support Truck              MAN Support Vehicle            Respawn: never
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 10m
+     1x Transport Helicopter       Merlin HC3                     Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Middle Eastern Coalition]  tickets: 750
+     1x APC                        BMP-2                          Respawn: 10m
+     1x APC                        BTR-60PB                       Respawn: 10m
+     2x Armed Jeep                 AMZ DZIK-3                     Respawn: 10m
+     1x Armed Jeep                 AMZ DZIK-3                     Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 20m | Respawn: 20m
+     1x Scout Helicopter           SOKO HO-42                     Respawn: 5m
+     2x Tank                       T-72S1                         Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+  [British Armed Forces]  tickets: 750
+     2x APC                        FV 510 Warrior                 Respawn: 10m
+     1x Armed Jeep                 Land Rover                     Respawn: 10m
+     1x Armed Jeep                 Land Rover                     Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Land Rover GMG                 Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Respawn: 10m
+     1x Attack Helicopter          Apache AH1                     Delay: 20m | Respawn: 20m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Mobile AA                  Stormer HVM                    Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              FV 107 Scimitar                Respawn: 10m
+     2x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 10m
+     2x Transport Helicopter       Lynx AH.9A                     Respawn: 5m
+
+--- AAS Large (128) ---
+  [Middle Eastern Coalition]  tickets: 750
+     2x APC                        BMP-2                          Respawn: 10m
+     3x APC                        MT-LB                          Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     2x Multirole Jet              MiG-29 Fulcrum                 Delay: 20m | Respawn: 20m
+     1x Scout Helicopter           SOKO HO-42                     Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     2x Tank                       T-72S1                         Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+  [German Forces]  tickets: 750
+     2x APC                        Puma                           Respawn: 10m
+     3x APC                        TPz Fuchs 1A8                  Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     2x Multirole Jet              Eurofighter Typhoon            Delay: 20m | Respawn: 20m
+     2x Support Truck              MAN Support Vehicle            Respawn: 5m
+     2x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Bell UH-1D                     Respawn: 5m
+     2x Transport Helicopter       NH90 TTH                       Respawn: 5m

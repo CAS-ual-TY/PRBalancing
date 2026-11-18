@@ -1,0 +1,9 @@
+======================================================================
+ASSAULT ON MESTIA
+======================================================================
+
+--- AAS Standard (64) ---
+  [Militia]  tickets: 500
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+  [USMC]  tickets: 500
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m

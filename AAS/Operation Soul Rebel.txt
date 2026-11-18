@@ -1,0 +1,26 @@
+======================================================================
+OPERATION SOUL REBEL
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+    (no assets)
+  [British Armed Forces]  tickets: 500
+    27x Boat                       RHIB                           Respawn: 3m
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     2x Transport Helicopter       Lynx AH.7                      Respawn: 5m
+     1x Transport Helicopter       Merlin HC3                     Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 750
+    27x Boat                       RHIB                           Respawn: 3m
+     1x Fighter Jet                MiG-29S Fulcrum ASF            Delay: 10m | Respawn: 10m
+     2x Multirole Jet              MiG-21MF Fishbed               Delay: 10m | Respawn: 10m
+     4x Transport Helicopter       KA-29                          Respawn: 5m
+  [British Armed Forces]  tickets: 750
+    27x Boat                       RHIB                           Respawn: 3m
+     1x Fighter Jet                Harrier GR.9 ASF               Delay: 10m | Respawn: 10m
+     2x Multirole Jet              Harrier GR.9                   Delay: 10m | Respawn: 10m
+     1x Transport Helicopter       Chinook HC.4                   Respawn: 5m
+     2x Transport Helicopter       Lynx AH.7                      Respawn: 5m
+     1x Transport Helicopter       Merlin HC3                     Respawn: 5m

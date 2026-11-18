@@ -1,0 +1,49 @@
+======================================================================
+OMAHA BEACH
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Wehrmacht]  tickets: 550
+     2x APC                        SdKfz 251C                     Delay: 10m | Respawn: 10m
+     1x Logistics Truck            Opel Blitz Logistics           Delay: 5m | Respawn: 5m
+     2x Support Truck              Opel Blitz                     Delay: 5m | Respawn: 5m
+     4x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 650
+     2x APC                        M3A1 Halftrack                 Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     1x Armed Jeep                 Willys MB-2                    Delay: 5m | Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Delay: 5m | Respawn: 5m
+     2x Support Truck              GMC CCKW                       Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+     1x Transport Jeep             Willys MB-2 Support            Delay: 5m | Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 700
+     3x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 800
+     1x APC                        M3A1 Halftrack                 Delay: 5m | Respawn: 10m
+    32x Landing Craft              LCVP                           Delay: 1m | Respawn: 30s
+     8x Landing Craft              LCVP Logistics                 Delay: 1m | Respawn: 30s
+     2x Logistics Truck            GMC CCKW Logistics             Delay: 5m | Respawn: 5m
+     2x Tank                       M4A3 75mm DWG                  Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 800
+     3x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 900
+     1x APC                        M3A1 Halftrack                 Delay: 5m | Respawn: 10m
+    32x Landing Craft              LCVP                           Delay: 1m | Respawn: 30s
+     8x Landing Craft              LCVP Logistics                 Delay: 1m | Respawn: 30s
+     2x Logistics Truck            GMC CCKW Logistics             Delay: 5m | Respawn: 5m
+     2x Tank                       M4A3 75mm DWG                  Respawn: 10m
+
+--- AAS Large (128) ---
+  [Wehrmacht]  tickets: 600
+     2x APC                        SdKfz 251C                     Delay: 5m | Respawn: 5m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 600
+    18x Cargo Plane                Douglas C-47 Skytrain          Delay: 1m | Respawn: 30s

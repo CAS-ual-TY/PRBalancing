@@ -1,0 +1,40 @@
+======================================================================
+GOOSE GREEN
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Argentine Armed Forces]  tickets: 400
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       UH-1H Iroquois                 Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 450
+     1x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     2x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Wessex HU.5                    Delay: 10m | Respawn: 10m
+     1x Transport Jeep             Land Rover Support             Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Argentine Armed Forces]  tickets: 500
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 550
+     1x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Scout Helicopter           Gazelle AH.1                   Delay: 5m | Respawn: 5m
+     1x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Support Truck              MAN Support Vehicle            Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Land Rover Support             Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Argentine Armed Forces]  tickets: 500
+     1x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       UH-1H Iroquois                 Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 550
+     1x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     2x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Wessex HU.5                    Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Land Rover Support             Respawn: 5m

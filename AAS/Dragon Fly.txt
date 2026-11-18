@@ -1,0 +1,51 @@
+======================================================================
+DRAGON FLY
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Militia]  tickets: 500
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     4x Technical                  DShKM Technical                Respawn: 7m30s
+  [British Armed Forces]  tickets: 500
+     3x Armed Jeep                 Land Rover                     Respawn: 7m30s
+     1x Armed Jeep                 Land Rover GMG                 Respawn: 10m
+     1x Armed Transport Helicopter Lynx AH.9A                     Delay: 5m | Respawn: 5m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 550
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 10m
+     2x IFV                        BMP-1                          Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 7m30s
+  [British Armed Forces]  tickets: 550
+     3x APC                        FV 510 Warrior                 Respawn: 10m
+     1x Armed Jeep                 Land Rover                     Respawn: 10m
+     1x Armed Transport Helicopter Lynx AH.9A                     Delay: 5m | Respawn: 5m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Support Truck              MAN Support Vehicle            Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Militia]  tickets: 600
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 10m
+     2x IFV                        BMP-1                          Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     2x Technical                  DShKM Technical                Respawn: 7m30s
+  [British Armed Forces]  tickets: 550
+     3x APC                        FV 510 Warrior                 Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Respawn: 10m
+     1x Armed Transport Helicopter Lynx AH.9A                     Delay: 5m | Respawn: 5m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Recon Vehicle              FV 107 Scimitar                Respawn: 15m
+     1x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Tank                       FV4034 Challenger 2            Delay: 20m | Respawn: 20m

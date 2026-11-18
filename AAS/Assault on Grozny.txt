@@ -1,0 +1,78 @@
+======================================================================
+ASSAULT ON GROZNY
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chechnya]  tickets: 400
+     1x Armed Jeep                 UAZ-3151                       Respawn: 5m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+  [Russian Armed Forces]  tickets: 400
+     2x APC                        MT-LBVMK                       Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chechnya]  tickets: 750
+     1x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     1x Car Bomb                   Suicide Dumpster Truck         Delay: 5m | Respawn: 20m
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-72A                          Respawn: 20m
+     2x Technical                  SPG-9 Technical                Respawn: 10m
+     1x Transport Jeep             UAZ-3151 Support               Respawn: 5m
+  [Russian Armed Forces]  tickets: 750
+     1x APC                        BMP-2                          Respawn: 15m
+     2x APC                        BTR-80                         Respawn: 10m
+     1x APC                        MT-LB                          Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72B1                         Respawn: 20m
+
+--- AAS Standard (64) ---
+  [Chechnya]  tickets: 750
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     1x IFV                        BMP-1                          Respawn: 20m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     1x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-72A                          Respawn: 20m
+     2x Technical                  SPG-9 Technical                Respawn: 5m
+     1x Transport Jeep             UAZ-3151 Support               Respawn: 5m
+  [Russian Armed Forces]  tickets: 750
+     2x APC                        BTR-80                         Respawn: 10m
+     2x APC                        MT-LB                          Respawn: 10m
+     1x IFV                        BMP-2                          Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72B1                         Respawn: 20m
+
+--- AAS Large (128) ---
+  [Chechnya]  tickets: 800
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x IFV                        BMP-1                          Delay: 15m | Respawn: 20m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Logistics Truck            Ural-4320 Logistics            Respawn: never
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 10m | Respawn: 10m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Tank                       T-72A                          Delay: 15m | Respawn: 20m
+     2x Technical                  SPG-9 Technical                Respawn: 5m
+     1x Technical                  SPG-9 Technical                Respawn: never
+     1x Transport Jeep             UAZ-3151 Support               Respawn: 5m
+  [Russian Armed Forces]  tickets: 800
+     1x APC                        BMP-2                          Delay: 15m | Respawn: 15m
+     2x APC                        BTR-80                         Respawn: 10m
+     1x Attack Helicopter          Mi-24V Hind-E                  Delay: 5m | Respawn: 20m
+     1x IFV                        BMP-1                          Respawn: never
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 15m | Respawn: 15m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72A                          Respawn: never
+     2x Tank                       T-72B1                         Delay: 15m | Respawn: 20m

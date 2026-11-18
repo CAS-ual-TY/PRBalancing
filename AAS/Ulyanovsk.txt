@@ -1,0 +1,62 @@
+======================================================================
+ULYANOVSK
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 450
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Delay: 10m | Respawn: 10m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Support Truck              KamAZ-4350                     Delay: 5m | Respawn: 5m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [German Forces]  tickets: 450
+     2x APC                        TPz Fuchs 1A8                  Respawn: 10m
+     1x APC                        TPz Fuchs 1A8                  Delay: 10m | Respawn: 10m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Logistics Truck            MAN SV Logistics               Delay: 5m | Respawn: 5m
+     4x Support Truck              MAN Support Vehicle            Respawn: 5m
+     2x Support Truck              MAN Support Vehicle            Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 600
+     1x IFV                        BMP-1                          Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Logistics Truck            Ural-4320 Logistics            Delay: 5m | Respawn: 5m
+     1x Support Technical          Support Technical              Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-62                           Delay: 15m | Respawn: 15m
+     3x Technical                  DShKM Technical                Respawn: 5m
+  [German Forces]  tickets: 600
+     3x APC                        TPz Fuchs 1A8                  Respawn: 10m
+     1x IFV                        Puma IFV                       Delay: 15m | Respawn: 15m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Logistics Truck            MAN SV Logistics               Delay: 5m | Respawn: 5m
+     4x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+     2x Transport Jeep             Mercedes G-Wagen               Delay: 5m | Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 600
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x IFV                        BMP-2                          Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Logistics Truck            KamAZ-5350                     Delay: 5m | Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Support Truck              KamAZ-4350                     Delay: 5m | Respawn: 5m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+     1x Transport Jeep             GAZ Tigr Support               Delay: 5m | Respawn: 5m
+  [German Forces]  tickets: 600
+     1x APC                        Puma                           Delay: 10m | Respawn: 10m
+     2x APC                        TPz Fuchs 1A8                  Respawn: 10m
+     1x IFV                        Puma IFV                       Delay: 15m | Respawn: 15m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     1x Logistics Truck            MAN SV Logistics               Delay: 5m | Respawn: 5m
+     4x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Support Truck              MAN Support Vehicle            Delay: 5m | Respawn: 5m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+     1x Transport Jeep             Mercedes G-Wagen               Delay: 5m | Respawn: 5m

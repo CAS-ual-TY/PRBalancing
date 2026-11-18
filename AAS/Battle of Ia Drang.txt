@@ -1,0 +1,34 @@
+======================================================================
+BATTLE OF IA DRANG
+======================================================================
+
+--- AAS Infantry (16) ---
+  [North Vietnamese Army]  tickets: 550
+     2x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     4x Support Truck              ZIL 131                        Respawn: 5m
+     1x Transport Jeep             UAZ-469 Support                Respawn: 5m
+  [United States Army]  tickets: 550
+     1x Transport Helicopter       H-34 Choctaw                   Respawn: 10m
+     4x Transport Helicopter       UH-1D Huey                     Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [North Vietnamese Army]  tickets: 550
+     2x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     4x Support Truck              ZIL 131                        Respawn: 5m
+     1x Transport Jeep             UAZ-469 Support                Respawn: 5m
+  [United States Army]  tickets: 550
+     1x Attack Jet                 A-1H Skyraider                 Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    UH-1C Huey                     Delay: 5m | Respawn: 20m
+     1x Transport Helicopter       H-34 Choctaw                   Respawn: 10m
+     4x Transport Helicopter       UH-1D Huey                     Respawn: 5m
+
+--- AAS Standard (64) ---
+  [North Vietnamese Army]  tickets: 550
+     2x Logistics Truck            ZIS-5V Logistics               Delay: 2m30s | Respawn: 5m
+     4x Support Truck              ZIL 131                        Delay: 2m30s | Respawn: 5m
+     1x Transport Jeep             UAZ-469 Support                Delay: 5m | Respawn: 5m
+  [United States Army]  tickets: 550
+     1x Attack Jet                 A-1H Skyraider                 Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    UH-1C Huey                     Delay: 5m | Respawn: 20m
+     1x Transport Helicopter       H-34 Choctaw                   Respawn: 10m
+     4x Transport Helicopter       UH-1D Huey                     Respawn: 5m

@@ -1,0 +1,79 @@
+======================================================================
+ROAD TO DAMASCUS - BETA
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Syrian Arab Army]  tickets: 600
+     4x Armed Jeep                 UAZ-469                        Respawn: 5m
+     1x Attack Jet                 Su-22M Fitter                  Delay: 10m | Respawn: never
+     1x IFV                        BMP-1                          Delay: 15m | Respawn: 15m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Multirole Jet              MiG-21MF Fishbed               Delay: 20m | Respawn: 20m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Tank                       T-62                           Delay: 20m | Respawn: 20m
+     1x Tank                       T-72AV                         Delay: 20m | Respawn: never
+     2x Transport Helicopter       Mi-8T Hip-C                    Respawn: 10m
+  [Syrian Rebels]  tickets: 600
+     3x IFV                        BMP-1                          Delay: 10m | Respawn: 10m
+     2x Logistics Technical        Logistics Technical            Respawn: 5m
+     3x Logistics Truck            Logistics Van                  Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 20m | Respawn: 20m
+     1x Mobile AA                  ZSU-23-4 Shilka                Respawn: 20m
+     4x Support Truck              ZIL 131                        Respawn: 5m
+     2x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Tank                       T-62                           Delay: 20m | Respawn: 20m
+     3x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  Rocket Technical               Respawn: 10m
+     1x Technical                  SPG-9 Technical                Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Syrian Arab Army]  tickets: 600
+     2x APC                        BMP-2                          Delay: 15m | Respawn: 15m
+     3x Armed Jeep                 UAZ-469                        Respawn: 5m
+     1x Attack Helicopter          Mi-24D Hind-D                  Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    SA 342L CAS                    Delay: 20m | Respawn: 20m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 20m | Respawn: 20m
+     1x Multirole Jet              MiG-23MF Flogger-B             Delay: 20m | Respawn: 20m
+     1x Scout Helicopter           SA 342L                        Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     2x Tank                       T-72AV Turms-T                 Delay: 20m | Respawn: 20m
+     2x Tank                       T-72M1                         Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-8T Hip-C                    Respawn: 5m
+  [Israeli Defence Force]  tickets: 600
+     2x APC                        Namer                          Delay: 15m | Respawn: 15m
+     4x Armed Jeep                 HMMWV SIYUR                    Respawn: 5m
+     1x Attack Helicopter          AH-64D Saraph                  Delay: 20m | Respawn: 20m
+     1x Attack Jet                 F-15I Ra'am                    Delay: 20m | Respawn: 20m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Mobile AA                  M163 Vulcan                    Delay: 20m | Respawn: 20m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     3x Tank                       Merkava Mark IV                Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       UH-60L Yanshuf                 Respawn: 7m
+
+--- AAS Large (128) ---
+  [Syrian Arab Army]  tickets: 700
+     2x APC                        BMP-2                          Delay: 15m | Respawn: 15m
+     3x Armed Jeep                 UAZ-469                        Respawn: 5m
+     1x Attack Jet                 Su-22M Fitter                  Delay: 20m | Respawn: 20m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  9K35 Gopher                    Delay: 20m | Respawn: 20m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 20m | Respawn: 20m
+     2x Multirole Jet              MiG-23MF Flogger-B             Delay: 20m | Respawn: 20m
+     1x Multirole Jet              MIG-29SM Fulcrum               Delay: 20m | Respawn: 20m
+     1x Scout Helicopter           SA 342L                        Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-72AV Turms-T                 Delay: 20m | Respawn: 20m
+     1x Tank                       T-72M1                         Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-8T Hip-C                    Respawn: 5m
+  [Israeli Defence Force]  tickets: 700
+     2x APC                        Namer                          Delay: 15m | Respawn: 15m
+     4x Armed Jeep                 HMMWV SIYUR                    Respawn: 5m
+     2x Attack Jet                 F-15I Ra'am                    Delay: 20m | Respawn: 20m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Mobile AA                  M163 Vulcan                    Delay: 20m | Respawn: 20m
+     2x Multirole Jet              F-16C Barak                    Delay: 20m | Respawn: 20m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     2x Tank                       Merkava Mark IV                Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       UH-60L Yanshuf                 Respawn: 7m

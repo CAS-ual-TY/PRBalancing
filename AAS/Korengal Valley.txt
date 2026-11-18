@@ -1,0 +1,13 @@
+======================================================================
+KORENGAL VALLEY
+======================================================================
+
+--- AAS Standard (64) ---
+  [Taliban]  tickets: 600
+     1x Civilian Vehicle           Civilian Car                   Respawn: never
+     4x Logistics Technical        Logistics Technical            Respawn: 5m
+     4x Support Technical          Support Technical              Respawn: 5m
+  [United States Army]  tickets: 600
+     4x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     1x Armed Jeep                 M1151 Up-Armored HMMWV CROWS   Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m

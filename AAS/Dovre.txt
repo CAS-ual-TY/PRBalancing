@@ -1,0 +1,49 @@
+======================================================================
+DOVRE
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     2x APC                        MT-LBVMK                       Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Dutch Armed Forces]  tickets: 500
+     2x APC                        YPR 765 PRI/I                  Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Land Rover Defender 110XD WW   Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 700
+     2x APC                        MT-LBVMK                       Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Dutch Armed Forces]  tickets: 700
+     2x APC                        YPR 765 PRI/I                  Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Land Rover Defender 110XD WW   Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 700
+     2x Armed Jeep                 GAZ Tigr Arbalet-DM            Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Delay: 5m | Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Dutch Armed Forces]  tickets: 700
+     2x Armed Jeep                 Bushmaster PMV CROWS           Delay: 10m | Respawn: 10m
+     2x Boat                       RHIB                           Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m

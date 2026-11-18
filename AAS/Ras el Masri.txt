@@ -1,0 +1,22 @@
+======================================================================
+RAS EL MASRI
+======================================================================
+
+--- AAS Standard (64) ---
+  [Israeli Defence Force]  tickets: 650
+     2x APC                        Namer                          Delay: 15m | Respawn: 15m
+     3x Armed Jeep                 HMMWV SIYUR                    Respawn: 5m
+     3x Logistics Truck            M35 Logistics                  Respawn: 5m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Tank                       Merkava Mark IV                Delay: 20m | Respawn: 20m
+  [Chinese Forces]  tickets: 650
+     1x APC                        ZBL-08                         Respawn: 15m
+     1x APC                        ZSL-92 25mm                    Respawn: 15m
+     2x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     8x Boat                       RHIB                           Respawn: 5m
+     1x Light Attack Helicopter    Z-9WA Haitun HF7D              Delay: 20m | Respawn: 20m
+     1x Light Tank                 ZTL-11                         Respawn: 15m
+     1x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     1x Transport Helicopter       Z-8KA                          Respawn: 10m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m

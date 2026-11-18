@@ -1,0 +1,83 @@
+======================================================================
+BELYAEVO
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 700
+     3x APC                        SdKfz 251C                     Respawn: never
+     2x APC                        SdKfz 251C                     Delay: 5m | Respawn: 5m
+     2x Attack Jet                 Ju-87B Stuka                   Delay: 5m | Respawn: 20m
+     1x Light Tank                 Panzer III Ausf. J             Respawn: never
+     1x Light Tank                 Panzer III Ausf. J             Delay: 20m | Respawn: 20m
+     1x Light Tank                 Stug III Ausf. B               Delay: 20m | Respawn: 20m
+     1x Logistics Truck            Opel Blitz Logistics           Respawn: never
+     3x Logistics Truck            Opel Blitz Logistics           Delay: 5m | Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Delay: 20m | Respawn: 15m
+     2x Multirole Jet              Messerschmitt Bf-109           Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              SdKfz 231                      Delay: 15m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Delay: 15m | Respawn: 15m
+     6x Support Truck              Opel Blitz                     Respawn: never
+     4x Support Truck              Opel Blitz                     Delay: 5m | Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 20m | Respawn: 20m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 20m | Respawn: 20m
+     1x Transport Jeep             Kubelwagen                     Respawn: never
+     2x Transport Jeep             Kubelwagen                     Delay: 5m | Respawn: 5m
+  [Red Army]  tickets: 700
+     2x APC                        M3A1 Halftrack                 Respawn: never
+     2x APC                        M3A1 Halftrack                 Delay: 5m | Respawn: 5m
+     1x Attack Jet                 IL-2                           Delay: 20m | Respawn: 20m
+     1x Light Tank                 BT-7                           Respawn: never
+     2x Light Tank                 BT-7                           Delay: 20m | Respawn: 20m
+     1x Logistics Truck            ZIS-5V Logistics               Respawn: never
+     3x Logistics Truck            ZIS-5V Logistics               Delay: 5m | Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Respawn: never
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 20m | Respawn: 15m
+     1x Multirole Jet              I-16                           Delay: 15m | Respawn: never
+     2x Multirole Jet              I-16                           Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              BA-6                           Delay: 15m | Respawn: 15m
+     2x Recon Vehicle              BA-64                          Delay: 10m | Respawn: 10m
+     4x Support Truck              ZIS-5V                         Respawn: never
+     4x Support Truck              ZIS-5V                         Delay: 5m | Respawn: 5m
+     2x Tank                       T-34 mod.1941                  Delay: 20m | Respawn: 20m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: never
+     1x Transport Jeep             Willys MB-2 Support            Delay: 5m | Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 700
+     3x APC                        SdKfz 251C                     Respawn: never
+     2x APC                        SdKfz 251C                     Delay: 5m | Respawn: 5m
+     2x Attack Jet                 Ju-87B Stuka                   Delay: 5m | Respawn: 20m
+     1x Light Tank                 Panzer III Ausf. J             Respawn: never
+     1x Light Tank                 Panzer III Ausf. J             Delay: 20m | Respawn: 20m
+     1x Light Tank                 Stug III Ausf. B               Delay: 20m | Respawn: 20m
+     1x Logistics Truck            Opel Blitz Logistics           Respawn: never
+     3x Logistics Truck            Opel Blitz Logistics           Delay: 5m | Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Delay: 20m | Respawn: 15m
+     2x Multirole Jet              Messerschmitt Bf-109           Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              SdKfz 231                      Delay: 15m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Delay: 15m | Respawn: 15m
+     6x Support Truck              Opel Blitz                     Respawn: never
+     4x Support Truck              Opel Blitz                     Delay: 5m | Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 20m | Respawn: 20m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 20m | Respawn: 20m
+     1x Transport Jeep             Kubelwagen                     Respawn: never
+     2x Transport Jeep             Kubelwagen                     Delay: 5m | Respawn: 5m
+  [Red Army]  tickets: 700
+     2x APC                        M3A1 Halftrack                 Respawn: never
+     2x APC                        M3A1 Halftrack                 Delay: 5m | Respawn: 5m
+     1x Attack Jet                 IL-2                           Delay: 20m | Respawn: 20m
+     1x Light Tank                 BT-7                           Respawn: never
+     2x Light Tank                 BT-7                           Delay: 20m | Respawn: 20m
+     1x Logistics Truck            ZIS-5V Logistics               Respawn: never
+     3x Logistics Truck            ZIS-5V Logistics               Delay: 5m | Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Respawn: never
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 20m | Respawn: 15m
+     1x Multirole Jet              I-16                           Delay: 15m | Respawn: never
+     2x Multirole Jet              I-16                           Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              BA-6                           Delay: 15m | Respawn: 15m
+     2x Recon Vehicle              BA-64                          Delay: 10m | Respawn: 10m
+     4x Support Truck              ZIS-5V                         Respawn: never
+     6x Support Truck              ZIS-5V                         Delay: 5m | Respawn: 5m
+     2x Tank                       T-34 mod.1941                  Delay: 20m | Respawn: 20m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: never
+     1x Transport Jeep             Willys MB-2 Support            Delay: 5m | Respawn: 5m

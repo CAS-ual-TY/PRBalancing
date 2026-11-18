@@ -1,0 +1,16 @@
+======================================================================
+HILL 488
+======================================================================
+
+--- AAS Standard (64) ---
+  [North Vietnamese Army]  tickets: 600
+     3x Boat                       Sampan                         Respawn: 5m
+     2x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Support Truck              ZIL 131                        Respawn: 5m
+     2x Transport Jeep             UAZ-469 Support                Respawn: 5m
+  [United States Army]  tickets: 600
+     2x Armed Jeep                 M151A2                         Respawn: 5m
+     2x Boat                       Patrol Boat-River              Respawn: 5m
+     1x Light Tank                 M67 Zippo                      Delay: 20m | Respawn: 20m
+     2x Logistics Truck            M548A1                         Respawn: 5m
+     1x Support Truck              M35 2.5 Ton                    Respawn: 5m

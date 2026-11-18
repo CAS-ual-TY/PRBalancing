@@ -1,0 +1,88 @@
+======================================================================
+WANDA SHAN
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Chinese Forces]  tickets: 550
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       Zhi-9B                         Respawn: 5m
+     3x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [German Forces]  tickets: 550
+     3x APC                        TPz Fuchs 1A8                  Respawn: 5m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Bell UH-1D                     Respawn: 5m
+     1x Transport Helicopter       NH90 TTH                       Respawn: 5m
+     3x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Chinese Forces]  tickets: 700
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     1x IFV                        ZBL-08                         Delay: 15m | Respawn: 15m
+     1x Light Attack Helicopter    Z-9WA Haitun HF7D              Delay: 20m | Respawn: 20m
+     1x Light Tank                 ZTL-11                         Delay: 15m | Respawn: 15m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Recon Vehicle              VN-3                           Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Z-8KA                          Respawn: 5m
+     3x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [United States Army]  tickets: 700
+     1x APC                        M1126 Stryker ICV              Respawn: 10m
+     1x APC                        M1126 Stryker ICV MK19         Respawn: 10m
+     3x Armed Jeep                 M1025 HMMWV                    Respawn: 5m
+     2x IFV                        M2A2 Bradley ODS               Delay: 15m | Respawn: 15m
+     1x Light Attack Helicopter    OH-58D Kiowa Hydra             Delay: 20m | Respawn: 20m
+     3x Logistics Truck            M35 Logistics                  Respawn: 5m
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     2x Tank                       M1A2 Abrams                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     3x Transport Jeep             M1038A1 HMMWV                  Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Chinese Forces]  tickets: 700
+     2x APC                        ZSL-92 25mm                    Respawn: 10m
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     1x IFV                        ZBL-08                         Delay: 15m | Respawn: 15m
+     1x Light Attack Helicopter    Z-9WA Haitun HJ-8              Delay: 20m | Respawn: 20m
+     1x Light Tank                 ZTL-11                         Delay: 15m | Respawn: 15m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     3x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [German Forces]  tickets: 700
+     2x APC                        Puma                           Respawn: 10m
+     3x APC                        TPz Fuchs 1A8                  Respawn: 5m
+     1x Attack Helicopter          EC 665 UH Tiger                Delay: 20m | Respawn: 20m
+     2x IFV                        Puma IFV                       Delay: 15m | Respawn: 15m
+     3x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     2x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       NH90 TTH                       Respawn: 5m
+     3x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+
+--- AAS Large (128) ---
+  [Chinese Forces]  tickets: 700
+     2x APC                        ZBL-08                         Delay: 10m | Respawn: 10m
+     3x Armed Jeep                 Dongfeng Mengshi CSK131        Respawn: 5m
+     1x Attack Helicopter          Z-10                           Delay: 20m | Respawn: 20m
+     3x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     2x Recon Vehicle              VN-3                           Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Z-8KA                          Respawn: 5m
+     3x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 5m
+  [Dutch Armed Forces]  tickets: 700
+     2x APC                        CV9035NL                       Delay: 10m | Respawn: 10m
+     3x APC                        YPR 765 PRI/I                  Respawn: 5m
+     2x Armed Jeep                 Fennek VWWRN                   Respawn: 10m
+     1x Attack Helicopter          AH-64D Apache                  Delay: 20m | Respawn: 20m
+     3x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     2x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 5m
+     3x Transport Jeep             Mercedes-Benz G280             Respawn: 5m

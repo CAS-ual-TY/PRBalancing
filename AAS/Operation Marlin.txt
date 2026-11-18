@@ -1,0 +1,64 @@
+======================================================================
+OPERATION MARLIN
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Middle Eastern Coalition]  tickets: 500
+     2x APC                        Boragh                         Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 5m
+  [French Forces]  tickets: 500
+     2x APC                        VAB VTT                        Respawn: 10m
+     2x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     4x Support Truck              GBC-180                        Respawn: 5m
+     1x Transport Helicopter       NH90 NFH                       Delay: 5m | Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 550
+     2x APC                        MT-LB 6MB                      Delay: 10m | Respawn: 10m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Tank                       T-72S1                         Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 5m
+     2x Transport Jeep             UAZ-3151 Support               Respawn: 10m
+  [Canadian Forces]  tickets: 550
+     2x APC                        LAV-3                          Delay: 10m | Respawn: 10m
+     2x Logistics Truck            MLVW Logistics                 Respawn: 5m
+     4x Support Truck              MLVW                           Respawn: 5m
+     2x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       CH-147F Chinook                Delay: 5m | Respawn: 5m
+     2x Transport Jeep             Mercedes G-Wagen Support       Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Middle Eastern Coalition]  tickets: 550
+     2x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     2x APC                        Boragh                         Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Tank                       T-72S                          Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 5m
+  [French Forces]  tickets: 550
+     2x APC                        VAB VTT                        Respawn: 10m
+     2x APC                        VBCI                           Delay: 10m | Respawn: 10m
+     2x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     4x Support Truck              GBC-180                        Respawn: 5m
+     2x Tank                       AMX-56 Leclerc                 Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       NH90 NFH                       Delay: 5m | Respawn: 5m
+
+--- AAS Large (128) ---
+  [Middle Eastern Coalition]  tickets: 550
+     2x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     2x APC                        Boragh                         Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     2x Tank                       T-72S                          Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 5m | Respawn: 5m
+  [Israeli Defence Force]  tickets: 550
+     2x APC                        M113                           Respawn: 10m
+     2x APC                        Namer                          Delay: 10m | Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     4x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     2x Tank                       Merkava Mark IV                Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       UH-60L Yanshuf                 Delay: 5m | Respawn: 5m

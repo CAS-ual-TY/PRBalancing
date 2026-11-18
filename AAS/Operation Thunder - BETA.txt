@@ -1,0 +1,89 @@
+======================================================================
+OPERATION THUNDER - BETA
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Militia]  tickets: 800
+     2x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     1x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     2x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x IFV                        BMP-1                          Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: 10m
+     2x Support Technical          Support Technical              Respawn: 5m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Support Truck              ZIL 131                        Respawn: 5m
+     1x Tank                       T-55                           Delay: 10m | Respawn: 20m
+     4x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  SPG-9 Technical                Delay: 10m | Respawn: 15m
+  [Polish Armed Forces]  tickets: 800
+     3x Armed Jeep                 Honker Skorpion-3              Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 200m
+     1x Light Attack Helicopter    W-3W Sokol                     Delay: 15m | Respawn: 20m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2-M97 Zbik                Delay: 15m | Respawn: 15m
+     2x Support Truck              Star 944 Support               Delay: 5m | Respawn: 5m
+     1x Tank                       T-72M                          Delay: 15m | Respawn: 20m
+     2x Transport Helicopter       W-3T Sokol                     Respawn: 5m
+     4x Transport Jeep             Honker 2000                    Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 800
+     2x APC                        BTR-82AM                       Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x Armed Transport Helicopter Mi-8 AMTSh UPK-23 S-8KOM       Delay: 20m | Respawn: 20m
+     1x Attack Helicopter          Mi-24V Hind-E                  Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 200m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Mobile AA                  9K35 Gopher                    Delay: 15m | Respawn: 20m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-72B1                         Delay: 15m | Respawn: 20m
+     1x Tank                       T-90A                          Delay: 15m | Respawn: 20m
+     2x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Polish Armed Forces]  tickets: 800
+     2x APC                        KTO Rosomak                    Respawn: 10m
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 5m
+     1x Attack Helicopter          Mi-24W Hind                    Delay: 20m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 200m
+     1x Light Attack Helicopter    W-3W Sokol                     Delay: 20m | Respawn: 20m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 15m | Respawn: 20m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     2x Support Truck              Star 944 Support               Delay: 5m | Respawn: 5m
+     1x Tank                       Leopard 2A4                    Delay: 15m | Respawn: 20m
+     1x Tank                       T-72M                          Delay: 15m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     3x Transport Jeep             Honker 2000                    Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 800
+     1x APC                        BTR-82AM                       Respawn: 10m
+     2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x Armed Transport Helicopter Mi-8 AMTSh S-8KOM              Delay: 15m | Respawn: 20m
+     1x Armed Transport Helicopter Mi-8 AMTSh UPK-23 S-8KOM       Delay: 15m | Respawn: 20m
+     2x Boat                       RHIB                           Respawn: 200m
+     1x IFV                        BMP-2                          Delay: 10m | Respawn: 15m
+     1x Logistics APC              MTP-LB                         Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Mobile AA                  9K22 Tunguska                  Delay: 10m | Respawn: 20m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     2x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Support Vehicle            BRDM-2 Support                 Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Polish Armed Forces]  tickets: 800
+     1x APC                        KTO Rosomak                    Respawn: 10m
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 5m
+     2x Boat                       RHIB                           Respawn: 200m
+     2x IFV                        BWP-1                          Respawn: 15m
+     2x Light Attack Helicopter    W-3W Sokol                     Delay: 15m | Respawn: 20m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              BRDM-2                         Respawn: 10m
+     2x Support Truck              Star 944 Support               Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     1x Transport Helicopter       W-3T Sokol                     Respawn: 5m
+     3x Transport Jeep             Honker 2000                    Respawn: 5m

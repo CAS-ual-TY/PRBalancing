@@ -1,0 +1,53 @@
+======================================================================
+DOVRE WINTER
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [German Forces]  tickets: 500
+     2x APC                        TPz Fuchs 1A8                  Delay: 5m | Respawn: 5m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Bell UH-1D                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 700
+     1x APC                        BMP-2                          Delay: 15m | Respawn: 15m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 5m
+     1x IFV                        BMP-2M                         Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [German Forces]  tickets: 700
+     1x APC                        Puma                           Delay: 15m | Respawn: 15m
+     2x APC                        TPz Fuchs 1A8                  Delay: 5m | Respawn: 5m
+     1x IFV                        Puma IFV                       Delay: 15m | Respawn: 15m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Bell UH-1D                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 700
+     1x APC                        BMP-2                          Delay: 15m | Respawn: 15m
+     2x Armed Jeep                 GAZ Tigr                       Delay: 5m | Respawn: 5m
+     1x IFV                        BMP-2M                         Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [German Forces]  tickets: 700
+     1x APC                        Puma                           Delay: 15m | Respawn: 15m
+     2x APC                        TPz Fuchs 1A8                  Delay: 5m | Respawn: 5m
+     1x IFV                        Puma IFV                       Delay: 15m | Respawn: 15m
+     2x Logistics Truck            MAN SV Logistics               Respawn: 5m
+     3x Support Truck              MAN Support Vehicle            Respawn: 5m
+     1x Transport Helicopter       Bell UH-1D                     Delay: 10m | Respawn: 10m
+     1x Transport Jeep             Mercedes G-Wagen               Respawn: 5m

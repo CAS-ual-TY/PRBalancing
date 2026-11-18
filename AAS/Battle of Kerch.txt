@@ -1,0 +1,66 @@
+======================================================================
+BATTLE OF KERCH
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 800
+     6x APC                        SdKfz 251C                     Respawn: 5m
+     1x Light Tank                 Stug III Ausf. B               Delay: 5m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Delay: 5m | Respawn: 15m
+     2x Multirole Jet              Messerschmitt Bf-109           Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Delay: 5m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+  [Red Army]  tickets: 800
+     6x APC                        M3A1 Halftrack                 Respawn: 5m
+     2x APC                        M3A1 Halftrack                 Respawn: never
+     2x Fighter Jet                LA5FN                          Delay: 5m | Respawn: 15m
+    40x Landing Craft              LCVP                           Respawn: 30s
+     4x Landing Craft              LCVP Logistics                 Respawn: 5m
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     2x Logistics Truck            ZIS-5V Logistics               Respawn: never
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 5m | Respawn: 15m
+     2x Recon Vehicle              BA-64                          Respawn: 10m
+     4x Support Truck              ZIS-5V                         Respawn: 5m
+     2x Support Truck              ZIS-5V                         Respawn: never
+     2x Tank                       T-34 mod.1941                  Respawn: 20m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 800
+     6x APC                        SdKfz 251C                     Respawn: 5m
+     2x Landing Craft              LCVP                           Respawn: 5m
+     1x Light Tank                 Panzer III Ausf. J             Delay: 2m | Respawn: 20m
+     1x Light Tank                 Stug III Ausf. B               Delay: 2m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Delay: 5m | Respawn: 15m
+     2x Multirole Jet              Messerschmitt Bf-109           Delay: 5m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 231                      Delay: 2m | Respawn: 15m
+     6x Support Truck              Opel Blitz                     Respawn: 5m
+  [Red Army]  tickets: 800
+     2x APC                        M3A1 Halftrack                 Respawn: 5m
+     1x Light Tank                 BT-7                           Delay: 20m | Respawn: 20m
+     4x Logistics Truck            ZIS-5V Logistics               Delay: 2m | Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 5m | Respawn: 15m
+     2x Multirole Jet              I-16                           Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              BA-6                           Delay: 15m | Respawn: 15m
+     1x Recon Vehicle              BA-64                          Delay: 5m | Respawn: 10m
+     1x Support Truck              ZIS-5V                         Respawn: 5m
+     5x Support Truck              ZIS-5V                         Delay: 2m | Respawn: 5m
+
+--- AAS Large (128) ---
+  [Wehrmacht]  tickets: 800
+     6x APC                        SdKfz 251C                     Respawn: 5m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Mobile AA                  Opel Blitz Flak 38             Delay: 5m | Respawn: 15m
+     2x Multirole Jet              Messerschmitt Bf-109           Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 231                      Delay: 10m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 10m | Respawn: 20m
+  [Red Army]  tickets: 800
+     6x APC                        M3A1 Halftrack                 Respawn: 5m
+     2x Fighter Jet                LA5FN                          Delay: 10m | Respawn: 15m
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Mobile AA                  M3A1 Halftrack M45             Delay: 5m | Respawn: 15m
+     1x Recon Vehicle              BA-6                           Delay: 10m | Respawn: 15m
+     4x Support Truck              ZIS-5V                         Respawn: 5m
+     1x Tank                       T-34 mod.1941                  Delay: 10m | Respawn: 20m

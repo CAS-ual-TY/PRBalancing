@@ -1,0 +1,21 @@
+======================================================================
+RZHEV
+======================================================================
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 700
+     4x APC                        SdKfz 251C                     Respawn: 10m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Recon Vehicle              SdKfz 231                      Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              SdKfz 233 Stummel              Delay: 10m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. D              Delay: 10m | Respawn: 20m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [Red Army]  tickets: 700
+     4x APC                        M3A1 Halftrack                 Respawn: 10m
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Recon Vehicle              BA-6                           Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              BA-64                          Delay: 10m | Respawn: 10m
+     4x Support Truck              ZIS-5V                         Respawn: 5m
+     2x Tank                       T-34 mod.1941                  Delay: 10m | Respawn: 20m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: 5m

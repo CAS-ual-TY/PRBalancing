@@ -1,0 +1,50 @@
+======================================================================
+STALINGRAD SUMMER
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Wehrmacht]  tickets: 750
+     4x APC                        SdKfz 251C                     Respawn: 10m
+     1x Light Tank                 Panzer III Ausf. J             Delay: 10m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Recon Vehicle              SdKfz 231                      Delay: 10m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 10m | Respawn: 20m
+  [Red Army]  tickets: 750
+     4x APC                        M3A1 Halftrack                 Respawn: 10m
+     2x Light Tank                 BT-7                           Delay: 10m | Respawn: 20m
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     2x Recon Vehicle              BA-6                           Delay: 5m | Respawn: 15m
+     4x Support Truck              ZIS-5V                         Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 750
+     4x APC                        SdKfz 251C                     Respawn: 5m
+     1x Light Tank                 Panzer III Ausf. J             Delay: 5m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: never
+     2x Recon Vehicle              SdKfz 231                      Delay: 5m | Respawn: 15m
+     6x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 5m | Respawn: 20m
+  [Red Army]  tickets: 810
+     4x APC                        M3A1 Halftrack                 Respawn: 5m
+     1x Light Tank                 BT-7                           Delay: 10m | Respawn: 20m
+     5x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     2x Recon Vehicle              BA-6                           Delay: 10m | Respawn: 10m
+     7x Support Truck              ZIS-5V                         Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 750
+     4x APC                        SdKfz 251C                     Respawn: 5m
+     1x Light Tank                 Panzer III Ausf. J             Delay: 10m | Respawn: 20m
+     4x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     2x Recon Vehicle              SdKfz 231                      Delay: 5m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 10m | Respawn: 20m
+  [Red Army]  tickets: 750
+     4x APC                        M3A1 Halftrack                 Respawn: 10m
+     4x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Recon Vehicle              BA-6                           Delay: 5m | Respawn: 10m
+     1x Recon Vehicle              BA-64                          Delay: 5m | Respawn: 10m
+     4x Support Truck              ZIS-5V                         Respawn: 5m
+     2x Tank                       T-34 mod.1941                  Delay: 10m | Respawn: 20m

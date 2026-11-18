@@ -1,0 +1,78 @@
+======================================================================
+OPERATION FALCON
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+  [Dutch Armed Forces]  tickets: 500
+     1x Armed Jeep                 Bushmaster PMV CROWS           Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     4x Support Truck              DAF YA-4442                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 7m30s
+     2x Transport Jeep             Bushmaster PMV                 Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Militia]  tickets: 700
+     1x Civilian Vehicle           All-Terrain Vehicle            Respawn: 5m
+     4x Civilian Vehicle           Civilian Car                   Respawn: never
+     3x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     2x IFV                        BMP-1                          Delay: 10m | Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 10m | Respawn: 10m
+     1x Support Technical          Support Technical              Respawn: 5m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     2x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  SPG-9 Technical                Respawn: 10m
+  [Dutch Armed Forces]  tickets: 600
+     2x APC                        Boxer PWV                      Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Bushmaster PMV CROWS           Respawn: 5m
+     2x Armed Jeep                 Fennek VWWRN                   Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 7m30s
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 650
+     2x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m
+     1x APC                        MT-LBVMK                       Respawn: 5m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     1x Transport Jeep             GAZ Tigr Support               Respawn: 5m
+  [Dutch Armed Forces]  tickets: 650
+     2x APC                        CV9035NL                       Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 Fennek VWWRN                   Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     3x Support Truck              DAF YA-4442                    Respawn: 5m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 7m30s
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 650
+     1x APC                        BTR-80                         Delay: 10m | Respawn: 10m
+     1x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x Armed Jeep                 GAZ Tigr Arbalet-DM            Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+  [Dutch Armed Forces]  tickets: 650
+     1x APC                        Boxer PWV                      Delay: 10m | Respawn: 10m
+     1x APC                        CV9035NL                       Delay: 10m | Respawn: 10m
+     1x Armed Jeep                 Fennek VWWRN                   Respawn: 5m
+     2x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
+     4x Support Truck              DAF YA-4442                    Respawn: 5m
+     1x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
+     1x Transport Helicopter       CH-47D Chinook                 Respawn: 7m30s
+     2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m

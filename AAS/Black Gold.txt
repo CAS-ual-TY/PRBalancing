@@ -1,0 +1,97 @@
+======================================================================
+BLACK GOLD
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 450
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     4x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     4x Support Truck              KamAZ-4350                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+  [Chinese Forces]  tickets: 450
+     1x IFV                        ZBD-86A                        Delay: 10m | Respawn: 10m
+     4x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     1x Recon Vehicle              VN-3                           Delay: 10m | Respawn: 10m
+     4x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 650
+     1x Armed Jeep                 UAZ-3151                       Delay: 10m | Respawn: 10m
+     1x ATGM Vehicle               9P149 Shturm-S                 Delay: 10m | Respawn: 10m
+     3x IFV                        BMP-3                          Delay: 10m | Respawn: 10m
+     1x Light Attack Helicopter    EC635 Eurocopter               Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    SOKO HN-45M Gama 2             Delay: 20m | Respawn: 20m
+     4x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     3x Support Truck              Ural-4320                      Respawn: 5m
+     3x Tank                       T-72S                          Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     2x Transport Jeep             UAZ-3151 Support               Respawn: 10m
+  [Chinese Forces]  tickets: 650
+     1x Armed Jeep                 Norinco FAV                    Delay: 10m | Respawn: 10m
+     1x ATGM Vehicle               WZ550                          Delay: 10m | Respawn: 10m
+     2x IFV                        ZBL-08                         Delay: 10m | Respawn: 10m
+     1x Light Attack Helicopter    Z-9WA Haitun 23mm              Delay: 20m | Respawn: 20m
+     1x Light Attack Helicopter    Z-9WA Haitun HJ-8              Delay: 20m | Respawn: 20m
+     1x Light Tank                 ZTL-11                         Delay: 10m | Respawn: 10m
+     4x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     1x Recon Vehicle              VN-3                           Delay: 10m | Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     3x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 650
+     1x ATGM Vehicle               9P149 Shturm-S                 Delay: 20m | Respawn: 20m
+     1x Attack Jet                 Su-34 Fullback                 Delay: 20m | Respawn: 20m
+     3x IFV                        BMP-2                          Delay: 10m | Respawn: 15m
+     4x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Mobile AA                  9K22 Tunguska                  Delay: 10m | Respawn: 10m
+     1x Multirole Jet              Su-27SM Flanker-B              Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+  [Chinese Forces]  tickets: 650
+     1x ATGM Vehicle               WZ550                          Delay: 20m | Respawn: 20m
+     1x Attack Jet                 Su-30MKK Flanker-G             Delay: 20m | Respawn: 20m
+     3x IFV                        ZBD-86A                        Delay: 10m | Respawn: 15m
+     4x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     1x Mobile AA                  PGZ-04 SPAAG                   Delay: 10m | Respawn: 10m
+     1x Multirole Jet              J-11B Flanker-L                Delay: 20m | Respawn: 20m
+     1x Recon Vehicle              VN-3                           Delay: 10m | Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     3x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 10m
+
+--- AAS Large (128) ---
+  [Russian Armed Forces]  tickets: 650
+     1x ATGM Vehicle               9P148 Spandrel                 Delay: 20m | Respawn: 20m
+     1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
+     2x Attack Jet                 Su-39 Frogfoot                 Delay: 20m | Respawn: 20m
+     3x IFV                        BMP-3M                         Delay: 10m | Respawn: 15m
+     4x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     1x Mobile AA                  9K22 Tunguska                  Delay: 10m | Respawn: 10m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     3x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
+     2x Transport Jeep             GAZ Tigr Support               Respawn: 10m
+  [Chinese Forces]  tickets: 650
+     1x ATGM Vehicle               WZ550                          Delay: 20m | Respawn: 20m
+     1x Attack Helicopter          Z-10                           Delay: 20m | Respawn: 20m
+     2x Attack Jet                 Q-5 Fantan                     Delay: 20m | Respawn: 20m
+     2x IFV                        ZBL-08                         Delay: 10m | Respawn: 15m
+     1x Light Tank                 ZTL-11                         Delay: 10m | Respawn: 15m
+     4x Logistics Truck            Dongfeng EQ1108 Logistics      Respawn: 5m
+     1x Mobile AA                  PGZ-04 SPAAG                   Delay: 10m | Respawn: 10m
+     1x Recon Vehicle              VN-3                           Delay: 10m | Respawn: 10m
+     3x Support Truck              Dongfeng EQ1108                Respawn: 5m
+     3x Tank                       ZTZ-99 II                      Delay: 20m | Respawn: 20m
+     2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
+     2x Transport Jeep             Dongfeng Mengshi CSK131 Support Respawn: 10m

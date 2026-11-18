@@ -1,0 +1,47 @@
+======================================================================
+NUIJAMAA
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Russian Armed Forces]  tickets: 500
+     3x APC                        MT-LBVMK                       Respawn: 5m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 5m | Respawn: 5m
+  [French Forces]  tickets: 500
+     3x APC                        VAB VTT                        Respawn: 5m
+     2x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     3x Support Truck              GBC-180                        Respawn: 5m
+     1x Transport Helicopter       NH90 TTH                       Delay: 5m | Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Russian Armed Forces]  tickets: 550
+     1x APC                        BTR-80                         Delay: 15m | Respawn: 15m
+     3x Armed Jeep                 GAZ Tigr                       Respawn: 5m
+     1x IFV                        BMP-3M                         Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 5m | Respawn: 5m
+  [United States Army]  tickets: 550
+     1x APC                        M1126 Stryker ICV              Delay: 15m | Respawn: 15m
+     3x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 5m
+     1x IFV                        M2A2 Bradley ODS               Delay: 15m | Respawn: 15m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       UH-60L Blackhawk               Delay: 5m | Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Russian Armed Forces]  tickets: 550
+     1x APC                        BTR-82AM                       Delay: 15m | Respawn: 15m
+     3x APC                        MT-LBVMK                       Respawn: 5m
+     1x IFV                        BMP-3M                         Delay: 15m | Respawn: 15m
+     2x Logistics Truck            KamAZ-5350                     Respawn: 5m
+     3x Support Truck              KamAZ-4350                     Respawn: 5m
+     1x Transport Helicopter       Mi-8 AMTSh                     Delay: 5m | Respawn: 5m
+  [French Forces]  tickets: 550
+     3x APC                        VAB VTT                        Respawn: 5m
+     1x APC                        VBCI                           Delay: 15m | Respawn: 15m
+     1x Light Tank                 AMX-10RC                       Delay: 15m | Respawn: 15m
+     2x Logistics Truck            GBC 180 Logistics              Respawn: 5m
+     3x Support Truck              GBC-180                        Respawn: 5m
+     1x Transport Helicopter       NH90 TTH                       Delay: 5m | Respawn: 5m

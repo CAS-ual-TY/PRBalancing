@@ -1,0 +1,21 @@
+======================================================================
+CHARLIES POINT
+======================================================================
+
+--- AAS Standard (64) ---
+  [North Vietnamese Army]  tickets: 500
+     1x APC                        BTR-60PB                       Delay: 15m | Respawn: 15m
+     1x Armed Jeep                 UAZ-469                        Respawn: 10m
+     2x Boat                       Sampan                         Delay: 5m | Respawn: 5m
+     1x Logistics Truck            ZIS-5V Logistics               Respawn: 5m
+     1x Logistics Truck            ZIS-5V Logistics               Respawn: never
+     2x Support Truck              ZIL 131                        Respawn: 5m
+     1x Transport Jeep             UAZ-469 Support                Respawn: 5m
+  [USMC]  tickets: 550
+     2x APC                        M113                           Respawn: 10m
+     1x APC                        M113 ACAV                      Respawn: 10m
+     2x Boat                       Patrol Boat-River              Respawn: 1m30s
+     2x Boat                       US Swift Boat                  Respawn: 1m30s
+     1x Light Attack Helicopter    UH-1C Huey                     Respawn: 20m
+     2x Transport Helicopter       UH-1C Huey                     Respawn: 5m
+     3x Transport Helicopter       UH-1D Huey                     Respawn: 5m

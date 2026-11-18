@@ -1,0 +1,34 @@
+======================================================================
+SHAHADAH
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Middle Eastern Coalition]  tickets: 750
+     2x APC                        BTR-80A                        Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 AMZ DZIK-3                     Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     4x Transport Jeep             UAZ-3151 Support               Respawn: 10m
+  [Canadian Forces]  tickets: 750
+     2x APC                        LAV-3                          Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 Mercedes G-Wagen               Respawn: 10m
+     3x Logistics Truck            MLVW Logistics                 Respawn: 5m
+     4x Transport Jeep             Mercedes G-Wagen Support       Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Middle Eastern Coalition]  tickets: 750
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     1x APC                        MT-LB                          Respawn: 10m
+     2x Armed Jeep                 AMZ DZIK-3                     Respawn: 5m
+     3x Armed Jeep                 UAZ-3151                       Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 10m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+  [Polish Armed Forces]  tickets: 750
+     1x APC                        KTO Rosomak                    Delay: 10m | Respawn: 10m
+     2x Armed Jeep                 Honker Skorpion-3              Respawn: 10m
+     2x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 10m
+     1x Armed Jeep                 M1151 Up-Armored HMMWV MK19    Delay: 10m | Respawn: 10m
+     2x Logistics Truck            Star 1466 Logistics            Respawn: 5m
+     2x Support Truck              Star 944 Support               Respawn: 5m
+     1x Transport Helicopter       Mi-17 Hip-H                    Delay: 10m | Respawn: 10m
+     2x Transport Jeep             Honker 2000                    Respawn: 5m

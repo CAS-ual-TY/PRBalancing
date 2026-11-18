@@ -1,0 +1,68 @@
+======================================================================
+TALBISAH
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Syrian Rebels]  tickets: 700
+     2x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     8x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     2x Logistics Truck            Logistics Van                  Respawn: 5m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 10m | Respawn: 20m
+     2x Technical                  DShKM Technical                Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 10m | Respawn: 10m
+  [Syrian Arab Army]  tickets: 700
+     1x IFV                        BMP-1                          Respawn: 10m
+     3x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 5m | Respawn: 15m
+     4x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-55                           Respawn: 20m
+     1x Tank                       T-72AV                         Delay: 10m | Respawn: 20m
+     2x Transport Jeep             UAZ-469                        Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Syrian Rebels]  tickets: 700
+     3x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     6x Civilian Vehicle           Dirtbike                       Respawn: 5m
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 10m
+     2x Logistics Truck            Logistics Van                  Respawn: 10m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 5m | Respawn: 15m
+     2x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 10m | Respawn: 20m
+     1x Technical                  DShKM Technical                Respawn: 10m
+     2x Technical                  M2HB Technical                 Respawn: 10m
+     1x Technical                  Rocket Technical               Delay: 2m | Respawn: 10m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 15m
+  [Syrian Arab Army]  tickets: 700
+     1x APC                        BMP-2                          Delay: 5m | Respawn: 10m
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 10m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 5m | Respawn: 10m
+     5x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-62                           Delay: 10m | Respawn: 20m
+     2x Transport Jeep             UAZ-469                        Respawn: 10m
+
+--- AAS Large (128) ---
+  [Syrian Rebels]  tickets: 750
+     1x Car Bomb                   Armored Car Bomb               Delay: 10m | Respawn: 20m
+     1x Car Bomb                   Armored Suicide Dumpster Truck Delay: 20m | Respawn: 20m
+     4x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     1x IFV                        BMP-1                          Delay: 5m | Respawn: 15m
+     4x Logistics Truck            Logistics Van                  Respawn: 5m
+     1x Mobile AA                  Ural-4320 ZU-23-2              Respawn: never
+     1x Mobile AA                  Ural-4320 ZU-23-2              Delay: 10m | Respawn: 10m
+     4x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Tank                       T-55                           Delay: 10m | Respawn: 20m
+     1x Tank                       T-62                           Delay: 10m | Respawn: 20m
+     2x Technical                  DShKM Technical                Respawn: 5m
+     1x Technical                  SPG-9 Technical                Delay: 5m | Respawn: 10m
+  [Syrian Arab Army]  tickets: 750
+     1x APC                        BMP-1                          Delay: 5m | Respawn: 15m
+     1x Attack Helicopter          Mi-24D Hind-D                  Delay: 10m | Respawn: 20m
+     2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
+     1x Mobile AA                  ZSU-23-4 Shilka                Delay: 5m | Respawn: 15m
+     2x Support Truck              Ural-4320                      Respawn: 5m
+     1x Tank                       T-55                           Delay: 10m | Respawn: 20m
+     1x Tank                       T-62                           Delay: 10m | Respawn: 20m
+     1x Transport Helicopter       Mi-8T Hip-C                    Delay: 5m | Respawn: 10m
+     4x Transport Jeep             UAZ-469                        Respawn: 5m

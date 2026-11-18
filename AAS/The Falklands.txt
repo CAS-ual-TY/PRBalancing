@@ -1,0 +1,79 @@
+======================================================================
+THE FALKLANDS
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Argentine Armed Forces]  tickets: 600
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     3x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       Chinook CH-47C                 Respawn: 10m
+     8x Transport Helicopter       UH-1H Iroquois                 Respawn: 10m
+     4x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 600
+     2x Logistics Truck            MAN SV Logistics               Delay: 7m | Respawn: 7m
+     1x Recon Vehicle              FV101 Scorpion                 Delay: 30m | Respawn: 30m
+     1x Scout Helicopter           Gazelle AH.1                   Delay: 5m | Respawn: 5m
+     1x Ship                       SS Atlantic Conveyor           Respawn: never
+     1x Transport Helicopter       Wessex HU.5                    Respawn: 5m
+     1x Transport Helicopter       Wessex HU.5                    Delay: 5m | Respawn: 5m
+     2x Transport Jeep             Land Rover Support             Delay: 10m | Respawn: 10m
+
+--- AAS Alternative (32) ---
+  [Argentine Armed Forces]  tickets: 1000
+     1x Anti-Ship Jet              Mirage IIIEA AS                Delay: 20m | Respawn: 20m
+     1x Attack Jet                 A-1H Skyraider                 Delay: 7m | Respawn: 7m
+     2x Attack Jet                 A-4B Skyhawk                   Delay: 5m | Respawn: 5m
+     1x Attack Jet                 A-4C Skyhawk                   Delay: 7m | Respawn: 7m
+     1x Attack Jet                 IAI Dagger A CAS               Respawn: never
+     1x Fighter Jet                Mirage IIIEA                   Respawn: 5m
+     1x Fighter Jet                Mirage IIIEA                   Delay: 5m | Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Multirole Jet              A-4Q Skyhawk                   Delay: 10m | Respawn: 10m
+     2x Multirole Jet              IAI Dagger A                   Delay: 7m | Respawn: 7m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       Chinook CH-47C                 Respawn: 10m
+     4x Transport Helicopter       UH-1H Iroquois                 Respawn: 10m
+     4x Transport Helicopter       UH-1H Iroquois                 Delay: 10m | Respawn: 7m30s
+     1x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 1000
+     1x Attack Jet                 Harrier GR.3 CAS GPB           Delay: 15m | Respawn: 15m
+     1x Attack Jet                 Harrier GR.3 CAS LGB           Delay: 40m | Respawn: 40m
+     1x Attack Jet                 Harrier GR.3 CAS Rockets       Delay: 15m | Respawn: 15m
+     2x Attack Jet                 Sea Harrier FRS.1 CAS          Respawn: never
+     4x Fighter Jet                Sea Harrier FRS.1 ASF          Delay: 7m | Respawn: 7m
+     2x Logistics Truck            MAN SV Logistics               Delay: 7m | Respawn: 7m
+     1x Recon Vehicle              FV101 Scorpion                 Delay: 30m | Respawn: 30m
+     1x Scout Helicopter           Gazelle AH.1                   Delay: 10m | Respawn: 10m
+     1x Ship                       SS Atlantic Conveyor           Respawn: never
+     1x Transport Helicopter       Wessex HU.5                    Respawn: 7m
+     2x Transport Jeep             Land Rover Support             Delay: 10m | Respawn: 10m
+
+--- AAS Standard (64) ---
+  [Argentine Armed Forces]  tickets: 1000
+     1x Anti-Ship Jet              Mirage IIIEA AS                Delay: 20m | Respawn: 20m
+     1x Attack Jet                 A-1H Skyraider                 Delay: 7m | Respawn: 7m
+     2x Attack Jet                 A-4B Skyhawk                   Delay: 5m | Respawn: 5m
+     1x Attack Jet                 A-4C Skyhawk                   Delay: 7m | Respawn: 7m
+     1x Attack Jet                 IAI Dagger A CAS               Respawn: never
+     1x Fighter Jet                Mirage IIIEA                   Respawn: 5m
+     1x Fighter Jet                Mirage IIIEA                   Delay: 5m | Respawn: 5m
+     2x Logistics Truck            M35 Logistics                  Respawn: 5m
+     1x Multirole Jet              A-4Q Skyhawk                   Delay: 10m | Respawn: 10m
+     2x Multirole Jet              IAI Dagger A                   Delay: 7m | Respawn: 7m
+     2x Support Truck              M35 2.5 Ton                    Respawn: 5m
+     1x Transport Helicopter       Chinook CH-47C                 Respawn: 10m
+     1x Transport Helicopter       UH-1H Iroquois                 Respawn: 10m
+     1x Transport Helicopter       UH-1H Iroquois                 Delay: 10m | Respawn: 7m30s
+     1x Transport Jeep             Volkswagen Type 1              Respawn: 5m
+  [British Armed Forces]  tickets: 1000
+     1x Attack Jet                 Harrier GR.3 CAS GPB           Delay: 15m | Respawn: 15m
+     1x Attack Jet                 Harrier GR.3 CAS LGB           Delay: 40m | Respawn: 40m
+     1x Attack Jet                 Harrier GR.3 CAS Rockets       Delay: 15m | Respawn: 15m
+     2x Attack Jet                 Sea Harrier FRS.1 CAS          Respawn: never
+     4x Fighter Jet                Sea Harrier FRS.1 ASF          Delay: 7m | Respawn: 7m
+     2x Logistics Truck            MAN SV Logistics               Delay: 7m | Respawn: 7m
+     1x Recon Vehicle              FV101 Scorpion                 Delay: 30m | Respawn: 30m
+     1x Scout Helicopter           Gazelle AH.1                   Delay: 10m | Respawn: 10m
+     1x Ship                       SS Atlantic Conveyor           Respawn: never
+     1x Transport Helicopter       Wessex HU.5                    Respawn: 7m
+     2x Transport Jeep             Land Rover Support             Delay: 10m | Respawn: 10m

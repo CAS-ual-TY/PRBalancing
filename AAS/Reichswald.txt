@@ -1,0 +1,46 @@
+======================================================================
+REICHSWALD
+======================================================================
+
+--- AAS Infantry (16) ---
+  [Wehrmacht]  tickets: 700
+     2x APC                        SdKfz 251C                     Delay: 10m | Respawn: 20m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 750
+     2x APC                        M3A1 Halftrack                 Respawn: 10m
+     2x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     2x Transport Jeep             Willys MB-2 Support            Respawn: 5m
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 750
+     2x APC                        SdKfz 251C                     Delay: 10m | Respawn: 10m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 20m | Respawn: 20m
+  [United States Army]  tickets: 800
+     2x APC                        M3A1 Halftrack                 Respawn: 10m
+     1x Light Tank                 M10 tank destroyer             Delay: 10m | Respawn: 20m
+     2x Logistics Truck            GMC CCKW Logistics             Delay: 10m | Respawn: 5m
+     1x Recon Vehicle              M8 Greyhound                   Delay: 5m | Respawn: 20m
+     2x Support Truck              GMC CCKW                       Delay: 10m | Respawn: 5m
+     1x Tank                       M4A3 75mm                      Delay: 10m | Respawn: 20m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 850
+     2x APC                        SdKfz 251C                     Respawn: 5m
+     2x Logistics Truck            Opel Blitz Logistics           Respawn: 5m
+     1x Recon Vehicle              SdKfz 231                      Delay: 5m | Respawn: 10m
+     4x Support Truck              Opel Blitz                     Respawn: 5m
+     2x Tank                       Panzer IV Ausf. F2             Delay: 5m | Respawn: 20m
+     1x Transport Jeep             Kubelwagen                     Respawn: 5m
+  [United States Army]  tickets: 850
+     2x APC                        M3A1 Halftrack                 Respawn: 10m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     1x Recon Vehicle              M8 Greyhound                   Delay: 5m | Respawn: 10m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     2x Tank                       M4A3 75mm                      Delay: 5m | Respawn: 20m
+     1x Transport Jeep             Willys MB-2 Support            Respawn: 5m

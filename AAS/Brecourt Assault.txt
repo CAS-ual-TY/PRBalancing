@@ -1,0 +1,47 @@
+======================================================================
+BRECOURT ASSAULT
+======================================================================
+
+--- AAS Alternative (32) ---
+  [Wehrmacht]  tickets: 700
+     4x APC                        SdKfz 251C                     Delay: 5m | Respawn: 10m
+     1x Light Tank                 Panzer III Ausf. J             Delay: 10m | Respawn: 20m
+     2x Logistics Truck            Opel Blitz Logistics           Delay: 5m | Respawn: 5m
+     1x Recon Vehicle              SdKfz 231                      Delay: 5m | Respawn: 15m
+     4x Support Truck              Opel Blitz                     Delay: 5m | Respawn: 5m
+     1x Tank                       Panzer IV Ausf. D              Delay: 10m | Respawn: 20m
+     1x Tank                       Panzer IV Ausf. F2             Delay: 10m | Respawn: 20m
+     2x Transport Jeep             Kubelwagen                     Delay: 5m | Respawn: 5m
+  [United States Army]  tickets: 700
+     2x APC                        M3A1 Halftrack                 Delay: 5m | Respawn: 10m
+     2x Armed Jeep                 Willys MB-2                    Respawn: 200m
+     1x Armed Jeep                 Willys MB-2                    Delay: 5m | Respawn: 5m
+     1x Civilian Vehicle           Buick                          Respawn: 200m
+     1x Light Tank                 M10 tank destroyer             Delay: 20m | Respawn: 20m
+     1x Logistics Truck            GMC CCKW Logistics             Respawn: 200m
+     2x Logistics Truck            GMC CCKW Logistics             Delay: 5m | Respawn: 5m
+     1x Recon Vehicle              M8 Greyhound                   Delay: 5m | Respawn: 15m
+     1x Support Truck              GMC CCKW                       Respawn: 200m
+     4x Support Truck              GMC CCKW                       Delay: 5m | Respawn: 5m
+     1x Tank                       M4A3 75mm                      Respawn: 200m
+     1x Tank                       M4A3 75mm                      Delay: 20m | Respawn: 20m
+     2x Transport Jeep             Willys MB-2 Support            Delay: 5m | Respawn: 5m
+
+--- AAS Standard (64) ---
+  [Wehrmacht]  tickets: 700
+     2x APC                        SdKfz 251C                     Delay: 10m | Respawn: 10m
+     1x Civilian Vehicle           Buick                          Respawn: never
+     1x Logistics Truck            Opel Blitz Logistics           Delay: 10m | Respawn: 5m
+     1x Logistics Truck            Opel Blitz Logistics           Delay: 30m | Respawn: 5m
+     3x Support Truck              Opel Blitz                     Delay: 10m | Respawn: 5m
+     2x Transport Jeep             Kubelwagen                     Respawn: 5m
+     2x Transport Jeep             Kubelwagen                     Respawn: never
+     1x Transport Jeep             Kubelwagen                     Delay: 10m | Respawn: 5m
+  [United States Army]  tickets: 700
+     1x APC                        M3A1 Halftrack                 Respawn: 10m
+     1x Armed Jeep                 Willys MB-2                    Respawn: 5m
+     2x Logistics Truck            GMC CCKW Logistics             Respawn: 5m
+     4x Support Truck              GMC CCKW                       Respawn: 5m
+     1x Tank                       M4A3 75mm                      Respawn: 15m
+     1x Tank                       M4A3 75mm                      Respawn: 20m
+     3x Transport Jeep             Willys MB-2 Support            Respawn: 5m

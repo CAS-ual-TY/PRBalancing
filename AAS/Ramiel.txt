@@ -1,0 +1,22 @@
+======================================================================
+RAMIEL
+======================================================================
+
+--- AAS Standard (64) ---
+  [African Resistance Fighters]  tickets: 600
+     1x Civilian Vehicle           Civilian Car                   Respawn: 5m
+     1x Civilian Vehicle           Honda CB500                    Respawn: 5m
+     3x Logistics Technical        Logistics Technical            Respawn: 5m
+     1x Support Truck              Zastava 900AK Van              Respawn: 5m
+     1x Technical                  DShKM Technical                Respawn: 10m
+     1x Technical                  M2HB Technical                 Respawn: 10m
+     1x Technical                  SPG-9 Technical                Respawn: 10m
+  [United States Army]  tickets: 600
+     3x APC                        VAB VTT                        Delay: 20m | Respawn: never
+     5x Armed Jeep                 M1025 HMMWV                    Respawn: never
+     1x Light Attack Helicopter    AH-6 Littlebird Rockets        Respawn: 10m
+     2x Logistics Truck            M35 Logistics                  Delay: 5m | Respawn: 5m
+     1x Scout Helicopter           MH-6 Littlebird                Respawn: 5m
+     4x Support Truck              M35 2.5 Ton                    Respawn: never
+     1x Tank                       M48A1 Patton                   Delay: 20m | Respawn: never
+     1x Transport Helicopter       MH-60L Blackhawk               Respawn: 5m
