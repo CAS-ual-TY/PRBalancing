@@ -39,17 +39,17 @@ YAMALIA
   [Russian Armed Forces]  tickets: 600
      1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
      1x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
+     1x APC                        BTR-82AM                       Respawn: 10m 4x 82AM per team 2x should be 10 mins delayed 
      2x Logistics Truck            KamAZ-5350                     Respawn: 5m
-     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              BRDM-2                         Delay: 10m | Respawn: 15m Remove
      2x Support Truck              KamAZ-4350                     Respawn: 5m
      3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
      2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
   [Canadian Forces]  tickets: 600
      2x APC                        LAV-3                          Respawn: 10m
-     1x APC                        LAV-3                          Delay: 10m | Respawn: 10m
+     1x APC                        LAV-3                          Delay: 10m | Respawn: 10m 4x LAV-3 per team 2x should be 10 minutes delayed 
      2x Logistics Truck            MLVW Logistics                 Respawn: 5m
-     1x Recon Vehicle              Coyote Recon Vehicle           Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              Coyote Recon Vehicle           Delay: 10m | Respawn: 15m Remove 
      2x Support Truck              MLVW                           Respawn: 5m
      2x Transport Helicopter       CH-146 Griffon                 Respawn: 5m
      1x Transport Helicopter       CH-147F Chinook                Respawn: 5m
@@ -57,9 +57,9 @@ YAMALIA
 
 --- AAS Large (128) ---
   [Russian Armed Forces]  tickets: 600
-     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m
+     1x APC                        BMP-2                          Delay: 10m | Respawn: 10m Delete
      2x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m
+     1x APC                        BTR-82AM                       Delay: 10m | Respawn: 10m Add 2x BMP2Ms to counter the Dutch OP hat kit and armor difference between the CV9035NL long range thermal, the BMP 2M will be drawn more in to a CQB fight giving the CV90 the chance against ATGMS
      2x Logistics Truck            KamAZ-5350                     Respawn: 5m
      2x Support Truck              KamAZ-4350                     Respawn: 5m
      3x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
