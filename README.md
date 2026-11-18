@@ -7,6 +7,15 @@ The goal: Balance assets. Make maps great again.
 
 Proposed changes show up under Pull Requests at the top. In there, you can see Files Changed and thus see the proposed change.
 
+## Layer Rule
+
+Let us make layers great again, as well!
+
+- INF Layer: Lightest layer, least assets or no assets (ideally)
+- ALT Layer: "Alternative" layer to STD, a re-interpretation
+- STD Layer: The base layer of the map
+- LRG Layer: Heaviest layer, most assets
+
 ## How to
 - Select your map
 - Click the edit button (see 1st image)
