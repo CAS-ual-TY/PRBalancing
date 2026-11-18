@@ -21,10 +21,10 @@ ASCHEBERG
      1x APC                        BMP-2                          Delay: 10m | Respawn: 15m
      1x APC                        BTR-80                         Delay: 5m | Respawn: 10m
      2x Armed Jeep                 GAZ Tigr                       Respawn: 5m
-     1x Attack Helicopter          Mi-24P Hind-F                  Delay: 15m | Respawn: 20m
+     1x Attack Helicopter          Mi-24P Hind-F                  Delay: 15m | Respawn: 20m Change with ATGM version
      1x IFV                        BMP-2M                         Delay: 10m | Respawn: 15m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
-     1x Mobile AA                  9K35 Gopher                    Delay: 5m | Respawn: 10m
+     1x Mobile AA                  9K35 Gopher                    Delay: 5m | Respawn: 10m change to shilka
      3x Support Truck              KamAZ-4350                     Respawn: 5m
      2x Tank                       T-72B1                         Delay: 10m | Respawn: 20m
      2x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
@@ -37,7 +37,7 @@ ASCHEBERG
      1x Mobile AA                  ZSU-23-4 Shilka                Delay: 5m | Respawn: 10m
      1x Recon Vehicle              BRDM-2-M97 Zbik                Respawn: 10m
      3x Support Truck              Star 944 Support               Respawn: 5m
-     2x Tank                       Leopard 2A4                    Delay: 10m | Respawn: 20m
+     2x Tank                       Leopard 2A4                    Delay: 10m | Respawn: 20m Change to T72M
      2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
 
 --- AAS Standard (64) ---
@@ -72,17 +72,17 @@ ASCHEBERG
      1x Mobile AA                  9K35 Gopher                    Delay: 5m | Respawn: 15m
      2x Multirole Jet              MiG-29S Fulcrum                Delay: 15m | Respawn: 20m
      4x Support Truck              KamAZ-4350                     Respawn: 5m
-     1x Tank                       T-72B1                         Delay: 10m | Respawn: 20m
+     1x Tank                       T-72B1                         Delay: 10m | Respawn: 20m CHANGE TO T90
      1x Tank                       T-90A                          Delay: 10m | Respawn: 20m
      2x Transport Helicopter       Mi-8 AMTSh                     Respawn: 5m
      2x Transport Jeep             GAZ Tigr Support               Respawn: 5m
   [British Armed Forces]  tickets: 800
-     1x APC                        FV 510 Warrior                 Delay: 10m | Respawn: 15m
+     1x APC                        FV 510 Warrior                 Delay: 10m | Respawn: 15mChange to 2x warrior
      2x Armed Jeep                 Panther CLV                    Respawn: 10m
      2x Logistics Truck            MAN SV Logistics               Respawn: 5m
      1x Mobile AA                  Stormer HVM                    Delay: 5m | Respawn: 15m
      2x Multirole Jet              Eurofighter Typhoon            Delay: 15m | Respawn: 20m
-     1x Recon Vehicle              FV 107 Scimitar                Delay: 10m | Respawn: 15m
+     1x Recon Vehicle              FV 107 Scimitar                Delay: 10m | Respawn: 15m Remove
      4x Support Truck              MAN Support Vehicle            Respawn: 5m
      2x Tank                       FV4034 Challenger 2            Delay: 10m | Respawn: 20m
      2x Transport Helicopter       Merlin HC3                     Respawn: 5m
