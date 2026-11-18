@@ -24,13 +24,27 @@ ZAKHO - BETA
      2x Logistics APC              MTP-LB                         Respawn: 10m
      2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
      1x Recon Vehicle              BRDM-2                         Respawn: 10m
-     1x Recon Vehicle              FV101 Scorpion                 Respawn: 10m
+     1x Recon Vehicle              FV101 Scorpion                 Respawn: 10m Remove scorpion 
      3x Support Truck              Ural-4320                      Respawn: 5m
+                                                             ADD ONE MI 17 COW 
   [Dutch Armed Forces]  tickets: 700
      1x APC                        Boxer PWV                      Respawn: 10m
-     1x Armed Jeep                 Bushmaster PMV CROWS           Respawn: 10m
+     1x Armed Jeep                 Bushmaster PMV CROWS           Respawn: 10m Remove bushmaster 
      1x Armed Jeep                 Fennek VWWRN                   Respawn: 10m
      1x Logistics Truck            DAF YA-4442 Logistics          Respawn: 5m
      1x Transport Helicopter       CH-47D Chinook                 Respawn: 10m
-     1x Transport Helicopter       CH-47D Chinook                 Delay: 15m | Respawn: 15m
+     1x Transport Helicopter       CH-47D Chinook                 Delay: 15m | Respawn: 15m REMOVE CHENOOK LEAVE 1 
      2x Transport Jeep             Mercedes-Benz G280             Respawn: 5m
+
+ADD LARGE LAYOUT
+700 TICKETS PER TEAM
+MEC v China 
+1 transport helicopter per team
+BTR 82A 3X v CHINESE WHEELED APC 3X
+And 1x BMP2M v 1x Chinese donkey tank
+3X LOGI PER TEAM
+3X TRANS TRUCK
+2X .50cal Jeep per team
+
+
+Again as anymap that is one sided with trans heli, in this case a chenook which is op with Mec having no transport elements to ambush the dutch forces
