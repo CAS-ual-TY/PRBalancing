@@ -4,14 +4,12 @@ SAAREMAA
 
 --- AAS Infantry (16) ---
   [Russian Armed Forces]  tickets: 600
-     1x APC                        BTR-80                         Respawn: 10m
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      1x Support Truck              KamAZ-4350                     Respawn: 5m
      4x Support Truck              KamAZ-4350                     Respawn: never
      2x Transport Helicopter       KA-29                          Respawn: 5m
   [USMC]  tickets: 600
-     1x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            M35 Logistics                  Respawn: 5m
      1x Support Truck              M35 2.5 Ton                    Respawn: 5m
@@ -21,8 +19,8 @@ SAAREMAA
 
 --- AAS Alternative (32) ---
   [Russian Armed Forces]  tickets: 650
-     3x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
+     2x APC                        BTR-80                         Respawn: 10m
+     2x APC                        BTR-82AM                       Respawn: 10m
      2x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
@@ -40,8 +38,8 @@ SAAREMAA
 
 --- AAS Standard (64) ---
   [Russian Armed Forces]  tickets: 650
-     3x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
+     2x APC                        BTR-80                         Respawn: 10m
+     2x APC                        BTR-82AM                       Respawn: 10m
      1x Attack Helicopter          Mi-28N Havoc                   Delay: 20m | Respawn: 20m
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
@@ -60,19 +58,20 @@ SAAREMAA
 --- AAS Large (128) ---
   [Russian Armed Forces]  tickets: 650
      2x APC                        BTR-80                         Respawn: 10m
-     1x APC                        BTR-82AM                       Respawn: 10m
+     2x APC                        BTR-82AM                       Respawn: 10m
      1x Armed Jeep                 GAZ Tigr                       Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      1x Support Truck              KamAZ-4350                     Respawn: 5m
-     1x Tank                       T-90A                          Delay: 20m | Respawn: 20m
+     2x Tank                       T-90A                          Delay: 20m | Respawn: 20m
      2x Transport Helicopter       KA-29                          Respawn: 5m
   [USMC]  tickets: 650
-     3x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
+     2x APC                        AAVP7A1 RAM/RS                 Respawn: 10m
+     2x APC                        LAV-25                         Respawn: 10m
      1x Armed Jeep                 M1151 Up-Armored HMMWV         Respawn: 7m30s
      2x Boat                       RHIB                           Respawn: 2m
      3x Logistics Truck            M35 Logistics                  Respawn: 5m
      1x Support Truck              M35 2.5 Ton                    Respawn: 5m
-     1x Tank                       M1A1 Abrams                    Delay: 20m | Respawn: 20m
+     2x Tank                       M1A1 Abrams                    Delay: 20m | Respawn: 20m
      1x Transport Helicopter       MV-22 Osprey                   Respawn: 10m
      2x Transport Helicopter       UH-1N Twin Huey                Respawn: 5m
