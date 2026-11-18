@@ -14,17 +14,17 @@ KOZELSK
      2x Technical                  DShKM Technical                Respawn: 10m
   [Russian Armed Forces]  tickets: 600
      2x APC                        MT-LBVMK                       Respawn: 10m
-     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m CHANGE WITH UAZ
      1x Boat                       RHIB                           Respawn: 5m
      1x Logistics APC              MTP-LB                         Respawn: 5m
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      2x Recon Vehicle              BRDM-2                         Respawn: 10m
      2x Support Truck              KamAZ-4350                     Respawn: 5m
-     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m REMOVE FROM MAP HAS A NEGATIVE IMPACT ON BALANCE, RUSSIANS MAKE FOB ON EVERY CORNER OF THE MAP
 
 --- AAS Alternative (32) ---
   [Militia]  tickets: 600
-     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 15m
+     1x Armed Jeep                 UAZ-3151 SPG-9                 Respawn: 15m REMOVE 
      1x ATGM Vehicle               9P148 Spandrel                 Delay: 20m | Respawn: 20m
      2x Civilian Vehicle           Dirtbike                       Respawn: 5m
      1x IFV                        BMP-1                          Respawn: 15m
@@ -33,17 +33,17 @@ KOZELSK
      1x Support Technical          Support Technical              Respawn: 5m
      1x Support Truck              Ural-4320                      Respawn: 5m
      1x Support Truck              Zastava 900AK Van              Respawn: 5m
-     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m CHANGE WITH T 72
      2x Technical                  DShKM Technical                Respawn: 10m
   [Russian Armed Forces]  tickets: 600
      1x APC                        BTR-80                         Respawn: 10m
      1x APC                        MT-LBVMK                       Respawn: 10m
-     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
-     1x IFV                        BMP-3                          Delay: 15m | Respawn: 15m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m CHANGE WITH UAZ
+     1x IFV                        BMP-3                          Delay: 15m | Respawn: 15m CHANGE WITH BMP2 WITH ATGM
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      2x Support Truck              KamAZ-4350                     Respawn: 5m
      1x Tank                       T-72B1                         Respawn: 20m
-     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m  REMOVE FROM MAP HAS A NEGATIVE IMPACT ON BALANCE, RUSSIANS MAKE FOB ON EVERY CORNER OF THE MAP
 
 --- AAS Standard (64) ---
   [Militia]  tickets: 600
@@ -56,16 +56,18 @@ KOZELSK
      1x Support Technical          Support Technical              Respawn: 5m
      1x Support Truck              Ural-4320                      Respawn: 5m
      1x Support Truck              Zastava 900AK Van              Respawn: 5m
-     1x Tank                       T-55                           Delay: 20m | Respawn: 20m
+     1x Tank                       T-55                           Delay: 20m | Respawn: 20m CHANGE WITH T72
      2x Technical                  DShKM Technical                Respawn: 10m
   [Russian Armed Forces]  tickets: 600
      1x APC                        BTR-80                         Respawn: 10m
      1x APC                        MT-LBVMK                       Respawn: 10m
-     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m
-     1x Boat                       RHIB                           Respawn: 5m
+     1x Armed Jeep                 GAZ Tigr                       Respawn: 10m CHANGE WITH UAZ TO BE PERIOD CORRECT 
+     1x Boat                       RHIB                           Respawn: 5m REMOVE OR ADD BOAT TO CHECHENS 
      1x IFV                        BMP-3                          Delay: 15m | Respawn: 15m
-     1x Logistics APC              MTP-LB                         Respawn: 5m
+     1x Logistics APC              MTP-LB                         Respawn: 5m CHANGE WITH LOGI TRUCK 
      3x Logistics Truck            KamAZ-5350                     Respawn: 5m
      2x Support Truck              KamAZ-4350                     Respawn: 5m
      1x Tank                       T-72B1                         Respawn: 20m
-     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m
+     1x Transport Helicopter       Mi-8 AMTSh                     Respawn: 10m  REMOVE FROM MAP HAS A NEGATIVE IMPACT ON BALANCE, RUSSIANS MAKE FOB ON EVERY CORNER OF THE MAP
+
+The whole map needs to be overhauled flag and spawn vise. The invasion layout is unnecessary and hard to play cause the map is choke point, terrain and forest heavy. The map requires 5 flags, first flag capped for both teams and both teams should have a temporary spawn point between the each teams first and second flag with one non respawn logi in order to play real AAS. 5 FLAG MINIMUM 
