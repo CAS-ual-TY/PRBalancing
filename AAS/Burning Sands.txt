@@ -36,8 +36,8 @@ BURNING SANDS
 
 --- AAS Standard (64) ---
   [Middle Eastern Coalition]  tickets: 750
-     1x APC                        BMP-2                          Respawn: 10m
-     1x APC                        BTR-60PB                       Respawn: 10m
+     1x APC                        BMP-2                          Respawn: 10m 
+     1x APC                        BTR-60PB                       Respawn: 10m CHANGE WITH BTR 80
      2x Armed Jeep                 AMZ DZIK-3                     Respawn: 10m
      1x Armed Jeep                 AMZ DZIK-3                     Delay: 10m | Respawn: 10m
      1x Armed Jeep                 UAZ-3151                       Respawn: 10m
@@ -52,7 +52,7 @@ BURNING SANDS
      1x Armed Jeep                 Land Rover                     Respawn: 10m
      1x Armed Jeep                 Land Rover                     Delay: 10m | Respawn: 10m
      1x Armed Jeep                 Land Rover GMG                 Delay: 10m | Respawn: 10m
-     1x Armed Jeep                 Panther CLV                    Respawn: 10m
+     1x Armed Jeep                 Panther CLV                    Respawn: 10m Remove there is to much thermal assets to abuse MEC 
      1x Attack Helicopter          Apache AH1                     Delay: 20m | Respawn: 20m
      2x Logistics Truck            MAN SV Logistics               Respawn: 5m
      1x Mobile AA                  Stormer HVM                    Delay: 20m | Respawn: 20m
@@ -63,7 +63,7 @@ BURNING SANDS
 
 --- AAS Large (128) ---
   [Middle Eastern Coalition]  tickets: 750
-     2x APC                        BMP-2                          Respawn: 10m
+     2x APC                        BMP-2                          Respawn: 10m change with BMP2Ms
      3x APC                        MT-LB                          Respawn: 10m
      2x Logistics Truck            Ural-4320 Logistics            Respawn: 5m
      2x Multirole Jet              MiG-29 Fulcrum                 Delay: 20m | Respawn: 20m
@@ -72,7 +72,7 @@ BURNING SANDS
      2x Tank                       T-72S1                         Delay: 20m | Respawn: 20m
      2x Transport Helicopter       Mi-17 Hip-H                    Respawn: 5m
   [German Forces]  tickets: 750
-     2x APC                        Puma                           Respawn: 10m
+     2x APC                        Puma                           Respawn: 10m Change to IFV Puma 
      3x APC                        TPz Fuchs 1A8                  Respawn: 10m
      2x Logistics Truck            MAN SV Logistics               Respawn: 5m
      2x Multirole Jet              Eurofighter Typhoon            Delay: 20m | Respawn: 20m
@@ -80,3 +80,5 @@ BURNING SANDS
      2x Tank                       Leopard 2A6                    Delay: 20m | Respawn: 20m
      1x Transport Helicopter       Bell UH-1D                     Respawn: 5m
      2x Transport Helicopter       NH90 TTH                       Respawn: 5m
+
+This layout needs AAVs  to balance the jet rape fest in the open desert and the view distance should be lowered on this layout to combat the overpowering jets
